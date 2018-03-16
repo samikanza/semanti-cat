@@ -1,0 +1,44 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Arylation of aminobromothienopyrimidine (AT-11-2)
+14th March 2013 @ 03:14
+
+
+Repeat of the Suzuki coupling between AT-6 and arylboronic ester, using conditions from JRC50-2, with a modified solvent system of 1,4-dioxane/water (10:1).
+
+
+ 
+ 
+ 
+To a degassed solution of 1,4-dioxane/water (10:1, 1 mL) was added AT-6 (0.020 g, 0.087 mmol, 1.0 equiv.), 3-sulfamoylphenyl boronic acid pinacol ester (0.027 g, 0.097 mmol, 1.2 equiv.) and potassium acetate (0.034 g, 0.35 mmol, 4.0 equiv.). The reaction mixture was degassed for a further 5 minutes and PdCl2dppf (0.013 g, 0.017 mmol, 0.2 equiv.) was added and the reaction mixture stirred at reflux overnight. 
+
+
+HIRAC
+
+
+
+
+AT-11-2.pdf
+Attached Files
+
+
+AT-11-2.pdf
+AT-11-2.jpg
+Althea Tsang | Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/2b1
+
+
+Key:8f95954b656fbd20cade5759b629be56
+
+
+Last Updated:16th March 2013 @ 05:34
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:04. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/6966/Arylation_of_aminobromothienopyrimidine_AT112.html
+Powered by labtrove 2.4 © University of Southampton

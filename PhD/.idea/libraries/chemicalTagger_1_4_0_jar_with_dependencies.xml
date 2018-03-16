@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="chemicalTagger-1.4.0-jar-with-dependencies">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/JavaLibraries/chemicalTagger-1.4.0-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

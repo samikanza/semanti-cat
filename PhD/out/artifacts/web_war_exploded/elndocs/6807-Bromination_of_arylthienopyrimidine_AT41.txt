@@ -1,0 +1,97 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Bromination of arylthienopyrimidine (AT-4-1)
+26th February 2013 @ 23:48
+
+
+Bromination of arylthienopyrimidine (AT-2), according to standard bromination conditions. 
+
+
+ 
+To AT-2 (0.100 g, 0.47 mmol, 1.0 equiv.) in THF (10 mL) at -78 C was added n-BuLi (2.5 M in hexanes, 0.208 mL, 0.52 mmol, 1.1. equiv.) dropwise with stirring. The reaction mixture was stirred at -78 C for 30 minutes, after which bromine (0.302 g, 0.097 mL, 1.89 mmol, 4.0 equiv.) was added dropwise. The reaction was warmed to rt, stirred, with monitoring by TLC.  
+Accidental addition of excess (approx. 2 equiv.) n-BuLi. As a result, the reaction mixture was only stirred for 5 minutes before the addition of bromine. 
+The reaction was judged to be complete (complete disappearance of starting material) after 15 minutes; the reaction mixture was quenced with an aqueous solution of sodium thiosulfate (10 mL) and diluted with ethyl acetate (10 mL). The aqueous phase was extracted into ethyl acetate (2 x 10 mL). The combined organic phases were washed with water (20 mL), brine (20mL), dried (MgSO4) and concentrated under reduced pressure. 
+Analysis of the crude reaction mixture by TLC showed the presence of four new compounds. Purification by flash column chromatography (7:1 hexanes:ethyl acetate) gave (in order of increasing polarity):
+Fraction 1: 0.057 g, insoluble (after evaporation of eluting solvent) yellow solid
+
+
+Fraction 2: 0.011 g, unidentified yellow oil, 1H NMR showed the presence of butyl groups
+
+
+Fraction 3: 0.030 g, dibrominated substrate AT-4b (17%)
+
+
+Fraction 4: 0.078 g, monobrominated substrate AT-4a (57%) 
+ 
+HIRAC
+
+
+
+
+AT-4-1.pdf
+ 
+NMR
+
+
+
+
+AT-4-1 fraction 3.pdf
+ 1H NMR spectrum of AT-4b
+
+
+
+
+aT-4b-13C.pdf
+13C NMR spectrum of AT-4b
+
+
+
+
+AT-4-1 fraction 4.pdf
+ 1H NMR spectrum of AT-4a
+
+
+
+
+AT-4a-13C.pdf
+ 13C NMR spectrum of AT-4a
+
+
+
+
+AT-4-1-comparison.pdf
+ Stacked 1H NMR spectra of AT-2 (bottom), AT-4b (middle) and AT-4a (top)
+
+
+Linked Entries
+This entry is linked by:
+* Preparation of OSM-S-119
+* Preparation of OSM-S-120
+Attached Files
+
+
+AT-4-1.pdf
+AT-4-1.jpg
+AT-4-1-comparison.pdf
+AT-4-1 fraction 4.pdf
+AT-4-1 fraction 3.pdf
+aT-4b-13C.pdf
+AT-4a-13C.pdf
+Althea Tsang | Completed Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/28c
+
+
+Key:a8734bdaabb466065a22f69799099841
+
+
+Last Updated:10th May 2013 @ 02:59
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:05. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/6807/Bromination_of_arylthienopyrimidine_AT41.html
+Powered by labtrove 2.4 © University of Southampton

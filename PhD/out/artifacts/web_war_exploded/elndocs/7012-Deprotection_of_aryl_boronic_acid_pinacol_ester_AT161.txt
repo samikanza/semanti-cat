@@ -1,0 +1,42 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Deprotection of aryl boronic acid pinacol ester (AT-16-1)
+17th March 2013 @ 03:24
+
+
+From J. Org. Chem. 2011, 76, 3571 - 3575.
+Hydrolysis of pinacol boronate ester to the corresponding boronic acid, using diethanolamine and hydrochloric acid. 
+
+
+To 4-sulfamoylphenyl boronic acid pinacol ester (0.050 g, 0.18 mmol, 1.0 equiv.) in ether (1 mL) was added diethanolamine (0.019 mL, 0.20 mmol, 1.1 equiv.) and the reaction mixture stirred at rt until starting material was consumed. The resultant white precipitate was filtered, washed with ether and dried. 
+The precipitate was suspended in ether (1 mL) and an aqueous solution of hydrochloric acid (0.1 M, 2 mL) was added and the reaction mixture stirred at room temperature for 20 minutes. The reaction mixture was extracted into ethyl acetate (3 x 10 mL), the combined organic extracts washed with water (10 mL), dried (MgSO4) and concentrated under reduced pressure to give the boronic acid. 
+ 
+HIRAC
+
+
+
+
+AT-16-1.pdf
+Attached Files
+
+
+AT-16-1.pdf
+AT-16-1.jpg
+Althea Tsang | Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/2bc
+
+
+Key:7cf0b9b38b4cc2b9f58a65e75a8fe07e
+
+
+Last Updated:3rd April 2013 @ 08:16
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:05. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/7012/Deprotection_of_aryl_boronic_acid_pinacol_ester_AT161.html
+Powered by labtrove 2.4 © University of Southampton

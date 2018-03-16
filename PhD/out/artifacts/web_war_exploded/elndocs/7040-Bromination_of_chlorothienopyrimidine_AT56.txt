@@ -1,0 +1,47 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Bromination of chlorothienopyrimidine (AT-5-6)
+25th March 2013 @ 05:50
+
+
+Performed concurrently with AT-5-5.
+
+
+ 
+To AT-5 (2.10 g, 12.3 mmol, 1.0 equiv.) in THF (120 mL) at -78 C was added n-BuLi (7.38 mL, 18.5 mmol, 1.5 equiv.) dropwise and the reaction mixture stirred at -78 C for 30 minutes. Bromine (1.26 mL, 24.6 mmol, 2.0 equiv.) was added dropwise and the reaction mixture warmed to rt and stirred for 1 h. 
+The reaction mixture was diluted with an aqueous solution of sodium thiosulfate (150 mL) and extracted into ethyl acetate (3 x 100 mL). The combined organic extracts were dried (MgSO4), concentrated under reduced pressure and the residue purified by flash column chromatography (7:1 hexanes:ethyl acetate) to give starting material AT-1 (0.115 g, 5%) and product AT-5 (1.86 g, 64% based on RSM).
+ 
+HIRAC
+
+
+
+
+AT-5-1.pdf
+
+
+Linked Entries
+This entry is linked by:
+* Synthesis of 6-Bromo-4-chlorothieno[3,2-d]pyrimidine (AEW 99-1)
+Attached Files
+
+
+AT-5-1.pdf
+AT-5-6.jpg
+Althea Tsang | Completed Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/2c4
+
+
+Key:651307011cc74abe579d22b440d9aab9
+
+
+Last Updated:26th March 2013 @ 21:21
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:05. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/7040/Bromination_of_chlorothienopyrimidine_AT56.html
+Powered by labtrove 2.4 © University of Southampton

@@ -1,0 +1,53 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Arylation of aminobromothienopyrimidine (AT-11-4)
+23rd April 2013 @ 04:54
+
+
+Scale up for more material.
+
+
+ 
+To a degassed solution of isopropanol (10 mL) and potassium carbonate (1 M, 0.870 mL, 0.870 mmol, 2.0 equiv.) was added AT-6 (0.100 g, 0.43 mmol, 1.0 equiv.), 3-sulfamoylphenyl boronic acid pinacol ester (0.148 mg, 0.52 mmol, 1.2 equiv.) and PdCl2dppf (0.064 g, 0.087 mmol, 0.2 equiv.) and the reaction mixture heated to 90 C in a microwave reactor (200 W) and stirred for 1 h.
+Reaction incomplete after 1 h. Heated to 90 C under the same conditions again. 
+Reaction mixture diluted with methanol (50 mL), filtered through Celite and concentrated under reduced pressure. The residue was purified by flash column chromatography (90:9:1 dichloromethane:methanol:ammonia) to give the product as a brown solid (0.077 g, 50%).
+ 
+NMR
+
+
+
+
+AT-11-4-1H-DMSOMeOD.pdf
+1H NMR in MeOD/DMSO-d6.
+ 
+HIRAC
+
+
+
+
+AT-Suzuki.pdf
+ 
+Attached Files
+
+
+AT-Suzuki.pdf
+AT-11-4.jpg
+AT-11-4-1H-DMSOMeOD.pdf
+Althea Tsang | Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/373
+
+
+Key:e5c62a960047f0b9bcf55738e2893330
+
+
+Last Updated:10th May 2013 @ 05:46
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:04. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/7369/Arylation_of_aminobromothienopyrimidine_AT114.html
+Powered by labtrove 2.4 © University of Southampton

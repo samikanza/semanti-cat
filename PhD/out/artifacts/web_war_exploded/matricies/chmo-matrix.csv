@@ -1,0 +1,381 @@
+term1,term2,count
+risk assessment,distillation,0
+risk assessment,chromatography,2
+risk assessment,extraction,1
+risk assessment,spectrum,0
+risk assessment,evaporation,0
+risk assessment,matrix,1
+risk assessment,purification,1
+risk assessment,stirring,2
+risk assessment,column chromatography,2
+risk assessment,function,0
+risk assessment,crystallisation,0
+risk assessment,solubility,0
+risk assessment,recrystallisation,0
+risk assessment,mixture,2
+risk assessment,spectroscopy,0
+risk assessment,flash chromatography,0
+risk assessment,chromatograph,2
+risk assessment,concentration,0
+risk assessment,washing,0
+distillation,risk assessment,0
+distillation,chromatography,0
+distillation,extraction,0
+distillation,spectrum,0
+distillation,evaporation,0
+distillation,matrix,0
+distillation,purification,0
+distillation,stirring,0
+distillation,column chromatography,0
+distillation,function,0
+distillation,crystallisation,0
+distillation,solubility,0
+distillation,recrystallisation,0
+distillation,mixture,1
+distillation,spectroscopy,0
+distillation,flash chromatography,0
+distillation,chromatograph,0
+distillation,concentration,0
+distillation,washing,0
+chromatography,risk assessment,2
+chromatography,distillation,0
+chromatography,extraction,1
+chromatography,spectrum,9
+chromatography,evaporation,1
+chromatography,matrix,0
+chromatography,purification,3
+chromatography,stirring,5
+chromatography,column chromatography,38
+chromatography,function,1
+chromatography,crystallisation,0
+chromatography,solubility,3
+chromatography,recrystallisation,0
+chromatography,mixture,38
+chromatography,spectroscopy,1
+chromatography,flash chromatography,1
+chromatography,chromatograph,39
+chromatography,concentration,1
+chromatography,washing,1
+extraction,risk assessment,1
+extraction,distillation,0
+extraction,chromatography,1
+extraction,spectrum,0
+extraction,evaporation,0
+extraction,matrix,0
+extraction,purification,1
+extraction,stirring,1
+extraction,column chromatography,1
+extraction,function,0
+extraction,crystallisation,0
+extraction,solubility,0
+extraction,recrystallisation,0
+extraction,mixture,1
+extraction,spectroscopy,0
+extraction,flash chromatography,0
+extraction,chromatograph,1
+extraction,concentration,0
+extraction,washing,0
+spectrum,risk assessment,0
+spectrum,distillation,0
+spectrum,chromatography,9
+spectrum,extraction,0
+spectrum,evaporation,1
+spectrum,matrix,0
+spectrum,purification,1
+spectrum,stirring,2
+spectrum,column chromatography,9
+spectrum,function,0
+spectrum,crystallisation,0
+spectrum,solubility,0
+spectrum,recrystallisation,0
+spectrum,mixture,10
+spectrum,spectroscopy,0
+spectrum,flash chromatography,0
+spectrum,chromatograph,9
+spectrum,concentration,1
+spectrum,washing,0
+evaporation,risk assessment,0
+evaporation,distillation,0
+evaporation,chromatography,1
+evaporation,extraction,0
+evaporation,spectrum,1
+evaporation,matrix,0
+evaporation,purification,1
+evaporation,stirring,1
+evaporation,column chromatography,1
+evaporation,function,0
+evaporation,crystallisation,0
+evaporation,solubility,0
+evaporation,recrystallisation,0
+evaporation,mixture,1
+evaporation,spectroscopy,0
+evaporation,flash chromatography,0
+evaporation,chromatograph,1
+evaporation,concentration,0
+evaporation,washing,0
+matrix,risk assessment,1
+matrix,distillation,0
+matrix,chromatography,0
+matrix,extraction,0
+matrix,spectrum,0
+matrix,evaporation,0
+matrix,purification,0
+matrix,stirring,0
+matrix,column chromatography,0
+matrix,function,0
+matrix,crystallisation,0
+matrix,solubility,0
+matrix,recrystallisation,0
+matrix,mixture,0
+matrix,spectroscopy,0
+matrix,flash chromatography,0
+matrix,chromatograph,0
+matrix,concentration,0
+matrix,washing,0
+purification,risk assessment,1
+purification,distillation,0
+purification,chromatography,3
+purification,extraction,1
+purification,spectrum,1
+purification,evaporation,1
+purification,matrix,0
+purification,stirring,4
+purification,column chromatography,3
+purification,function,0
+purification,crystallisation,1
+purification,solubility,1
+purification,recrystallisation,1
+purification,mixture,7
+purification,spectroscopy,0
+purification,flash chromatography,0
+purification,chromatograph,3
+purification,concentration,0
+purification,washing,0
+stirring,risk assessment,2
+stirring,distillation,0
+stirring,chromatography,5
+stirring,extraction,1
+stirring,spectrum,2
+stirring,evaporation,1
+stirring,matrix,0
+stirring,purification,4
+stirring,column chromatography,5
+stirring,function,1
+stirring,crystallisation,1
+stirring,solubility,1
+stirring,recrystallisation,1
+stirring,mixture,15
+stirring,spectroscopy,0
+stirring,flash chromatography,0
+stirring,chromatograph,5
+stirring,concentration,0
+stirring,washing,0
+column chromatography,risk assessment,2
+column chromatography,distillation,0
+column chromatography,chromatography,38
+column chromatography,extraction,1
+column chromatography,spectrum,9
+column chromatography,evaporation,1
+column chromatography,matrix,0
+column chromatography,purification,3
+column chromatography,stirring,5
+column chromatography,function,1
+column chromatography,crystallisation,0
+column chromatography,solubility,3
+column chromatography,recrystallisation,0
+column chromatography,mixture,37
+column chromatography,spectroscopy,1
+column chromatography,flash chromatography,0
+column chromatography,chromatograph,38
+column chromatography,concentration,1
+column chromatography,washing,1
+function,risk assessment,0
+function,distillation,0
+function,chromatography,1
+function,extraction,0
+function,spectrum,0
+function,evaporation,0
+function,matrix,0
+function,purification,0
+function,stirring,1
+function,column chromatography,1
+function,crystallisation,0
+function,solubility,0
+function,recrystallisation,0
+function,mixture,1
+function,spectroscopy,0
+function,flash chromatography,0
+function,chromatograph,1
+function,concentration,0
+function,washing,0
+crystallisation,risk assessment,0
+crystallisation,distillation,0
+crystallisation,chromatography,0
+crystallisation,extraction,0
+crystallisation,spectrum,0
+crystallisation,evaporation,0
+crystallisation,matrix,0
+crystallisation,purification,1
+crystallisation,stirring,1
+crystallisation,column chromatography,0
+crystallisation,function,0
+crystallisation,solubility,0
+crystallisation,recrystallisation,1
+crystallisation,mixture,1
+crystallisation,spectroscopy,0
+crystallisation,flash chromatography,0
+crystallisation,chromatograph,0
+crystallisation,concentration,0
+crystallisation,washing,0
+solubility,risk assessment,0
+solubility,distillation,0
+solubility,chromatography,3
+solubility,extraction,0
+solubility,spectrum,0
+solubility,evaporation,0
+solubility,matrix,0
+solubility,purification,1
+solubility,stirring,1
+solubility,column chromatography,3
+solubility,function,0
+solubility,crystallisation,0
+solubility,recrystallisation,0
+solubility,mixture,5
+solubility,spectroscopy,0
+solubility,flash chromatography,0
+solubility,chromatograph,3
+solubility,concentration,0
+solubility,washing,0
+recrystallisation,risk assessment,0
+recrystallisation,distillation,0
+recrystallisation,chromatography,0
+recrystallisation,extraction,0
+recrystallisation,spectrum,0
+recrystallisation,evaporation,0
+recrystallisation,matrix,0
+recrystallisation,purification,1
+recrystallisation,stirring,1
+recrystallisation,column chromatography,0
+recrystallisation,function,0
+recrystallisation,crystallisation,1
+recrystallisation,solubility,0
+recrystallisation,mixture,1
+recrystallisation,spectroscopy,0
+recrystallisation,flash chromatography,0
+recrystallisation,chromatograph,0
+recrystallisation,concentration,0
+recrystallisation,washing,0
+mixture,risk assessment,2
+mixture,distillation,1
+mixture,chromatography,38
+mixture,extraction,1
+mixture,spectrum,10
+mixture,evaporation,1
+mixture,matrix,0
+mixture,purification,7
+mixture,stirring,15
+mixture,column chromatography,37
+mixture,function,1
+mixture,crystallisation,1
+mixture,solubility,5
+mixture,recrystallisation,1
+mixture,spectroscopy,1
+mixture,flash chromatography,1
+mixture,chromatograph,38
+mixture,concentration,1
+mixture,washing,2
+spectroscopy,risk assessment,0
+spectroscopy,distillation,0
+spectroscopy,chromatography,1
+spectroscopy,extraction,0
+spectroscopy,spectrum,0
+spectroscopy,evaporation,0
+spectroscopy,matrix,0
+spectroscopy,purification,0
+spectroscopy,stirring,0
+spectroscopy,column chromatography,1
+spectroscopy,function,0
+spectroscopy,crystallisation,0
+spectroscopy,solubility,0
+spectroscopy,recrystallisation,0
+spectroscopy,mixture,1
+spectroscopy,flash chromatography,0
+spectroscopy,chromatograph,1
+spectroscopy,concentration,0
+spectroscopy,washing,0
+flash chromatography,risk assessment,0
+flash chromatography,distillation,0
+flash chromatography,chromatography,1
+flash chromatography,extraction,0
+flash chromatography,spectrum,0
+flash chromatography,evaporation,0
+flash chromatography,matrix,0
+flash chromatography,purification,0
+flash chromatography,stirring,0
+flash chromatography,column chromatography,0
+flash chromatography,function,0
+flash chromatography,crystallisation,0
+flash chromatography,solubility,0
+flash chromatography,recrystallisation,0
+flash chromatography,mixture,1
+flash chromatography,spectroscopy,0
+flash chromatography,chromatograph,1
+flash chromatography,concentration,0
+flash chromatography,washing,0
+chromatograph,risk assessment,2
+chromatograph,distillation,0
+chromatograph,chromatography,39
+chromatograph,extraction,1
+chromatograph,spectrum,9
+chromatograph,evaporation,1
+chromatograph,matrix,0
+chromatograph,purification,3
+chromatograph,stirring,5
+chromatograph,column chromatography,38
+chromatograph,function,1
+chromatograph,crystallisation,0
+chromatograph,solubility,3
+chromatograph,recrystallisation,0
+chromatograph,mixture,38
+chromatograph,spectroscopy,1
+chromatograph,flash chromatography,1
+chromatograph,concentration,1
+chromatograph,washing,1
+concentration,risk assessment,0
+concentration,distillation,0
+concentration,chromatography,1
+concentration,extraction,0
+concentration,spectrum,1
+concentration,evaporation,0
+concentration,matrix,0
+concentration,purification,0
+concentration,stirring,0
+concentration,column chromatography,1
+concentration,function,0
+concentration,crystallisation,0
+concentration,solubility,0
+concentration,recrystallisation,0
+concentration,mixture,1
+concentration,spectroscopy,0
+concentration,flash chromatography,0
+concentration,chromatograph,1
+concentration,washing,0
+washing,risk assessment,0
+washing,distillation,0
+washing,chromatography,1
+washing,extraction,0
+washing,spectrum,0
+washing,evaporation,0
+washing,matrix,0
+washing,purification,0
+washing,stirring,0
+washing,column chromatography,1
+washing,function,0
+washing,crystallisation,0
+washing,solubility,0
+washing,recrystallisation,0
+washing,mixture,2
+washing,spectroscopy,0
+washing,flash chromatography,0
+washing,chromatograph,1
+washing,concentration,0

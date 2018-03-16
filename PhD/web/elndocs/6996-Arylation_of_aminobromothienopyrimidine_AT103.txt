@@ -1,0 +1,51 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Arylation of aminobromothienopyrimidine (AT-10-3)
+16th March 2013 @ 05:18
+
+
+Attempted arylation of AT-6 with 4-sulfamoylphenyl boronic acid pinacol ester using sodium tert-butoxide (4.0 equiv.) as base and toluene as solvent. 
+
+
+To degassed toluene (1 mL) was added AT-6 (0.020 g, 0.087 mmol, 1.0 equiv.), 4-sulfamoylphenyl boronic acid pinacol ester (0.027 g, 0.097 mmol, 1.2 equiv.) and sodium tert-butoxide (0.033 g, 0.35 mmol, 4.0 equiv.) and the reaction mixture further degassed for 5 minutes. PdCl2dppf (0.013 g, 0.018 mmol, 0.2 equiv.) was added and the reaction mixture stirred at reflux overnight. 
+ 
+No reaction - quantitative recovery of starting material. 
+NMR
+
+
+
+
+AT-10-3-f15-40.pdf
+1H NMR spectrum of recovered starting material.
+ 
+HIRAC
+
+
+
+
+AT-10-3.pdf
+Attached Files
+
+
+AT-10-3.pdf
+AT-10-3.jpg
+AT-10-3-f6-13.pdf
+AT-10-3-f15-40.pdf
+Althea Tsang | Completed Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/2b8
+
+
+Key:1208adcd7419a393dffeee674a4a59aa
+
+
+Last Updated:17th March 2013 @ 03:18
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:04. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/6996/Arylation_of_aminobromothienopyrimidine_AT103.html
+Powered by labtrove 2.4 © University of Southampton

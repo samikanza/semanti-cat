@@ -1,0 +1,102 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+1H-NMR Experiment to determine the water content of thieno[3,2-d]pyrimidin-4-amine (JRC 33-1)
+17th August 2012 @ 02:57
+It is suspected that the JRC 16-x series was thwarted by residual water locked in the crystal matrix of the relevant aminothienopyrimidine. This experiment is designed to test this hypothesis.
+
+
+
+
+
+
+ 3014.png 
+
+
+
+
+
+
+
+
+
+Experiment start time: 10:45 am, 17/08/2012
+
+
+Crude thieno[3,2-d]pyrimidin-4-amine was recrystallised from 50% ethanol/water, and blown down gently with nitrogen, to yield off yellow hexagonal crystals (132.3 mg, 0.875 mmol).
+
+
+
+
+
+
+Thieno[3,2-d]pyrimidin-4-amine (96 mg, 0.63 mmol) was dissolved in deuterated DMSO and stirred at 40 °C over 3A mol. sieves for 1.25 hr.
+
+
+
+
+
+
+1H-NMR: Undried thieno[3,2-d]pyrimidin-4-amine
+
+
+
+
+wet.zip
+
+
+JRC33-1(wet).pdf
+
+
+
+
+1H-NMR: Dry thieno[3,2-d]pyrimidin-4-amine
+
+
+
+
+dry.zip
+
+
+JRC33-1.pdf
+
+
+
+
+
+
+
+
+NMR's show that a significant amount of water is removed by this reaction. The relative integrals need to be calculated.
+
+
+
+
+
+
+Risk Assessment: As for JRC 14-1, without pressure vessel
+Attached Files
+
+
+JRC33-1.PNG
+dry.zip
+JRC33-1.pdf
+wet.zip
+JRC33-1(wet).pdf
+James Cronshaw | Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/141
+
+
+Key:847ddd6d0d301d247d8c70e04dd44d74
+
+
+Last Updated:21st August 2012 @ 02:25
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:04. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/4107/1HNMR_Experiment_to_determine_the_water_content_of_thieno32dpyrimidin4amine_JRC_331.html
+Powered by labtrove 2.4 © University of Southampton

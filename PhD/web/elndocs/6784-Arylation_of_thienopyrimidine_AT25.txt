@@ -1,0 +1,64 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Arylation of thienopyrimidine (AT-2-5)
+26th February 2013 @ 04:35
+
+
+Scale up of AT-2-4 for more product.
+
+
+ 
+Arylation of thienopyrimidine AT-1 was performed on a larger scale, with the use of 0.200 g substrate (AT-1), under the same conditions as those reported for AT-2-4.
+The arylated product (AT-2-5) was isolated in 93% yield (0.232 g) as a white solid.
+ 
+NMR
+
+
+
+
+AT-2-5-1H.pdf
+1H NMR
+
+
+
+
+AT-2-5-13C.pdf
+13C{1H} NMR
+ 
+ 
+HIRAC
+
+
+
+
+AT-2-4.pdf
+
+
+Linked Entries
+This entry is linked by:
+* Preparation of OSM-S-118
+Attached Files
+
+
+AT-2-4.pdf
+AT-2-5.jpg
+AT-2-5-1H.pdf
+AT-2-5-13C.pdf
+Althea Tsang | Completed Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/289
+
+
+Key:1bcea1a5993cf0c6d7d0eff35e564664
+
+
+Last Updated:10th May 2013 @ 02:09
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:04. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/6784/Arylation_of_thienopyrimidine_AT25.html
+Powered by labtrove 2.4 © University of Southampton

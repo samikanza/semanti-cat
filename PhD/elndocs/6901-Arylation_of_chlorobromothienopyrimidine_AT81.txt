@@ -1,0 +1,60 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Arylation of chlorobromothienopyrimidine (AT-8-1)
+7th March 2013 @ 05:06
+
+
+Attempted arylation at the bromo-position of AT-5, using PdCl2dppf as catalyst. 
+
+
+To a degassed solution of isopropanol (2 mL) and aqueous potassium carbonate (1 M, 0.801 mL, 2.0 equiv.) was added AT-5 (0.050 g, 0.20 mmol, 1.0 equiv.) and phenylboronic acid (0.029 g, 0.24 mmol, 1.2 equiv.) and the reaction mixture further degassed for 5 minutes. PdCl2dppf (0.029 g, 0.040 mmol, 0.2 equiv.) was added and the reaction mixture stirred at 80 C overnight. 
+The reaction mixture was cooled to rt, diluted with ethyl acetate (50 mL), filtered through Celite and concentrated under reduced pressure. The residue was purified by flash column chromatography (6:1 hexanes:ethyl acetate) to give two compounds. 
+ 
+
+
+ 
+NMR
+
+
+
+
+AT-8-1-top.pdf
+ 1H NMR spectrum of less polar compound, likely to be either AT-8a or AT-8b (0.007 g, 14% if AT-8a or 12% if AT-8b). LRMS says AT-8b.
+
+
+
+
+AT-8-1-bottom.pdf
+1H NMR spectrum of more polar compound, likely to be AT-8c (0.026 g, 75%).
+HIRAC
+
+
+
+
+AT-7-1.pdf
+Attached Files
+
+
+AT-7-1.pdf
+AT-8-1.jpg
+AT-8-1-top.pdf
+AT-8-1-bottom.pdf
+AT-8-products.jpg
+Althea Tsang | Completed Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/29d
+
+
+Key:d8e6bd979ed33e74db86d0e093cd7f9e
+
+
+Last Updated:2nd May 2013 @ 22:34
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:04. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/6901/Arylation_of_chlorobromothienopyrimidine_AT81.html
+Powered by labtrove 2.4 © University of Southampton

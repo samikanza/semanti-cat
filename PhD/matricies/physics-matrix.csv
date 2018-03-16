@@ -1,0 +1,5701 @@
+term1,term2,count
+o star,ring,0
+o star,ammonia,1
+o star,bromine,0
+o star,ion,1
+o star,carbon,0
+o star,electron,0
+o star,palladium,0
+o star,proton,0
+o star,of star,1
+o star,period,0
+o star,testing,0
+o star,magnesium,0
+o star,ray,0
+o star,analysis,1
+o star,system,0
+o star,spectrum,0
+o star,he i,0
+o star,argon,0
+o star,red star,0
+o star,evaporation,0
+o star,formation,0
+o star,air,0
+o star,cycle,0
+o star,current,0
+o star,arc,1
+o star,vacuum,0
+o star,bubble,0
+o star,temperature,0
+o star,copper,0
+o star,power,1
+o star,map,0
+o star,n star,0
+o star,url,0
+o star,filter,0
+o star,cs,0
+o star,ethane,1
+o star,ratio,1
+o star,me star,0
+o star,source,1
+o star,lithium,0
+o star,coupling,0
+o star,w-,0
+o star,function,0
+o star,tin,1
+o star,oxygen,0
+o star,glass,0
+o star,comparison,0
+o star,pressure,1
+o star,water,0
+o star,graph,1
+o star,sodium,0
+o star,unit,0
+o star,methane,1
+o star,position,0
+o star,potassium,0
+o star,mass,0
+o star,origin,0
+o star,f star,1
+o star,error,0
+o star,spectroscopy,0
+o star,design,0
+o star,g star,0
+o star,gas,0
+o star,flux,0
+o star,microwave,0
+o star,caesium,0
+o star,nitrogen,0
+o star,s star,1
+o star,volatile,1
+o star,intensity,1
+o star,interaction,0
+o star,iron,0
+o star,time,0
+o star,boron,0
+o star,age,0
+ring,o star,0
+ring,ammonia,1
+ring,bromine,15
+ring,ion,27
+ring,carbon,11
+ring,electron,0
+ring,palladium,2
+ring,proton,1
+ring,of star,4
+ring,period,1
+ring,testing,1
+ring,magnesium,4
+ring,ray,18
+ring,analysis,2
+ring,system,0
+ring,spectrum,2
+ring,he i,1
+ring,argon,7
+ring,red star,1
+ring,evaporation,1
+ring,formation,1
+ring,air,2
+ring,cycle,0
+ring,current,0
+ring,arc,11
+ring,vacuum,1
+ring,bubble,1
+ring,temperature,18
+ring,copper,1
+ring,power,27
+ring,map,1
+ring,n star,1
+ring,url,1
+ring,filter,18
+ring,cs,12
+ring,ethane,3
+ring,ratio,8
+ring,me star,0
+ring,source,27
+ring,lithium,0
+ring,coupling,8
+ring,w-,0
+ring,function,1
+ring,tin,23
+ring,oxygen,0
+ring,glass,1
+ring,comparison,2
+ring,pressure,7
+ring,water,7
+ring,graph,8
+ring,sodium,16
+ring,unit,1
+ring,methane,3
+ring,position,4
+ring,potassium,5
+ring,mass,1
+ring,origin,1
+ring,f star,4
+ring,error,1
+ring,spectroscopy,1
+ring,design,0
+ring,g star,0
+ring,gas,5
+ring,flux,5
+ring,microwave,3
+ring,caesium,1
+ring,nitrogen,1
+ring,s star,0
+ring,volatile,0
+ring,intensity,0
+ring,interaction,0
+ring,iron,0
+ring,time,6
+ring,boron,7
+ring,age,4
+ammonia,o star,1
+ammonia,ring,1
+ammonia,bromine,0
+ammonia,ion,25
+ammonia,carbon,13
+ammonia,electron,0
+ammonia,palladium,0
+ammonia,proton,1
+ammonia,of star,3
+ammonia,period,0
+ammonia,testing,0
+ammonia,magnesium,0
+ammonia,ray,0
+ammonia,analysis,2
+ammonia,system,0
+ammonia,spectrum,4
+ammonia,he i,2
+ammonia,argon,2
+ammonia,red star,3
+ammonia,evaporation,0
+ammonia,formation,0
+ammonia,air,0
+ammonia,cycle,1
+ammonia,current,0
+ammonia,arc,12
+ammonia,vacuum,1
+ammonia,bubble,0
+ammonia,temperature,1
+ammonia,copper,0
+ammonia,power,25
+ammonia,map,0
+ammonia,n star,0
+ammonia,url,0
+ammonia,filter,18
+ammonia,cs,0
+ammonia,ethane,23
+ammonia,ratio,15
+ammonia,me star,1
+ammonia,source,25
+ammonia,lithium,0
+ammonia,coupling,4
+ammonia,w-,1
+ammonia,function,0
+ammonia,tin,11
+ammonia,oxygen,0
+ammonia,glass,0
+ammonia,comparison,0
+ammonia,pressure,22
+ammonia,water,1
+ammonia,graph,23
+ammonia,sodium,0
+ammonia,unit,0
+ammonia,methane,23
+ammonia,position,0
+ammonia,potassium,9
+ammonia,mass,0
+ammonia,origin,0
+ammonia,f star,3
+ammonia,error,0
+ammonia,spectroscopy,0
+ammonia,design,0
+ammonia,g star,1
+ammonia,gas,9
+ammonia,flux,0
+ammonia,microwave,12
+ammonia,caesium,0
+ammonia,nitrogen,0
+ammonia,s star,1
+ammonia,volatile,2
+ammonia,intensity,1
+ammonia,interaction,1
+ammonia,iron,1
+ammonia,time,1
+ammonia,boron,18
+ammonia,age,0
+bromine,o star,0
+bromine,ring,15
+bromine,ammonia,0
+bromine,ion,20
+bromine,carbon,1
+bromine,electron,0
+bromine,palladium,1
+bromine,proton,1
+bromine,of star,3
+bromine,period,0
+bromine,testing,0
+bromine,magnesium,1
+bromine,ray,11
+bromine,analysis,1
+bromine,system,0
+bromine,spectrum,2
+bromine,he i,1
+bromine,argon,1
+bromine,red star,2
+bromine,evaporation,1
+bromine,formation,0
+bromine,air,1
+bromine,cycle,0
+bromine,current,2
+bromine,arc,10
+bromine,vacuum,1
+bromine,bubble,0
+bromine,temperature,12
+bromine,copper,0
+bromine,power,20
+bromine,map,0
+bromine,n star,1
+bromine,url,0
+bromine,filter,10
+bromine,cs,7
+bromine,ethane,0
+bromine,ratio,4
+bromine,me star,0
+bromine,source,20
+bromine,lithium,1
+bromine,coupling,5
+bromine,w-,0
+bromine,function,1
+bromine,tin,17
+bromine,oxygen,0
+bromine,glass,1
+bromine,comparison,2
+bromine,pressure,8
+bromine,water,7
+bromine,graph,7
+bromine,sodium,17
+bromine,unit,1
+bromine,methane,0
+bromine,position,2
+bromine,potassium,0
+bromine,mass,1
+bromine,origin,1
+bromine,f star,3
+bromine,error,1
+bromine,spectroscopy,0
+bromine,design,0
+bromine,g star,0
+bromine,gas,1
+bromine,flux,1
+bromine,microwave,1
+bromine,caesium,0
+bromine,nitrogen,1
+bromine,s star,0
+bromine,volatile,0
+bromine,intensity,0
+bromine,interaction,0
+bromine,iron,0
+bromine,time,3
+bromine,boron,1
+bromine,age,3
+ion,o star,1
+ion,ring,27
+ion,ammonia,25
+ion,bromine,20
+ion,carbon,31
+ion,electron,1
+ion,palladium,5
+ion,proton,3
+ion,of star,10
+ion,period,1
+ion,testing,1
+ion,magnesium,5
+ion,ray,18
+ion,analysis,4
+ion,system,2
+ion,spectrum,10
+ion,he i,3
+ion,argon,11
+ion,red star,6
+ion,evaporation,1
+ion,formation,4
+ion,air,2
+ion,cycle,1
+ion,current,2
+ion,arc,36
+ion,vacuum,2
+ion,bubble,1
+ion,temperature,21
+ion,copper,1
+ion,power,73
+ion,map,1
+ion,n star,1
+ion,url,1
+ion,filter,41
+ion,cs,12
+ion,ethane,25
+ion,ratio,25
+ion,me star,1
+ion,source,73
+ion,lithium,1
+ion,coupling,18
+ion,w-,1
+ion,function,1
+ion,tin,43
+ion,oxygen,1
+ion,glass,1
+ion,comparison,2
+ion,pressure,40
+ion,water,15
+ion,graph,39
+ion,sodium,22
+ion,unit,1
+ion,methane,25
+ion,position,6
+ion,potassium,20
+ion,mass,1
+ion,origin,1
+ion,f star,10
+ion,error,1
+ion,spectroscopy,1
+ion,design,1
+ion,g star,1
+ion,gas,23
+ion,flux,9
+ion,microwave,18
+ion,caesium,1
+ion,nitrogen,4
+ion,s star,1
+ion,volatile,2
+ion,intensity,1
+ion,interaction,1
+ion,iron,1
+ion,time,10
+ion,boron,40
+ion,age,4
+carbon,o star,0
+carbon,ring,11
+carbon,ammonia,13
+carbon,bromine,1
+carbon,ion,31
+carbon,electron,0
+carbon,palladium,2
+carbon,proton,1
+carbon,of star,3
+carbon,period,1
+carbon,testing,1
+carbon,magnesium,4
+carbon,ray,7
+carbon,analysis,1
+carbon,system,0
+carbon,spectrum,5
+carbon,he i,2
+carbon,argon,10
+carbon,red star,0
+carbon,evaporation,0
+carbon,formation,2
+carbon,air,1
+carbon,cycle,1
+carbon,current,0
+carbon,arc,14
+carbon,vacuum,0
+carbon,bubble,0
+carbon,temperature,6
+carbon,copper,1
+carbon,power,31
+carbon,map,1
+carbon,n star,0
+carbon,url,1
+carbon,filter,23
+carbon,cs,5
+carbon,ethane,15
+carbon,ratio,11
+carbon,me star,0
+carbon,source,31
+carbon,lithium,0
+carbon,coupling,12
+carbon,w-,0
+carbon,function,0
+carbon,tin,13
+carbon,oxygen,0
+carbon,glass,0
+carbon,comparison,0
+carbon,pressure,19
+carbon,water,5
+carbon,graph,20
+carbon,sodium,5
+carbon,unit,0
+carbon,methane,15
+carbon,position,4
+carbon,potassium,17
+carbon,mass,0
+carbon,origin,0
+carbon,f star,3
+carbon,error,0
+carbon,spectroscopy,1
+carbon,design,0
+carbon,g star,0
+carbon,gas,20
+carbon,flux,5
+carbon,microwave,9
+carbon,caesium,1
+carbon,nitrogen,2
+carbon,s star,0
+carbon,volatile,0
+carbon,intensity,0
+carbon,interaction,1
+carbon,iron,1
+carbon,time,6
+carbon,boron,26
+carbon,age,1
+electron,o star,0
+electron,ring,0
+electron,ammonia,0
+electron,bromine,0
+electron,ion,1
+electron,carbon,0
+electron,palladium,0
+electron,proton,0
+electron,of star,0
+electron,period,0
+electron,testing,0
+electron,magnesium,0
+electron,ray,0
+electron,analysis,0
+electron,system,0
+electron,spectrum,0
+electron,he i,0
+electron,argon,0
+electron,red star,0
+electron,evaporation,0
+electron,formation,1
+electron,air,0
+electron,cycle,0
+electron,current,0
+electron,arc,0
+electron,vacuum,0
+electron,bubble,0
+electron,temperature,0
+electron,copper,0
+electron,power,1
+electron,map,0
+electron,n star,0
+electron,url,0
+electron,filter,0
+electron,cs,0
+electron,ethane,0
+electron,ratio,0
+electron,me star,0
+electron,source,1
+electron,lithium,0
+electron,coupling,0
+electron,w-,0
+electron,function,0
+electron,tin,1
+electron,oxygen,0
+electron,glass,0
+electron,comparison,0
+electron,pressure,0
+electron,water,0
+electron,graph,0
+electron,sodium,0
+electron,unit,0
+electron,methane,0
+electron,position,0
+electron,potassium,0
+electron,mass,0
+electron,origin,0
+electron,f star,0
+electron,error,0
+electron,spectroscopy,0
+electron,design,0
+electron,g star,0
+electron,gas,0
+electron,flux,0
+electron,microwave,1
+electron,caesium,0
+electron,nitrogen,0
+electron,s star,0
+electron,volatile,0
+electron,intensity,0
+electron,interaction,0
+electron,iron,0
+electron,time,0
+electron,boron,1
+electron,age,0
+palladium,o star,0
+palladium,ring,2
+palladium,ammonia,0
+palladium,bromine,1
+palladium,ion,5
+palladium,carbon,2
+palladium,electron,0
+palladium,proton,0
+palladium,of star,2
+palladium,period,0
+palladium,testing,0
+palladium,magnesium,0
+palladium,ray,0
+palladium,analysis,1
+palladium,system,0
+palladium,spectrum,0
+palladium,he i,0
+palladium,argon,2
+palladium,red star,0
+palladium,evaporation,0
+palladium,formation,1
+palladium,air,0
+palladium,cycle,0
+palladium,current,0
+palladium,arc,2
+palladium,vacuum,0
+palladium,bubble,1
+palladium,temperature,1
+palladium,copper,1
+palladium,power,5
+palladium,map,0
+palladium,n star,0
+palladium,url,0
+palladium,filter,1
+palladium,cs,0
+palladium,ethane,1
+palladium,ratio,0
+palladium,me star,0
+palladium,source,5
+palladium,lithium,0
+palladium,coupling,2
+palladium,w-,0
+palladium,function,0
+palladium,tin,2
+palladium,oxygen,1
+palladium,glass,0
+palladium,comparison,0
+palladium,pressure,2
+palladium,water,1
+palladium,graph,2
+palladium,sodium,1
+palladium,unit,0
+palladium,methane,1
+palladium,position,0
+palladium,potassium,1
+palladium,mass,0
+palladium,origin,0
+palladium,f star,2
+palladium,error,0
+palladium,spectroscopy,1
+palladium,design,0
+palladium,g star,0
+palladium,gas,1
+palladium,flux,2
+palladium,microwave,1
+palladium,caesium,1
+palladium,nitrogen,3
+palladium,s star,0
+palladium,volatile,0
+palladium,intensity,0
+palladium,interaction,0
+palladium,iron,0
+palladium,time,1
+palladium,boron,5
+palladium,age,0
+proton,o star,0
+proton,ring,1
+proton,ammonia,1
+proton,bromine,1
+proton,ion,3
+proton,carbon,1
+proton,electron,0
+proton,palladium,0
+proton,of star,1
+proton,period,0
+proton,testing,0
+proton,magnesium,0
+proton,ray,0
+proton,analysis,0
+proton,system,0
+proton,spectrum,1
+proton,he i,0
+proton,argon,0
+proton,red star,0
+proton,evaporation,0
+proton,formation,0
+proton,air,0
+proton,cycle,0
+proton,current,0
+proton,arc,1
+proton,vacuum,0
+proton,bubble,0
+proton,temperature,1
+proton,copper,0
+proton,power,3
+proton,map,0
+proton,n star,0
+proton,url,0
+proton,filter,3
+proton,cs,0
+proton,ethane,1
+proton,ratio,0
+proton,me star,0
+proton,source,3
+proton,lithium,0
+proton,coupling,1
+proton,w-,0
+proton,function,0
+proton,tin,3
+proton,oxygen,0
+proton,glass,0
+proton,comparison,0
+proton,pressure,2
+proton,water,0
+proton,graph,3
+proton,sodium,1
+proton,unit,0
+proton,methane,1
+proton,position,0
+proton,potassium,1
+proton,mass,0
+proton,origin,0
+proton,f star,1
+proton,error,0
+proton,spectroscopy,0
+proton,design,0
+proton,g star,0
+proton,gas,1
+proton,flux,0
+proton,microwave,1
+proton,caesium,0
+proton,nitrogen,0
+proton,s star,0
+proton,volatile,0
+proton,intensity,0
+proton,interaction,1
+proton,iron,1
+proton,time,0
+proton,boron,2
+proton,age,0
+of star,o star,1
+of star,ring,4
+of star,ammonia,3
+of star,bromine,3
+of star,ion,10
+of star,carbon,3
+of star,electron,0
+of star,palladium,2
+of star,proton,1
+of star,period,0
+of star,testing,0
+of star,magnesium,0
+of star,ray,0
+of star,analysis,3
+of star,system,0
+of star,spectrum,4
+of star,he i,0
+of star,argon,1
+of star,red star,3
+of star,evaporation,1
+of star,formation,0
+of star,air,0
+of star,cycle,0
+of star,current,0
+of star,arc,9
+of star,vacuum,0
+of star,bubble,0
+of star,temperature,1
+of star,copper,1
+of star,power,10
+of star,map,0
+of star,n star,0
+of star,url,0
+of star,filter,1
+of star,cs,0
+of star,ethane,4
+of star,ratio,4
+of star,me star,0
+of star,source,10
+of star,lithium,0
+of star,coupling,2
+of star,w-,0
+of star,function,1
+of star,tin,10
+of star,oxygen,1
+of star,glass,0
+of star,comparison,2
+of star,pressure,9
+of star,water,3
+of star,graph,8
+of star,sodium,4
+of star,unit,0
+of star,methane,4
+of star,position,0
+of star,potassium,1
+of star,mass,0
+of star,origin,0
+of star,f star,10
+of star,error,0
+of star,spectroscopy,1
+of star,design,0
+of star,g star,0
+of star,gas,3
+of star,flux,1
+of star,microwave,0
+of star,caesium,1
+of star,nitrogen,2
+of star,s star,1
+of star,volatile,1
+of star,intensity,1
+of star,interaction,1
+of star,iron,1
+of star,time,0
+of star,boron,5
+of star,age,0
+period,o star,0
+period,ring,1
+period,ammonia,0
+period,bromine,0
+period,ion,1
+period,carbon,1
+period,electron,0
+period,palladium,0
+period,proton,0
+period,of star,0
+period,testing,0
+period,magnesium,0
+period,ray,1
+period,analysis,0
+period,system,0
+period,spectrum,0
+period,he i,0
+period,argon,1
+period,red star,0
+period,evaporation,0
+period,formation,0
+period,air,0
+period,cycle,0
+period,current,0
+period,arc,0
+period,vacuum,0
+period,bubble,0
+period,temperature,1
+period,copper,0
+period,power,1
+period,map,0
+period,n star,0
+period,url,0
+period,filter,1
+period,cs,0
+period,ethane,0
+period,ratio,0
+period,me star,0
+period,source,1
+period,lithium,0
+period,coupling,0
+period,w-,0
+period,function,0
+period,tin,1
+period,oxygen,0
+period,glass,0
+period,comparison,0
+period,pressure,0
+period,water,1
+period,graph,0
+period,sodium,1
+period,unit,0
+period,methane,0
+period,position,1
+period,potassium,0
+period,mass,0
+period,origin,0
+period,f star,0
+period,error,0
+period,spectroscopy,0
+period,design,0
+period,g star,0
+period,gas,0
+period,flux,1
+period,microwave,0
+period,caesium,0
+period,nitrogen,0
+period,s star,0
+period,volatile,0
+period,intensity,0
+period,interaction,0
+period,iron,0
+period,time,1
+period,boron,0
+period,age,1
+testing,o star,0
+testing,ring,1
+testing,ammonia,0
+testing,bromine,0
+testing,ion,1
+testing,carbon,1
+testing,electron,0
+testing,palladium,0
+testing,proton,0
+testing,of star,0
+testing,period,0
+testing,magnesium,0
+testing,ray,1
+testing,analysis,0
+testing,system,0
+testing,spectrum,0
+testing,he i,0
+testing,argon,1
+testing,red star,0
+testing,evaporation,0
+testing,formation,0
+testing,air,0
+testing,cycle,0
+testing,current,0
+testing,arc,0
+testing,vacuum,0
+testing,bubble,0
+testing,temperature,0
+testing,copper,0
+testing,power,1
+testing,map,0
+testing,n star,0
+testing,url,0
+testing,filter,0
+testing,cs,0
+testing,ethane,0
+testing,ratio,1
+testing,me star,0
+testing,source,1
+testing,lithium,0
+testing,coupling,0
+testing,w-,0
+testing,function,0
+testing,tin,1
+testing,oxygen,0
+testing,glass,0
+testing,comparison,0
+testing,pressure,0
+testing,water,0
+testing,graph,0
+testing,sodium,0
+testing,unit,0
+testing,methane,0
+testing,position,0
+testing,potassium,0
+testing,mass,0
+testing,origin,0
+testing,f star,0
+testing,error,0
+testing,spectroscopy,0
+testing,design,0
+testing,g star,0
+testing,gas,1
+testing,flux,0
+testing,microwave,1
+testing,caesium,0
+testing,nitrogen,0
+testing,s star,0
+testing,volatile,0
+testing,intensity,0
+testing,interaction,0
+testing,iron,0
+testing,time,0
+testing,boron,1
+testing,age,0
+magnesium,o star,0
+magnesium,ring,4
+magnesium,ammonia,0
+magnesium,bromine,1
+magnesium,ion,5
+magnesium,carbon,4
+magnesium,electron,0
+magnesium,palladium,0
+magnesium,proton,0
+magnesium,of star,0
+magnesium,period,0
+magnesium,testing,0
+magnesium,ray,3
+magnesium,analysis,0
+magnesium,system,0
+magnesium,spectrum,0
+magnesium,he i,0
+magnesium,argon,3
+magnesium,red star,0
+magnesium,evaporation,0
+magnesium,formation,0
+magnesium,air,0
+magnesium,cycle,0
+magnesium,current,0
+magnesium,arc,0
+magnesium,vacuum,0
+magnesium,bubble,0
+magnesium,temperature,3
+magnesium,copper,0
+magnesium,power,5
+magnesium,map,1
+magnesium,n star,0
+magnesium,url,1
+magnesium,filter,3
+magnesium,cs,3
+magnesium,ethane,1
+magnesium,ratio,1
+magnesium,me star,0
+magnesium,source,5
+magnesium,lithium,1
+magnesium,coupling,1
+magnesium,w-,0
+magnesium,function,0
+magnesium,tin,3
+magnesium,oxygen,0
+magnesium,glass,0
+magnesium,comparison,0
+magnesium,pressure,0
+magnesium,water,2
+magnesium,graph,1
+magnesium,sodium,4
+magnesium,unit,0
+magnesium,methane,1
+magnesium,position,1
+magnesium,potassium,0
+magnesium,mass,0
+magnesium,origin,0
+magnesium,f star,0
+magnesium,error,0
+magnesium,spectroscopy,0
+magnesium,design,0
+magnesium,g star,0
+magnesium,gas,0
+magnesium,flux,3
+magnesium,microwave,0
+magnesium,caesium,0
+magnesium,nitrogen,0
+magnesium,s star,0
+magnesium,volatile,0
+magnesium,intensity,0
+magnesium,interaction,0
+magnesium,iron,0
+magnesium,time,5
+magnesium,boron,0
+magnesium,age,0
+ray,o star,0
+ray,ring,18
+ray,ammonia,0
+ray,bromine,11
+ray,ion,18
+ray,carbon,7
+ray,electron,0
+ray,palladium,0
+ray,proton,0
+ray,of star,0
+ray,period,1
+ray,testing,1
+ray,magnesium,3
+ray,analysis,0
+ray,system,0
+ray,spectrum,0
+ray,he i,1
+ray,argon,5
+ray,red star,0
+ray,evaporation,0
+ray,formation,0
+ray,air,2
+ray,cycle,0
+ray,current,0
+ray,arc,7
+ray,vacuum,1
+ray,bubble,0
+ray,temperature,17
+ray,copper,0
+ray,power,18
+ray,map,0
+ray,n star,1
+ray,url,0
+ray,filter,15
+ray,cs,12
+ray,ethane,0
+ray,ratio,5
+ray,me star,0
+ray,source,18
+ray,lithium,0
+ray,coupling,6
+ray,w-,0
+ray,function,0
+ray,tin,18
+ray,oxygen,0
+ray,glass,1
+ray,comparison,0
+ray,pressure,2
+ray,water,4
+ray,graph,0
+ray,sodium,12
+ray,unit,1
+ray,methane,0
+ray,position,4
+ray,potassium,2
+ray,mass,1
+ray,origin,1
+ray,f star,0
+ray,error,1
+ray,spectroscopy,0
+ray,design,0
+ray,g star,0
+ray,gas,3
+ray,flux,4
+ray,microwave,2
+ray,caesium,0
+ray,nitrogen,0
+ray,s star,0
+ray,volatile,0
+ray,intensity,0
+ray,interaction,0
+ray,iron,0
+ray,time,5
+ray,boron,3
+ray,age,4
+analysis,o star,1
+analysis,ring,2
+analysis,ammonia,2
+analysis,bromine,1
+analysis,ion,4
+analysis,carbon,1
+analysis,electron,0
+analysis,palladium,1
+analysis,proton,0
+analysis,of star,3
+analysis,period,0
+analysis,testing,0
+analysis,magnesium,0
+analysis,ray,0
+analysis,system,0
+analysis,spectrum,2
+analysis,he i,0
+analysis,argon,0
+analysis,red star,1
+analysis,evaporation,1
+analysis,formation,0
+analysis,air,0
+analysis,cycle,0
+analysis,current,0
+analysis,arc,3
+analysis,vacuum,0
+analysis,bubble,0
+analysis,temperature,0
+analysis,copper,1
+analysis,power,4
+analysis,map,0
+analysis,n star,0
+analysis,url,0
+analysis,filter,0
+analysis,cs,0
+analysis,ethane,3
+analysis,ratio,3
+analysis,me star,0
+analysis,source,4
+analysis,lithium,0
+analysis,coupling,1
+analysis,w-,0
+analysis,function,0
+analysis,tin,4
+analysis,oxygen,0
+analysis,glass,0
+analysis,comparison,1
+analysis,pressure,4
+analysis,water,1
+analysis,graph,4
+analysis,sodium,1
+analysis,unit,0
+analysis,methane,3
+analysis,position,0
+analysis,potassium,0
+analysis,mass,0
+analysis,origin,0
+analysis,f star,3
+analysis,error,0
+analysis,spectroscopy,1
+analysis,design,0
+analysis,g star,0
+analysis,gas,0
+analysis,flux,0
+analysis,microwave,0
+analysis,caesium,1
+analysis,nitrogen,1
+analysis,s star,1
+analysis,volatile,2
+analysis,intensity,1
+analysis,interaction,0
+analysis,iron,0
+analysis,time,0
+analysis,boron,1
+analysis,age,0
+system,o star,0
+system,ring,0
+system,ammonia,0
+system,bromine,0
+system,ion,2
+system,carbon,0
+system,electron,0
+system,palladium,0
+system,proton,0
+system,of star,0
+system,period,0
+system,testing,0
+system,magnesium,0
+system,ray,0
+system,analysis,0
+system,spectrum,0
+system,he i,0
+system,argon,0
+system,red star,0
+system,evaporation,0
+system,formation,0
+system,air,0
+system,cycle,0
+system,current,0
+system,arc,2
+system,vacuum,0
+system,bubble,0
+system,temperature,0
+system,copper,0
+system,power,2
+system,map,0
+system,n star,0
+system,url,0
+system,filter,0
+system,cs,0
+system,ethane,0
+system,ratio,0
+system,me star,0
+system,source,2
+system,lithium,0
+system,coupling,2
+system,w-,0
+system,function,0
+system,tin,0
+system,oxygen,0
+system,glass,0
+system,comparison,0
+system,pressure,0
+system,water,2
+system,graph,0
+system,sodium,0
+system,unit,0
+system,methane,0
+system,position,0
+system,potassium,2
+system,mass,0
+system,origin,0
+system,f star,0
+system,error,0
+system,spectroscopy,0
+system,design,0
+system,g star,0
+system,gas,2
+system,flux,2
+system,microwave,0
+system,caesium,0
+system,nitrogen,0
+system,s star,0
+system,volatile,0
+system,intensity,0
+system,interaction,0
+system,iron,0
+system,time,0
+system,boron,2
+system,age,0
+spectrum,o star,0
+spectrum,ring,2
+spectrum,ammonia,4
+spectrum,bromine,2
+spectrum,ion,10
+spectrum,carbon,5
+spectrum,electron,0
+spectrum,palladium,0
+spectrum,proton,1
+spectrum,of star,4
+spectrum,period,0
+spectrum,testing,0
+spectrum,magnesium,0
+spectrum,ray,0
+spectrum,analysis,2
+spectrum,system,0
+spectrum,he i,1
+spectrum,argon,0
+spectrum,red star,4
+spectrum,evaporation,1
+spectrum,formation,1
+spectrum,air,0
+spectrum,cycle,0
+spectrum,current,0
+spectrum,arc,9
+spectrum,vacuum,0
+spectrum,bubble,0
+spectrum,temperature,1
+spectrum,copper,0
+spectrum,power,10
+spectrum,map,0
+spectrum,n star,0
+spectrum,url,0
+spectrum,filter,5
+spectrum,cs,0
+spectrum,ethane,4
+spectrum,ratio,4
+spectrum,me star,0
+spectrum,source,10
+spectrum,lithium,0
+spectrum,coupling,4
+spectrum,w-,0
+spectrum,function,0
+spectrum,tin,8
+spectrum,oxygen,0
+spectrum,glass,0
+spectrum,comparison,1
+spectrum,pressure,9
+spectrum,water,2
+spectrum,graph,9
+spectrum,sodium,3
+spectrum,unit,0
+spectrum,methane,4
+spectrum,position,1
+spectrum,potassium,5
+spectrum,mass,0
+spectrum,origin,0
+spectrum,f star,4
+spectrum,error,0
+spectrum,spectroscopy,0
+spectrum,design,0
+spectrum,g star,0
+spectrum,gas,6
+spectrum,flux,1
+spectrum,microwave,0
+spectrum,caesium,0
+spectrum,nitrogen,0
+spectrum,s star,0
+spectrum,volatile,1
+spectrum,intensity,0
+spectrum,interaction,1
+spectrum,iron,1
+spectrum,time,0
+spectrum,boron,6
+spectrum,age,0
+he i,o star,0
+he i,ring,1
+he i,ammonia,2
+he i,bromine,1
+he i,ion,3
+he i,carbon,2
+he i,electron,0
+he i,palladium,0
+he i,proton,0
+he i,of star,0
+he i,period,0
+he i,testing,0
+he i,magnesium,0
+he i,ray,1
+he i,analysis,0
+he i,system,0
+he i,spectrum,1
+he i,argon,0
+he i,red star,0
+he i,evaporation,0
+he i,formation,0
+he i,air,0
+he i,cycle,1
+he i,current,0
+he i,arc,2
+he i,vacuum,0
+he i,bubble,0
+he i,temperature,1
+he i,copper,0
+he i,power,3
+he i,map,0
+he i,n star,1
+he i,url,0
+he i,filter,2
+he i,cs,1
+he i,ethane,2
+he i,ratio,0
+he i,me star,0
+he i,source,3
+he i,lithium,0
+he i,coupling,1
+he i,w-,0
+he i,function,0
+he i,tin,2
+he i,oxygen,0
+he i,glass,0
+he i,comparison,0
+he i,pressure,2
+he i,water,2
+he i,graph,2
+he i,sodium,1
+he i,unit,0
+he i,methane,2
+he i,position,0
+he i,potassium,2
+he i,mass,1
+he i,origin,1
+he i,f star,0
+he i,error,0
+he i,spectroscopy,0
+he i,design,0
+he i,g star,0
+he i,gas,2
+he i,flux,0
+he i,microwave,0
+he i,caesium,0
+he i,nitrogen,0
+he i,s star,0
+he i,volatile,0
+he i,intensity,0
+he i,interaction,0
+he i,iron,0
+he i,time,1
+he i,boron,2
+he i,age,1
+argon,o star,0
+argon,ring,7
+argon,ammonia,2
+argon,bromine,1
+argon,ion,11
+argon,carbon,10
+argon,electron,0
+argon,palladium,2
+argon,proton,0
+argon,of star,1
+argon,period,1
+argon,testing,1
+argon,magnesium,3
+argon,ray,5
+argon,analysis,0
+argon,system,0
+argon,spectrum,0
+argon,he i,0
+argon,red star,0
+argon,evaporation,0
+argon,formation,2
+argon,air,0
+argon,cycle,0
+argon,current,0
+argon,arc,1
+argon,vacuum,0
+argon,bubble,1
+argon,temperature,4
+argon,copper,0
+argon,power,11
+argon,map,0
+argon,n star,0
+argon,url,0
+argon,filter,8
+argon,cs,3
+argon,ethane,2
+argon,ratio,1
+argon,me star,0
+argon,source,11
+argon,lithium,0
+argon,coupling,1
+argon,w-,0
+argon,function,0
+argon,tin,6
+argon,oxygen,0
+argon,glass,0
+argon,comparison,0
+argon,pressure,4
+argon,water,3
+argon,graph,5
+argon,sodium,5
+argon,unit,0
+argon,methane,2
+argon,position,3
+argon,potassium,4
+argon,mass,0
+argon,origin,0
+argon,f star,1
+argon,error,0
+argon,spectroscopy,0
+argon,design,0
+argon,g star,0
+argon,gas,6
+argon,flux,6
+argon,microwave,3
+argon,caesium,0
+argon,nitrogen,1
+argon,s star,0
+argon,volatile,0
+argon,intensity,0
+argon,interaction,0
+argon,iron,0
+argon,time,5
+argon,boron,7
+argon,age,1
+red star,o star,0
+red star,ring,1
+red star,ammonia,3
+red star,bromine,2
+red star,ion,6
+red star,carbon,0
+red star,electron,0
+red star,palladium,0
+red star,proton,0
+red star,of star,3
+red star,period,0
+red star,testing,0
+red star,magnesium,0
+red star,ray,0
+red star,analysis,1
+red star,system,0
+red star,spectrum,4
+red star,he i,0
+red star,argon,0
+red star,evaporation,0
+red star,formation,0
+red star,air,0
+red star,cycle,0
+red star,current,0
+red star,arc,6
+red star,vacuum,0
+red star,bubble,0
+red star,temperature,1
+red star,copper,0
+red star,power,6
+red star,map,0
+red star,n star,0
+red star,url,0
+red star,filter,0
+red star,cs,0
+red star,ethane,3
+red star,ratio,3
+red star,me star,0
+red star,source,6
+red star,lithium,0
+red star,coupling,0
+red star,w-,0
+red star,function,0
+red star,tin,6
+red star,oxygen,0
+red star,glass,0
+red star,comparison,0
+red star,pressure,5
+red star,water,1
+red star,graph,5
+red star,sodium,3
+red star,unit,0
+red star,methane,3
+red star,position,0
+red star,potassium,0
+red star,mass,0
+red star,origin,0
+red star,f star,3
+red star,error,0
+red star,spectroscopy,0
+red star,design,0
+red star,g star,0
+red star,gas,1
+red star,flux,1
+red star,microwave,0
+red star,caesium,0
+red star,nitrogen,0
+red star,s star,0
+red star,volatile,1
+red star,intensity,0
+red star,interaction,0
+red star,iron,0
+red star,time,0
+red star,boron,1
+red star,age,0
+evaporation,o star,0
+evaporation,ring,1
+evaporation,ammonia,0
+evaporation,bromine,1
+evaporation,ion,1
+evaporation,carbon,0
+evaporation,electron,0
+evaporation,palladium,0
+evaporation,proton,0
+evaporation,of star,1
+evaporation,period,0
+evaporation,testing,0
+evaporation,magnesium,0
+evaporation,ray,0
+evaporation,analysis,1
+evaporation,system,0
+evaporation,spectrum,1
+evaporation,he i,0
+evaporation,argon,0
+evaporation,red star,0
+evaporation,formation,0
+evaporation,air,0
+evaporation,cycle,0
+evaporation,current,0
+evaporation,arc,0
+evaporation,vacuum,0
+evaporation,bubble,0
+evaporation,temperature,0
+evaporation,copper,0
+evaporation,power,1
+evaporation,map,0
+evaporation,n star,0
+evaporation,url,0
+evaporation,filter,0
+evaporation,cs,0
+evaporation,ethane,0
+evaporation,ratio,1
+evaporation,me star,0
+evaporation,source,1
+evaporation,lithium,0
+evaporation,coupling,0
+evaporation,w-,0
+evaporation,function,0
+evaporation,tin,1
+evaporation,oxygen,0
+evaporation,glass,0
+evaporation,comparison,1
+evaporation,pressure,1
+evaporation,water,1
+evaporation,graph,1
+evaporation,sodium,1
+evaporation,unit,0
+evaporation,methane,0
+evaporation,position,0
+evaporation,potassium,0
+evaporation,mass,0
+evaporation,origin,0
+evaporation,f star,1
+evaporation,error,0
+evaporation,spectroscopy,0
+evaporation,design,0
+evaporation,g star,0
+evaporation,gas,0
+evaporation,flux,0
+evaporation,microwave,0
+evaporation,caesium,0
+evaporation,nitrogen,0
+evaporation,s star,0
+evaporation,volatile,0
+evaporation,intensity,0
+evaporation,interaction,0
+evaporation,iron,0
+evaporation,time,0
+evaporation,boron,0
+evaporation,age,0
+formation,o star,0
+formation,ring,1
+formation,ammonia,0
+formation,bromine,0
+formation,ion,4
+formation,carbon,2
+formation,electron,1
+formation,palladium,1
+formation,proton,0
+formation,of star,0
+formation,period,0
+formation,testing,0
+formation,magnesium,0
+formation,ray,0
+formation,analysis,0
+formation,system,0
+formation,spectrum,1
+formation,he i,0
+formation,argon,2
+formation,red star,0
+formation,evaporation,0
+formation,air,0
+formation,cycle,0
+formation,current,0
+formation,arc,1
+formation,vacuum,0
+formation,bubble,1
+formation,temperature,0
+formation,copper,0
+formation,power,4
+formation,map,0
+formation,n star,0
+formation,url,0
+formation,filter,3
+formation,cs,0
+formation,ethane,0
+formation,ratio,0
+formation,me star,0
+formation,source,4
+formation,lithium,0
+formation,coupling,1
+formation,w-,0
+formation,function,0
+formation,tin,2
+formation,oxygen,0
+formation,glass,0
+formation,comparison,0
+formation,pressure,2
+formation,water,0
+formation,graph,3
+formation,sodium,0
+formation,unit,0
+formation,methane,0
+formation,position,1
+formation,potassium,3
+formation,mass,0
+formation,origin,0
+formation,f star,0
+formation,error,0
+formation,spectroscopy,0
+formation,design,0
+formation,g star,0
+formation,gas,2
+formation,flux,1
+formation,microwave,1
+formation,caesium,0
+formation,nitrogen,0
+formation,s star,0
+formation,volatile,0
+formation,intensity,0
+formation,interaction,0
+formation,iron,0
+formation,time,0
+formation,boron,4
+formation,age,0
+air,o star,0
+air,ring,2
+air,ammonia,0
+air,bromine,1
+air,ion,2
+air,carbon,1
+air,electron,0
+air,palladium,0
+air,proton,0
+air,of star,0
+air,period,0
+air,testing,0
+air,magnesium,0
+air,ray,2
+air,analysis,0
+air,system,0
+air,spectrum,0
+air,he i,0
+air,argon,0
+air,red star,0
+air,evaporation,0
+air,formation,0
+air,cycle,0
+air,current,0
+air,arc,1
+air,vacuum,1
+air,bubble,0
+air,temperature,2
+air,copper,0
+air,power,2
+air,map,0
+air,n star,0
+air,url,0
+air,filter,2
+air,cs,1
+air,ethane,0
+air,ratio,1
+air,me star,0
+air,source,2
+air,lithium,0
+air,coupling,1
+air,w-,0
+air,function,0
+air,tin,2
+air,oxygen,0
+air,glass,1
+air,comparison,0
+air,pressure,1
+air,water,1
+air,graph,0
+air,sodium,0
+air,unit,0
+air,methane,0
+air,position,1
+air,potassium,1
+air,mass,0
+air,origin,0
+air,f star,0
+air,error,0
+air,spectroscopy,0
+air,design,0
+air,g star,0
+air,gas,1
+air,flux,0
+air,microwave,0
+air,caesium,0
+air,nitrogen,0
+air,s star,0
+air,volatile,0
+air,intensity,0
+air,interaction,0
+air,iron,0
+air,time,0
+air,boron,1
+air,age,1
+cycle,o star,0
+cycle,ring,0
+cycle,ammonia,1
+cycle,bromine,0
+cycle,ion,1
+cycle,carbon,1
+cycle,electron,0
+cycle,palladium,0
+cycle,proton,0
+cycle,of star,0
+cycle,period,0
+cycle,testing,0
+cycle,magnesium,0
+cycle,ray,0
+cycle,analysis,0
+cycle,system,0
+cycle,spectrum,0
+cycle,he i,1
+cycle,argon,0
+cycle,red star,0
+cycle,evaporation,0
+cycle,formation,0
+cycle,air,0
+cycle,current,0
+cycle,arc,0
+cycle,vacuum,0
+cycle,bubble,0
+cycle,temperature,0
+cycle,copper,0
+cycle,power,1
+cycle,map,0
+cycle,n star,0
+cycle,url,0
+cycle,filter,1
+cycle,cs,0
+cycle,ethane,1
+cycle,ratio,0
+cycle,me star,0
+cycle,source,1
+cycle,lithium,0
+cycle,coupling,0
+cycle,w-,0
+cycle,function,0
+cycle,tin,0
+cycle,oxygen,0
+cycle,glass,0
+cycle,comparison,0
+cycle,pressure,1
+cycle,water,1
+cycle,graph,1
+cycle,sodium,0
+cycle,unit,0
+cycle,methane,1
+cycle,position,0
+cycle,potassium,1
+cycle,mass,0
+cycle,origin,0
+cycle,f star,0
+cycle,error,0
+cycle,spectroscopy,0
+cycle,design,0
+cycle,g star,0
+cycle,gas,1
+cycle,flux,0
+cycle,microwave,0
+cycle,caesium,0
+cycle,nitrogen,0
+cycle,s star,0
+cycle,volatile,0
+cycle,intensity,0
+cycle,interaction,0
+cycle,iron,0
+cycle,time,0
+cycle,boron,1
+cycle,age,0
+current,o star,0
+current,ring,0
+current,ammonia,0
+current,bromine,2
+current,ion,2
+current,carbon,0
+current,electron,0
+current,palladium,0
+current,proton,0
+current,of star,0
+current,period,0
+current,testing,0
+current,magnesium,0
+current,ray,0
+current,analysis,0
+current,system,0
+current,spectrum,0
+current,he i,0
+current,argon,0
+current,red star,0
+current,evaporation,0
+current,formation,0
+current,air,0
+current,cycle,0
+current,arc,2
+current,vacuum,0
+current,bubble,0
+current,temperature,0
+current,copper,0
+current,power,2
+current,map,0
+current,n star,0
+current,url,0
+current,filter,0
+current,cs,0
+current,ethane,0
+current,ratio,0
+current,me star,0
+current,source,2
+current,lithium,0
+current,coupling,0
+current,w-,0
+current,function,0
+current,tin,1
+current,oxygen,0
+current,glass,0
+current,comparison,0
+current,pressure,2
+current,water,0
+current,graph,2
+current,sodium,2
+current,unit,0
+current,methane,0
+current,position,0
+current,potassium,0
+current,mass,0
+current,origin,0
+current,f star,0
+current,error,0
+current,spectroscopy,0
+current,design,0
+current,g star,0
+current,gas,0
+current,flux,0
+current,microwave,0
+current,caesium,0
+current,nitrogen,0
+current,s star,0
+current,volatile,0
+current,intensity,0
+current,interaction,0
+current,iron,0
+current,time,0
+current,boron,0
+current,age,0
+arc,o star,1
+arc,ring,11
+arc,ammonia,12
+arc,bromine,10
+arc,ion,36
+arc,carbon,14
+arc,electron,0
+arc,palladium,2
+arc,proton,1
+arc,of star,9
+arc,period,0
+arc,testing,0
+arc,magnesium,0
+arc,ray,7
+arc,analysis,3
+arc,system,2
+arc,spectrum,9
+arc,he i,2
+arc,argon,1
+arc,red star,6
+arc,evaporation,0
+arc,formation,1
+arc,air,1
+arc,cycle,0
+arc,current,2
+arc,vacuum,1
+arc,bubble,0
+arc,temperature,10
+arc,copper,1
+arc,power,36
+arc,map,0
+arc,n star,1
+arc,url,0
+arc,filter,16
+arc,cs,7
+arc,ethane,12
+arc,ratio,14
+arc,me star,1
+arc,source,36
+arc,lithium,0
+arc,coupling,15
+arc,w-,1
+arc,function,1
+arc,tin,24
+arc,oxygen,1
+arc,glass,0
+arc,comparison,1
+arc,pressure,23
+arc,water,6
+arc,graph,21
+arc,sodium,10
+arc,unit,1
+arc,methane,12
+arc,position,1
+arc,potassium,14
+arc,mass,1
+arc,origin,1
+arc,f star,9
+arc,error,1
+arc,spectroscopy,1
+arc,design,0
+arc,g star,0
+arc,gas,16
+arc,flux,3
+arc,microwave,2
+arc,caesium,1
+arc,nitrogen,2
+arc,s star,1
+arc,volatile,2
+arc,intensity,1
+arc,interaction,1
+arc,iron,1
+arc,time,1
+arc,boron,21
+arc,age,1
+vacuum,o star,0
+vacuum,ring,1
+vacuum,ammonia,1
+vacuum,bromine,1
+vacuum,ion,2
+vacuum,carbon,0
+vacuum,electron,0
+vacuum,palladium,0
+vacuum,proton,0
+vacuum,of star,0
+vacuum,period,0
+vacuum,testing,0
+vacuum,magnesium,0
+vacuum,ray,1
+vacuum,analysis,0
+vacuum,system,0
+vacuum,spectrum,0
+vacuum,he i,0
+vacuum,argon,0
+vacuum,red star,0
+vacuum,evaporation,0
+vacuum,formation,0
+vacuum,air,1
+vacuum,cycle,0
+vacuum,current,0
+vacuum,arc,1
+vacuum,bubble,0
+vacuum,temperature,1
+vacuum,copper,0
+vacuum,power,2
+vacuum,map,0
+vacuum,n star,0
+vacuum,url,0
+vacuum,filter,1
+vacuum,cs,0
+vacuum,ethane,0
+vacuum,ratio,0
+vacuum,me star,0
+vacuum,source,2
+vacuum,lithium,0
+vacuum,coupling,0
+vacuum,w-,1
+vacuum,function,0
+vacuum,tin,1
+vacuum,oxygen,0
+vacuum,glass,1
+vacuum,comparison,0
+vacuum,pressure,1
+vacuum,water,1
+vacuum,graph,0
+vacuum,sodium,0
+vacuum,unit,0
+vacuum,methane,0
+vacuum,position,1
+vacuum,potassium,0
+vacuum,mass,0
+vacuum,origin,0
+vacuum,f star,0
+vacuum,error,0
+vacuum,spectroscopy,0
+vacuum,design,0
+vacuum,g star,0
+vacuum,gas,0
+vacuum,flux,0
+vacuum,microwave,0
+vacuum,caesium,0
+vacuum,nitrogen,0
+vacuum,s star,0
+vacuum,volatile,0
+vacuum,intensity,0
+vacuum,interaction,0
+vacuum,iron,0
+vacuum,time,0
+vacuum,boron,0
+vacuum,age,1
+bubble,o star,0
+bubble,ring,1
+bubble,ammonia,0
+bubble,bromine,0
+bubble,ion,1
+bubble,carbon,0
+bubble,electron,0
+bubble,palladium,1
+bubble,proton,0
+bubble,of star,0
+bubble,period,0
+bubble,testing,0
+bubble,magnesium,0
+bubble,ray,0
+bubble,analysis,0
+bubble,system,0
+bubble,spectrum,0
+bubble,he i,0
+bubble,argon,1
+bubble,red star,0
+bubble,evaporation,0
+bubble,formation,1
+bubble,air,0
+bubble,cycle,0
+bubble,current,0
+bubble,arc,0
+bubble,vacuum,0
+bubble,temperature,0
+bubble,copper,0
+bubble,power,1
+bubble,map,0
+bubble,n star,0
+bubble,url,0
+bubble,filter,1
+bubble,cs,0
+bubble,ethane,0
+bubble,ratio,0
+bubble,me star,0
+bubble,source,1
+bubble,lithium,0
+bubble,coupling,0
+bubble,w-,0
+bubble,function,0
+bubble,tin,0
+bubble,oxygen,0
+bubble,glass,0
+bubble,comparison,0
+bubble,pressure,0
+bubble,water,0
+bubble,graph,1
+bubble,sodium,0
+bubble,unit,0
+bubble,methane,0
+bubble,position,0
+bubble,potassium,1
+bubble,mass,0
+bubble,origin,0
+bubble,f star,0
+bubble,error,0
+bubble,spectroscopy,0
+bubble,design,0
+bubble,g star,0
+bubble,gas,0
+bubble,flux,1
+bubble,microwave,0
+bubble,caesium,0
+bubble,nitrogen,0
+bubble,s star,0
+bubble,volatile,0
+bubble,intensity,0
+bubble,interaction,0
+bubble,iron,0
+bubble,time,0
+bubble,boron,1
+bubble,age,0
+temperature,o star,0
+temperature,ring,18
+temperature,ammonia,1
+temperature,bromine,12
+temperature,ion,21
+temperature,carbon,6
+temperature,electron,0
+temperature,palladium,1
+temperature,proton,1
+temperature,of star,1
+temperature,period,1
+temperature,testing,0
+temperature,magnesium,3
+temperature,ray,17
+temperature,analysis,0
+temperature,system,0
+temperature,spectrum,1
+temperature,he i,1
+temperature,argon,4
+temperature,red star,1
+temperature,evaporation,0
+temperature,formation,0
+temperature,air,2
+temperature,cycle,0
+temperature,current,0
+temperature,arc,10
+temperature,vacuum,1
+temperature,bubble,0
+temperature,copper,0
+temperature,power,21
+temperature,map,0
+temperature,n star,1
+temperature,url,0
+temperature,filter,17
+temperature,cs,12
+temperature,ethane,1
+temperature,ratio,5
+temperature,me star,0
+temperature,source,21
+temperature,lithium,0
+temperature,coupling,6
+temperature,w-,0
+temperature,function,0
+temperature,tin,21
+temperature,oxygen,1
+temperature,glass,1
+temperature,comparison,0
+temperature,pressure,5
+temperature,water,5
+temperature,graph,2
+temperature,sodium,13
+temperature,unit,1
+temperature,methane,1
+temperature,position,4
+temperature,potassium,2
+temperature,mass,1
+temperature,origin,1
+temperature,f star,1
+temperature,error,1
+temperature,spectroscopy,0
+temperature,design,0
+temperature,g star,0
+temperature,gas,2
+temperature,flux,4
+temperature,microwave,1
+temperature,caesium,0
+temperature,nitrogen,1
+temperature,s star,0
+temperature,volatile,0
+temperature,intensity,0
+temperature,interaction,0
+temperature,iron,0
+temperature,time,5
+temperature,boron,4
+temperature,age,4
+copper,o star,0
+copper,ring,1
+copper,ammonia,0
+copper,bromine,0
+copper,ion,1
+copper,carbon,1
+copper,electron,0
+copper,palladium,1
+copper,proton,0
+copper,of star,1
+copper,period,0
+copper,testing,0
+copper,magnesium,0
+copper,ray,0
+copper,analysis,1
+copper,system,0
+copper,spectrum,0
+copper,he i,0
+copper,argon,0
+copper,red star,0
+copper,evaporation,0
+copper,formation,0
+copper,air,0
+copper,cycle,0
+copper,current,0
+copper,arc,1
+copper,vacuum,0
+copper,bubble,0
+copper,temperature,0
+copper,power,1
+copper,map,0
+copper,n star,0
+copper,url,0
+copper,filter,0
+copper,cs,0
+copper,ethane,1
+copper,ratio,0
+copper,me star,0
+copper,source,1
+copper,lithium,0
+copper,coupling,1
+copper,w-,0
+copper,function,0
+copper,tin,1
+copper,oxygen,0
+copper,glass,0
+copper,comparison,0
+copper,pressure,1
+copper,water,0
+copper,graph,1
+copper,sodium,0
+copper,unit,0
+copper,methane,1
+copper,position,0
+copper,potassium,0
+copper,mass,0
+copper,origin,0
+copper,f star,1
+copper,error,0
+copper,spectroscopy,1
+copper,design,0
+copper,g star,0
+copper,gas,0
+copper,flux,0
+copper,microwave,0
+copper,caesium,1
+copper,nitrogen,1
+copper,s star,0
+copper,volatile,0
+copper,intensity,0
+copper,interaction,0
+copper,iron,0
+copper,time,0
+copper,boron,1
+copper,age,0
+power,o star,1
+power,ring,27
+power,ammonia,25
+power,bromine,20
+power,ion,73
+power,carbon,31
+power,electron,1
+power,palladium,5
+power,proton,3
+power,of star,10
+power,period,1
+power,testing,1
+power,magnesium,5
+power,ray,18
+power,analysis,4
+power,system,2
+power,spectrum,10
+power,he i,3
+power,argon,11
+power,red star,6
+power,evaporation,1
+power,formation,4
+power,air,2
+power,cycle,1
+power,current,2
+power,arc,36
+power,vacuum,2
+power,bubble,1
+power,temperature,21
+power,copper,1
+power,map,1
+power,n star,1
+power,url,1
+power,filter,41
+power,cs,12
+power,ethane,25
+power,ratio,25
+power,me star,1
+power,source,74
+power,lithium,1
+power,coupling,18
+power,w-,1
+power,function,1
+power,tin,43
+power,oxygen,1
+power,glass,1
+power,comparison,2
+power,pressure,40
+power,water,15
+power,graph,39
+power,sodium,22
+power,unit,1
+power,methane,25
+power,position,6
+power,potassium,20
+power,mass,1
+power,origin,1
+power,f star,10
+power,error,1
+power,spectroscopy,1
+power,design,1
+power,g star,1
+power,gas,23
+power,flux,9
+power,microwave,18
+power,caesium,1
+power,nitrogen,4
+power,s star,1
+power,volatile,2
+power,intensity,1
+power,interaction,1
+power,iron,1
+power,time,10
+power,boron,40
+power,age,4
+map,o star,0
+map,ring,1
+map,ammonia,0
+map,bromine,0
+map,ion,1
+map,carbon,1
+map,electron,0
+map,palladium,0
+map,proton,0
+map,of star,0
+map,period,0
+map,testing,0
+map,magnesium,1
+map,ray,0
+map,analysis,0
+map,system,0
+map,spectrum,0
+map,he i,0
+map,argon,0
+map,red star,0
+map,evaporation,0
+map,formation,0
+map,air,0
+map,cycle,0
+map,current,0
+map,arc,0
+map,vacuum,0
+map,bubble,0
+map,temperature,0
+map,copper,0
+map,power,1
+map,n star,0
+map,url,1
+map,filter,0
+map,cs,0
+map,ethane,1
+map,ratio,1
+map,me star,0
+map,source,1
+map,lithium,0
+map,coupling,1
+map,w-,0
+map,function,0
+map,tin,0
+map,oxygen,0
+map,glass,0
+map,comparison,0
+map,pressure,0
+map,water,1
+map,graph,1
+map,sodium,0
+map,unit,0
+map,methane,1
+map,position,0
+map,potassium,0
+map,mass,0
+map,origin,0
+map,f star,0
+map,error,0
+map,spectroscopy,0
+map,design,0
+map,g star,0
+map,gas,0
+map,flux,0
+map,microwave,0
+map,caesium,0
+map,nitrogen,0
+map,s star,0
+map,volatile,0
+map,intensity,0
+map,interaction,0
+map,iron,0
+map,time,1
+map,boron,0
+map,age,0
+n star,o star,0
+n star,ring,1
+n star,ammonia,0
+n star,bromine,1
+n star,ion,1
+n star,carbon,0
+n star,electron,0
+n star,palladium,0
+n star,proton,0
+n star,of star,0
+n star,period,0
+n star,testing,0
+n star,magnesium,0
+n star,ray,1
+n star,analysis,0
+n star,system,0
+n star,spectrum,0
+n star,he i,1
+n star,argon,0
+n star,red star,0
+n star,evaporation,0
+n star,formation,0
+n star,air,0
+n star,cycle,0
+n star,current,0
+n star,arc,1
+n star,vacuum,0
+n star,bubble,0
+n star,temperature,1
+n star,copper,0
+n star,power,1
+n star,map,0
+n star,url,0
+n star,filter,0
+n star,cs,1
+n star,ethane,0
+n star,ratio,0
+n star,me star,0
+n star,source,1
+n star,lithium,0
+n star,coupling,0
+n star,w-,0
+n star,function,0
+n star,tin,1
+n star,oxygen,0
+n star,glass,0
+n star,comparison,0
+n star,pressure,0
+n star,water,1
+n star,graph,0
+n star,sodium,1
+n star,unit,0
+n star,methane,0
+n star,position,0
+n star,potassium,0
+n star,mass,1
+n star,origin,1
+n star,f star,0
+n star,error,0
+n star,spectroscopy,0
+n star,design,0
+n star,g star,0
+n star,gas,0
+n star,flux,0
+n star,microwave,0
+n star,caesium,0
+n star,nitrogen,0
+n star,s star,0
+n star,volatile,0
+n star,intensity,0
+n star,interaction,0
+n star,iron,0
+n star,time,1
+n star,boron,0
+n star,age,1
+url,o star,0
+url,ring,1
+url,ammonia,0
+url,bromine,0
+url,ion,1
+url,carbon,1
+url,electron,0
+url,palladium,0
+url,proton,0
+url,of star,0
+url,period,0
+url,testing,0
+url,magnesium,1
+url,ray,0
+url,analysis,0
+url,system,0
+url,spectrum,0
+url,he i,0
+url,argon,0
+url,red star,0
+url,evaporation,0
+url,formation,0
+url,air,0
+url,cycle,0
+url,current,0
+url,arc,0
+url,vacuum,0
+url,bubble,0
+url,temperature,0
+url,copper,0
+url,power,1
+url,map,1
+url,n star,0
+url,filter,0
+url,cs,0
+url,ethane,1
+url,ratio,1
+url,me star,0
+url,source,1
+url,lithium,0
+url,coupling,1
+url,w-,0
+url,function,0
+url,tin,0
+url,oxygen,0
+url,glass,0
+url,comparison,0
+url,pressure,0
+url,water,1
+url,graph,1
+url,sodium,0
+url,unit,0
+url,methane,1
+url,position,0
+url,potassium,0
+url,mass,0
+url,origin,0
+url,f star,0
+url,error,0
+url,spectroscopy,0
+url,design,0
+url,g star,0
+url,gas,0
+url,flux,0
+url,microwave,0
+url,caesium,0
+url,nitrogen,0
+url,s star,0
+url,volatile,0
+url,intensity,0
+url,interaction,0
+url,iron,0
+url,time,1
+url,boron,0
+url,age,0
+filter,o star,0
+filter,ring,18
+filter,ammonia,18
+filter,bromine,10
+filter,ion,41
+filter,carbon,23
+filter,electron,0
+filter,palladium,1
+filter,proton,3
+filter,of star,1
+filter,period,1
+filter,testing,0
+filter,magnesium,3
+filter,ray,15
+filter,analysis,0
+filter,system,0
+filter,spectrum,5
+filter,he i,2
+filter,argon,8
+filter,red star,0
+filter,evaporation,0
+filter,formation,3
+filter,air,2
+filter,cycle,1
+filter,current,0
+filter,arc,16
+filter,vacuum,1
+filter,bubble,1
+filter,temperature,17
+filter,copper,0
+filter,power,41
+filter,map,0
+filter,n star,0
+filter,url,0
+filter,cs,10
+filter,ethane,18
+filter,ratio,15
+filter,me star,1
+filter,source,41
+filter,lithium,0
+filter,coupling,11
+filter,w-,0
+filter,function,0
+filter,tin,24
+filter,oxygen,0
+filter,glass,1
+filter,comparison,0
+filter,pressure,26
+filter,water,5
+filter,graph,25
+filter,sodium,12
+filter,unit,1
+filter,methane,18
+filter,position,6
+filter,potassium,16
+filter,mass,0
+filter,origin,0
+filter,f star,1
+filter,error,1
+filter,spectroscopy,0
+filter,design,0
+filter,g star,0
+filter,gas,15
+filter,flux,5
+filter,microwave,14
+filter,caesium,0
+filter,nitrogen,0
+filter,s star,0
+filter,volatile,0
+filter,intensity,0
+filter,interaction,1
+filter,iron,1
+filter,time,4
+filter,boron,27
+filter,age,3
+cs,o star,0
+cs,ring,12
+cs,ammonia,0
+cs,bromine,7
+cs,ion,12
+cs,carbon,5
+cs,electron,0
+cs,palladium,0
+cs,proton,0
+cs,of star,0
+cs,period,0
+cs,testing,0
+cs,magnesium,3
+cs,ray,12
+cs,analysis,0
+cs,system,0
+cs,spectrum,0
+cs,he i,1
+cs,argon,3
+cs,red star,0
+cs,evaporation,0
+cs,formation,0
+cs,air,1
+cs,cycle,0
+cs,current,0
+cs,arc,7
+cs,vacuum,0
+cs,bubble,0
+cs,temperature,12
+cs,copper,0
+cs,power,12
+cs,map,0
+cs,n star,1
+cs,url,0
+cs,filter,10
+cs,ethane,0
+cs,ratio,4
+cs,me star,0
+cs,source,12
+cs,lithium,0
+cs,coupling,6
+cs,w-,0
+cs,function,0
+cs,tin,12
+cs,oxygen,0
+cs,glass,0
+cs,comparison,0
+cs,pressure,0
+cs,water,1
+cs,graph,0
+cs,sodium,9
+cs,unit,1
+cs,methane,0
+cs,position,1
+cs,potassium,2
+cs,mass,1
+cs,origin,1
+cs,f star,0
+cs,error,1
+cs,spectroscopy,0
+cs,design,0
+cs,g star,0
+cs,gas,2
+cs,flux,3
+cs,microwave,1
+cs,caesium,0
+cs,nitrogen,0
+cs,s star,0
+cs,volatile,0
+cs,intensity,0
+cs,interaction,0
+cs,iron,0
+cs,time,4
+cs,boron,2
+cs,age,1
+ethane,o star,1
+ethane,ring,3
+ethane,ammonia,23
+ethane,bromine,0
+ethane,ion,25
+ethane,carbon,15
+ethane,electron,0
+ethane,palladium,1
+ethane,proton,1
+ethane,of star,4
+ethane,period,0
+ethane,testing,0
+ethane,magnesium,1
+ethane,ray,0
+ethane,analysis,3
+ethane,system,0
+ethane,spectrum,4
+ethane,he i,2
+ethane,argon,2
+ethane,red star,3
+ethane,evaporation,0
+ethane,formation,0
+ethane,air,0
+ethane,cycle,1
+ethane,current,0
+ethane,arc,12
+ethane,vacuum,0
+ethane,bubble,0
+ethane,temperature,1
+ethane,copper,1
+ethane,power,25
+ethane,map,1
+ethane,n star,0
+ethane,url,1
+ethane,filter,18
+ethane,cs,0
+ethane,ratio,16
+ethane,me star,1
+ethane,source,25
+ethane,lithium,0
+ethane,coupling,6
+ethane,w-,0
+ethane,function,0
+ethane,tin,11
+ethane,oxygen,0
+ethane,glass,0
+ethane,comparison,0
+ethane,pressure,23
+ethane,water,2
+ethane,graph,25
+ethane,sodium,0
+ethane,unit,0
+ethane,methane,25
+ethane,position,0
+ethane,potassium,9
+ethane,mass,0
+ethane,origin,0
+ethane,f star,4
+ethane,error,0
+ethane,spectroscopy,1
+ethane,design,0
+ethane,g star,1
+ethane,gas,9
+ethane,flux,0
+ethane,microwave,12
+ethane,caesium,1
+ethane,nitrogen,1
+ethane,s star,1
+ethane,volatile,2
+ethane,intensity,1
+ethane,interaction,1
+ethane,iron,1
+ethane,time,2
+ethane,boron,19
+ethane,age,0
+ratio,o star,1
+ratio,ring,8
+ratio,ammonia,15
+ratio,bromine,4
+ratio,ion,25
+ratio,carbon,11
+ratio,electron,0
+ratio,palladium,0
+ratio,proton,0
+ratio,of star,4
+ratio,period,0
+ratio,testing,1
+ratio,magnesium,1
+ratio,ray,5
+ratio,analysis,3
+ratio,system,0
+ratio,spectrum,4
+ratio,he i,0
+ratio,argon,1
+ratio,red star,3
+ratio,evaporation,1
+ratio,formation,0
+ratio,air,1
+ratio,cycle,0
+ratio,current,0
+ratio,arc,14
+ratio,vacuum,0
+ratio,bubble,0
+ratio,temperature,5
+ratio,copper,0
+ratio,power,25
+ratio,map,1
+ratio,n star,0
+ratio,url,1
+ratio,filter,15
+ratio,cs,4
+ratio,ethane,16
+ratio,me star,1
+ratio,source,25
+ratio,lithium,0
+ratio,coupling,8
+ratio,w-,0
+ratio,function,1
+ratio,tin,15
+ratio,oxygen,0
+ratio,glass,0
+ratio,comparison,2
+ratio,pressure,17
+ratio,water,2
+ratio,graph,19
+ratio,sodium,4
+ratio,unit,0
+ratio,methane,16
+ratio,position,0
+ratio,potassium,6
+ratio,mass,0
+ratio,origin,0
+ratio,f star,4
+ratio,error,0
+ratio,spectroscopy,0
+ratio,design,0
+ratio,g star,1
+ratio,gas,7
+ratio,flux,0
+ratio,microwave,9
+ratio,caesium,0
+ratio,nitrogen,0
+ratio,s star,1
+ratio,volatile,2
+ratio,intensity,1
+ratio,interaction,0
+ratio,iron,0
+ratio,time,2
+ratio,boron,14
+ratio,age,0
+me star,o star,0
+me star,ring,0
+me star,ammonia,1
+me star,bromine,0
+me star,ion,1
+me star,carbon,0
+me star,electron,0
+me star,palladium,0
+me star,proton,0
+me star,of star,0
+me star,period,0
+me star,testing,0
+me star,magnesium,0
+me star,ray,0
+me star,analysis,0
+me star,system,0
+me star,spectrum,0
+me star,he i,0
+me star,argon,0
+me star,red star,0
+me star,evaporation,0
+me star,formation,0
+me star,air,0
+me star,cycle,0
+me star,current,0
+me star,arc,1
+me star,vacuum,0
+me star,bubble,0
+me star,temperature,0
+me star,copper,0
+me star,power,1
+me star,map,0
+me star,n star,0
+me star,url,0
+me star,filter,1
+me star,cs,0
+me star,ethane,1
+me star,ratio,1
+me star,source,1
+me star,lithium,0
+me star,coupling,0
+me star,w-,0
+me star,function,0
+me star,tin,1
+me star,oxygen,0
+me star,glass,0
+me star,comparison,0
+me star,pressure,1
+me star,water,0
+me star,graph,1
+me star,sodium,0
+me star,unit,0
+me star,methane,1
+me star,position,0
+me star,potassium,0
+me star,mass,0
+me star,origin,0
+me star,f star,0
+me star,error,0
+me star,spectroscopy,0
+me star,design,0
+me star,g star,0
+me star,gas,0
+me star,flux,0
+me star,microwave,1
+me star,caesium,0
+me star,nitrogen,0
+me star,s star,0
+me star,volatile,0
+me star,intensity,0
+me star,interaction,0
+me star,iron,0
+me star,time,0
+me star,boron,1
+me star,age,0
+source,o star,1
+source,ring,27
+source,ammonia,25
+source,bromine,20
+source,ion,73
+source,carbon,31
+source,electron,1
+source,palladium,5
+source,proton,3
+source,of star,10
+source,period,1
+source,testing,1
+source,magnesium,5
+source,ray,18
+source,analysis,4
+source,system,2
+source,spectrum,10
+source,he i,3
+source,argon,11
+source,red star,6
+source,evaporation,1
+source,formation,4
+source,air,2
+source,cycle,1
+source,current,2
+source,arc,36
+source,vacuum,2
+source,bubble,1
+source,temperature,21
+source,copper,1
+source,power,74
+source,map,1
+source,n star,1
+source,url,1
+source,filter,41
+source,cs,12
+source,ethane,25
+source,ratio,25
+source,me star,1
+source,lithium,1
+source,coupling,18
+source,w-,1
+source,function,1
+source,tin,43
+source,oxygen,1
+source,glass,1
+source,comparison,2
+source,pressure,40
+source,water,15
+source,graph,39
+source,sodium,22
+source,unit,1
+source,methane,25
+source,position,6
+source,potassium,20
+source,mass,1
+source,origin,1
+source,f star,10
+source,error,1
+source,spectroscopy,1
+source,design,1
+source,g star,1
+source,gas,23
+source,flux,9
+source,microwave,18
+source,caesium,1
+source,nitrogen,4
+source,s star,1
+source,volatile,2
+source,intensity,1
+source,interaction,1
+source,iron,1
+source,time,10
+source,boron,40
+source,age,4
+lithium,o star,0
+lithium,ring,0
+lithium,ammonia,0
+lithium,bromine,1
+lithium,ion,1
+lithium,carbon,0
+lithium,electron,0
+lithium,palladium,0
+lithium,proton,0
+lithium,of star,0
+lithium,period,0
+lithium,testing,0
+lithium,magnesium,1
+lithium,ray,0
+lithium,analysis,0
+lithium,system,0
+lithium,spectrum,0
+lithium,he i,0
+lithium,argon,0
+lithium,red star,0
+lithium,evaporation,0
+lithium,formation,0
+lithium,air,0
+lithium,cycle,0
+lithium,current,0
+lithium,arc,0
+lithium,vacuum,0
+lithium,bubble,0
+lithium,temperature,0
+lithium,copper,0
+lithium,power,1
+lithium,map,0
+lithium,n star,0
+lithium,url,0
+lithium,filter,0
+lithium,cs,0
+lithium,ethane,0
+lithium,ratio,0
+lithium,me star,0
+lithium,source,1
+lithium,coupling,0
+lithium,w-,0
+lithium,function,0
+lithium,tin,0
+lithium,oxygen,0
+lithium,glass,0
+lithium,comparison,0
+lithium,pressure,0
+lithium,water,1
+lithium,graph,0
+lithium,sodium,1
+lithium,unit,0
+lithium,methane,0
+lithium,position,0
+lithium,potassium,0
+lithium,mass,0
+lithium,origin,0
+lithium,f star,0
+lithium,error,0
+lithium,spectroscopy,0
+lithium,design,0
+lithium,g star,0
+lithium,gas,0
+lithium,flux,0
+lithium,microwave,0
+lithium,caesium,0
+lithium,nitrogen,0
+lithium,s star,0
+lithium,volatile,0
+lithium,intensity,0
+lithium,interaction,0
+lithium,iron,0
+lithium,time,1
+lithium,boron,0
+lithium,age,0
+coupling,o star,0
+coupling,ring,8
+coupling,ammonia,4
+coupling,bromine,5
+coupling,ion,18
+coupling,carbon,12
+coupling,electron,0
+coupling,palladium,2
+coupling,proton,1
+coupling,of star,2
+coupling,period,0
+coupling,testing,0
+coupling,magnesium,1
+coupling,ray,6
+coupling,analysis,1
+coupling,system,2
+coupling,spectrum,4
+coupling,he i,1
+coupling,argon,1
+coupling,red star,0
+coupling,evaporation,0
+coupling,formation,1
+coupling,air,1
+coupling,cycle,0
+coupling,current,0
+coupling,arc,15
+coupling,vacuum,0
+coupling,bubble,0
+coupling,temperature,6
+coupling,copper,1
+coupling,power,18
+coupling,map,1
+coupling,n star,0
+coupling,url,1
+coupling,filter,11
+coupling,cs,6
+coupling,ethane,6
+coupling,ratio,8
+coupling,me star,0
+coupling,source,18
+coupling,lithium,0
+coupling,w-,0
+coupling,function,0
+coupling,tin,10
+coupling,oxygen,0
+coupling,glass,0
+coupling,comparison,0
+coupling,pressure,7
+coupling,water,4
+coupling,graph,8
+coupling,sodium,4
+coupling,unit,1
+coupling,methane,6
+coupling,position,0
+coupling,potassium,11
+coupling,mass,0
+coupling,origin,0
+coupling,f star,2
+coupling,error,1
+coupling,spectroscopy,1
+coupling,design,0
+coupling,g star,0
+coupling,gas,12
+coupling,flux,3
+coupling,microwave,1
+coupling,caesium,1
+coupling,nitrogen,2
+coupling,s star,0
+coupling,volatile,0
+coupling,intensity,0
+coupling,interaction,1
+coupling,iron,1
+coupling,time,2
+coupling,boron,13
+coupling,age,0
+w-,o star,0
+w-,ring,0
+w-,ammonia,1
+w-,bromine,0
+w-,ion,1
+w-,carbon,0
+w-,electron,0
+w-,palladium,0
+w-,proton,0
+w-,of star,0
+w-,period,0
+w-,testing,0
+w-,magnesium,0
+w-,ray,0
+w-,analysis,0
+w-,system,0
+w-,spectrum,0
+w-,he i,0
+w-,argon,0
+w-,red star,0
+w-,evaporation,0
+w-,formation,0
+w-,air,0
+w-,cycle,0
+w-,current,0
+w-,arc,1
+w-,vacuum,1
+w-,bubble,0
+w-,temperature,0
+w-,copper,0
+w-,power,1
+w-,map,0
+w-,n star,0
+w-,url,0
+w-,filter,0
+w-,cs,0
+w-,ethane,0
+w-,ratio,0
+w-,me star,0
+w-,source,1
+w-,lithium,0
+w-,coupling,0
+w-,function,0
+w-,tin,0
+w-,oxygen,0
+w-,glass,0
+w-,comparison,0
+w-,pressure,0
+w-,water,0
+w-,graph,0
+w-,sodium,0
+w-,unit,0
+w-,methane,0
+w-,position,0
+w-,potassium,0
+w-,mass,0
+w-,origin,0
+w-,f star,0
+w-,error,0
+w-,spectroscopy,0
+w-,design,0
+w-,g star,0
+w-,gas,0
+w-,flux,0
+w-,microwave,0
+w-,caesium,0
+w-,nitrogen,0
+w-,s star,0
+w-,volatile,0
+w-,intensity,0
+w-,interaction,0
+w-,iron,0
+w-,time,0
+w-,boron,0
+w-,age,0
+function,o star,0
+function,ring,1
+function,ammonia,0
+function,bromine,1
+function,ion,1
+function,carbon,0
+function,electron,0
+function,palladium,0
+function,proton,0
+function,of star,1
+function,period,0
+function,testing,0
+function,magnesium,0
+function,ray,0
+function,analysis,0
+function,system,0
+function,spectrum,0
+function,he i,0
+function,argon,0
+function,red star,0
+function,evaporation,0
+function,formation,0
+function,air,0
+function,cycle,0
+function,current,0
+function,arc,1
+function,vacuum,0
+function,bubble,0
+function,temperature,0
+function,copper,0
+function,power,1
+function,map,0
+function,n star,0
+function,url,0
+function,filter,0
+function,cs,0
+function,ethane,0
+function,ratio,1
+function,me star,0
+function,source,1
+function,lithium,0
+function,coupling,0
+function,w-,0
+function,tin,1
+function,oxygen,0
+function,glass,0
+function,comparison,1
+function,pressure,1
+function,water,0
+function,graph,1
+function,sodium,1
+function,unit,0
+function,methane,0
+function,position,0
+function,potassium,0
+function,mass,0
+function,origin,0
+function,f star,1
+function,error,0
+function,spectroscopy,0
+function,design,0
+function,g star,0
+function,gas,0
+function,flux,0
+function,microwave,0
+function,caesium,0
+function,nitrogen,0
+function,s star,0
+function,volatile,0
+function,intensity,0
+function,interaction,0
+function,iron,0
+function,time,0
+function,boron,0
+function,age,0
+tin,o star,1
+tin,ring,23
+tin,ammonia,11
+tin,bromine,17
+tin,ion,43
+tin,carbon,13
+tin,electron,1
+tin,palladium,2
+tin,proton,3
+tin,of star,10
+tin,period,1
+tin,testing,1
+tin,magnesium,3
+tin,ray,18
+tin,analysis,4
+tin,system,0
+tin,spectrum,8
+tin,he i,2
+tin,argon,6
+tin,red star,6
+tin,evaporation,1
+tin,formation,2
+tin,air,2
+tin,cycle,0
+tin,current,1
+tin,arc,24
+tin,vacuum,1
+tin,bubble,0
+tin,temperature,21
+tin,copper,1
+tin,power,43
+tin,map,0
+tin,n star,1
+tin,url,0
+tin,filter,24
+tin,cs,12
+tin,ethane,11
+tin,ratio,15
+tin,me star,1
+tin,source,43
+tin,lithium,0
+tin,coupling,10
+tin,w-,0
+tin,function,1
+tin,oxygen,1
+tin,glass,1
+tin,comparison,2
+tin,pressure,22
+tin,water,8
+tin,graph,20
+tin,sodium,19
+tin,unit,1
+tin,methane,11
+tin,position,4
+tin,potassium,5
+tin,mass,1
+tin,origin,1
+tin,f star,10
+tin,error,1
+tin,spectroscopy,1
+tin,design,0
+tin,g star,1
+tin,gas,8
+tin,flux,5
+tin,microwave,7
+tin,caesium,1
+tin,nitrogen,2
+tin,s star,1
+tin,volatile,2
+tin,intensity,1
+tin,interaction,1
+tin,iron,1
+tin,time,6
+tin,boron,16
+tin,age,4
+oxygen,o star,0
+oxygen,ring,0
+oxygen,ammonia,0
+oxygen,bromine,0
+oxygen,ion,1
+oxygen,carbon,0
+oxygen,electron,0
+oxygen,palladium,1
+oxygen,proton,0
+oxygen,of star,1
+oxygen,period,0
+oxygen,testing,0
+oxygen,magnesium,0
+oxygen,ray,0
+oxygen,analysis,0
+oxygen,system,0
+oxygen,spectrum,0
+oxygen,he i,0
+oxygen,argon,0
+oxygen,red star,0
+oxygen,evaporation,0
+oxygen,formation,0
+oxygen,air,0
+oxygen,cycle,0
+oxygen,current,0
+oxygen,arc,1
+oxygen,vacuum,0
+oxygen,bubble,0
+oxygen,temperature,1
+oxygen,copper,0
+oxygen,power,1
+oxygen,map,0
+oxygen,n star,0
+oxygen,url,0
+oxygen,filter,0
+oxygen,cs,0
+oxygen,ethane,0
+oxygen,ratio,0
+oxygen,me star,0
+oxygen,source,1
+oxygen,lithium,0
+oxygen,coupling,0
+oxygen,w-,0
+oxygen,function,0
+oxygen,tin,1
+oxygen,glass,0
+oxygen,comparison,0
+oxygen,pressure,1
+oxygen,water,0
+oxygen,graph,0
+oxygen,sodium,0
+oxygen,unit,0
+oxygen,methane,0
+oxygen,position,0
+oxygen,potassium,0
+oxygen,mass,0
+oxygen,origin,0
+oxygen,f star,1
+oxygen,error,0
+oxygen,spectroscopy,0
+oxygen,design,0
+oxygen,g star,0
+oxygen,gas,0
+oxygen,flux,0
+oxygen,microwave,0
+oxygen,caesium,0
+oxygen,nitrogen,1
+oxygen,s star,0
+oxygen,volatile,0
+oxygen,intensity,0
+oxygen,interaction,0
+oxygen,iron,0
+oxygen,time,0
+oxygen,boron,1
+oxygen,age,0
+glass,o star,0
+glass,ring,1
+glass,ammonia,0
+glass,bromine,1
+glass,ion,1
+glass,carbon,0
+glass,electron,0
+glass,palladium,0
+glass,proton,0
+glass,of star,0
+glass,period,0
+glass,testing,0
+glass,magnesium,0
+glass,ray,1
+glass,analysis,0
+glass,system,0
+glass,spectrum,0
+glass,he i,0
+glass,argon,0
+glass,red star,0
+glass,evaporation,0
+glass,formation,0
+glass,air,1
+glass,cycle,0
+glass,current,0
+glass,arc,0
+glass,vacuum,1
+glass,bubble,0
+glass,temperature,1
+glass,copper,0
+glass,power,1
+glass,map,0
+glass,n star,0
+glass,url,0
+glass,filter,1
+glass,cs,0
+glass,ethane,0
+glass,ratio,0
+glass,me star,0
+glass,source,1
+glass,lithium,0
+glass,coupling,0
+glass,w-,0
+glass,function,0
+glass,tin,1
+glass,oxygen,0
+glass,comparison,0
+glass,pressure,1
+glass,water,1
+glass,graph,0
+glass,sodium,0
+glass,unit,0
+glass,methane,0
+glass,position,1
+glass,potassium,0
+glass,mass,0
+glass,origin,0
+glass,f star,0
+glass,error,0
+glass,spectroscopy,0
+glass,design,0
+glass,g star,0
+glass,gas,0
+glass,flux,0
+glass,microwave,0
+glass,caesium,0
+glass,nitrogen,0
+glass,s star,0
+glass,volatile,0
+glass,intensity,0
+glass,interaction,0
+glass,iron,0
+glass,time,0
+glass,boron,0
+glass,age,1
+comparison,o star,0
+comparison,ring,2
+comparison,ammonia,0
+comparison,bromine,2
+comparison,ion,2
+comparison,carbon,0
+comparison,electron,0
+comparison,palladium,0
+comparison,proton,0
+comparison,of star,2
+comparison,period,0
+comparison,testing,0
+comparison,magnesium,0
+comparison,ray,0
+comparison,analysis,1
+comparison,system,0
+comparison,spectrum,1
+comparison,he i,0
+comparison,argon,0
+comparison,red star,0
+comparison,evaporation,1
+comparison,formation,0
+comparison,air,0
+comparison,cycle,0
+comparison,current,0
+comparison,arc,1
+comparison,vacuum,0
+comparison,bubble,0
+comparison,temperature,0
+comparison,copper,0
+comparison,power,2
+comparison,map,0
+comparison,n star,0
+comparison,url,0
+comparison,filter,0
+comparison,cs,0
+comparison,ethane,0
+comparison,ratio,2
+comparison,me star,0
+comparison,source,2
+comparison,lithium,0
+comparison,coupling,0
+comparison,w-,0
+comparison,function,1
+comparison,tin,2
+comparison,oxygen,0
+comparison,glass,0
+comparison,pressure,2
+comparison,water,1
+comparison,graph,2
+comparison,sodium,2
+comparison,unit,0
+comparison,methane,0
+comparison,position,0
+comparison,potassium,0
+comparison,mass,0
+comparison,origin,0
+comparison,f star,2
+comparison,error,0
+comparison,spectroscopy,0
+comparison,design,0
+comparison,g star,0
+comparison,gas,0
+comparison,flux,0
+comparison,microwave,0
+comparison,caesium,0
+comparison,nitrogen,0
+comparison,s star,0
+comparison,volatile,0
+comparison,intensity,0
+comparison,interaction,0
+comparison,iron,0
+comparison,time,0
+comparison,boron,0
+comparison,age,0
+pressure,o star,1
+pressure,ring,7
+pressure,ammonia,22
+pressure,bromine,8
+pressure,ion,40
+pressure,carbon,19
+pressure,electron,0
+pressure,palladium,2
+pressure,proton,2
+pressure,of star,9
+pressure,period,0
+pressure,testing,0
+pressure,magnesium,0
+pressure,ray,2
+pressure,analysis,4
+pressure,system,0
+pressure,spectrum,9
+pressure,he i,2
+pressure,argon,4
+pressure,red star,5
+pressure,evaporation,1
+pressure,formation,2
+pressure,air,1
+pressure,cycle,1
+pressure,current,2
+pressure,arc,23
+pressure,vacuum,1
+pressure,bubble,0
+pressure,temperature,5
+pressure,copper,1
+pressure,power,40
+pressure,map,0
+pressure,n star,0
+pressure,url,0
+pressure,filter,26
+pressure,cs,0
+pressure,ethane,23
+pressure,ratio,17
+pressure,me star,1
+pressure,source,40
+pressure,lithium,0
+pressure,coupling,7
+pressure,w-,0
+pressure,function,1
+pressure,tin,22
+pressure,oxygen,1
+pressure,glass,1
+pressure,comparison,2
+pressure,water,8
+pressure,graph,35
+pressure,sodium,6
+pressure,unit,0
+pressure,methane,23
+pressure,position,4
+pressure,potassium,13
+pressure,mass,0
+pressure,origin,0
+pressure,f star,9
+pressure,error,0
+pressure,spectroscopy,1
+pressure,design,1
+pressure,g star,0
+pressure,gas,14
+pressure,flux,0
+pressure,microwave,13
+pressure,caesium,1
+pressure,nitrogen,3
+pressure,s star,1
+pressure,volatile,2
+pressure,intensity,1
+pressure,interaction,1
+pressure,iron,1
+pressure,time,1
+pressure,boron,27
+pressure,age,2
+water,o star,0
+water,ring,7
+water,ammonia,1
+water,bromine,7
+water,ion,15
+water,carbon,5
+water,electron,0
+water,palladium,1
+water,proton,0
+water,of star,3
+water,period,1
+water,testing,0
+water,magnesium,2
+water,ray,4
+water,analysis,1
+water,system,2
+water,spectrum,2
+water,he i,2
+water,argon,3
+water,red star,1
+water,evaporation,1
+water,formation,0
+water,air,1
+water,cycle,1
+water,current,0
+water,arc,6
+water,vacuum,1
+water,bubble,0
+water,temperature,5
+water,copper,0
+water,power,15
+water,map,1
+water,n star,1
+water,url,1
+water,filter,5
+water,cs,1
+water,ethane,2
+water,ratio,2
+water,me star,0
+water,source,15
+water,lithium,1
+water,coupling,4
+water,w-,0
+water,function,0
+water,tin,8
+water,oxygen,0
+water,glass,1
+water,comparison,1
+water,pressure,8
+water,graph,5
+water,sodium,6
+water,unit,0
+water,methane,2
+water,position,3
+water,potassium,3
+water,mass,1
+water,origin,1
+water,f star,3
+water,error,0
+water,spectroscopy,0
+water,design,1
+water,g star,0
+water,gas,5
+water,flux,4
+water,microwave,0
+water,caesium,0
+water,nitrogen,2
+water,s star,0
+water,volatile,0
+water,intensity,0
+water,interaction,0
+water,iron,0
+water,time,6
+water,boron,6
+water,age,4
+graph,o star,1
+graph,ring,8
+graph,ammonia,23
+graph,bromine,7
+graph,ion,39
+graph,carbon,20
+graph,electron,0
+graph,palladium,2
+graph,proton,3
+graph,of star,8
+graph,period,0
+graph,testing,0
+graph,magnesium,1
+graph,ray,0
+graph,analysis,4
+graph,system,0
+graph,spectrum,9
+graph,he i,2
+graph,argon,5
+graph,red star,5
+graph,evaporation,1
+graph,formation,3
+graph,air,0
+graph,cycle,1
+graph,current,2
+graph,arc,21
+graph,vacuum,0
+graph,bubble,1
+graph,temperature,2
+graph,copper,1
+graph,power,39
+graph,map,1
+graph,n star,0
+graph,url,1
+graph,filter,25
+graph,cs,0
+graph,ethane,25
+graph,ratio,19
+graph,me star,1
+graph,source,39
+graph,lithium,0
+graph,coupling,8
+graph,w-,0
+graph,function,1
+graph,tin,20
+graph,oxygen,0
+graph,glass,0
+graph,comparison,2
+graph,pressure,35
+graph,water,5
+graph,sodium,7
+graph,unit,0
+graph,methane,25
+graph,position,2
+graph,potassium,14
+graph,mass,0
+graph,origin,0
+graph,f star,8
+graph,error,0
+graph,spectroscopy,1
+graph,design,0
+graph,g star,1
+graph,gas,14
+graph,flux,1
+graph,microwave,13
+graph,caesium,1
+graph,nitrogen,1
+graph,s star,1
+graph,volatile,2
+graph,intensity,1
+graph,interaction,1
+graph,iron,1
+graph,time,2
+graph,boron,26
+graph,age,0
+sodium,o star,0
+sodium,ring,16
+sodium,ammonia,0
+sodium,bromine,17
+sodium,ion,22
+sodium,carbon,5
+sodium,electron,0
+sodium,palladium,1
+sodium,proton,1
+sodium,of star,4
+sodium,period,1
+sodium,testing,0
+sodium,magnesium,4
+sodium,ray,12
+sodium,analysis,1
+sodium,system,0
+sodium,spectrum,3
+sodium,he i,1
+sodium,argon,5
+sodium,red star,3
+sodium,evaporation,1
+sodium,formation,0
+sodium,air,0
+sodium,cycle,0
+sodium,current,2
+sodium,arc,10
+sodium,vacuum,0
+sodium,bubble,0
+sodium,temperature,13
+sodium,copper,0
+sodium,power,22
+sodium,map,0
+sodium,n star,1
+sodium,url,0
+sodium,filter,12
+sodium,cs,9
+sodium,ethane,0
+sodium,ratio,4
+sodium,me star,0
+sodium,source,22
+sodium,lithium,1
+sodium,coupling,4
+sodium,w-,0
+sodium,function,1
+sodium,tin,19
+sodium,oxygen,0
+sodium,glass,0
+sodium,comparison,2
+sodium,pressure,6
+sodium,water,6
+sodium,graph,7
+sodium,unit,1
+sodium,methane,0
+sodium,position,2
+sodium,potassium,0
+sodium,mass,1
+sodium,origin,1
+sodium,f star,4
+sodium,error,1
+sodium,spectroscopy,0
+sodium,design,0
+sodium,g star,0
+sodium,gas,2
+sodium,flux,6
+sodium,microwave,1
+sodium,caesium,0
+sodium,nitrogen,1
+sodium,s star,0
+sodium,volatile,0
+sodium,intensity,0
+sodium,interaction,0
+sodium,iron,0
+sodium,time,7
+sodium,boron,2
+sodium,age,2
+unit,o star,0
+unit,ring,1
+unit,ammonia,0
+unit,bromine,1
+unit,ion,1
+unit,carbon,0
+unit,electron,0
+unit,palladium,0
+unit,proton,0
+unit,of star,0
+unit,period,0
+unit,testing,0
+unit,magnesium,0
+unit,ray,1
+unit,analysis,0
+unit,system,0
+unit,spectrum,0
+unit,he i,0
+unit,argon,0
+unit,red star,0
+unit,evaporation,0
+unit,formation,0
+unit,air,0
+unit,cycle,0
+unit,current,0
+unit,arc,1
+unit,vacuum,0
+unit,bubble,0
+unit,temperature,1
+unit,copper,0
+unit,power,1
+unit,map,0
+unit,n star,0
+unit,url,0
+unit,filter,1
+unit,cs,1
+unit,ethane,0
+unit,ratio,0
+unit,me star,0
+unit,source,1
+unit,lithium,0
+unit,coupling,1
+unit,w-,0
+unit,function,0
+unit,tin,1
+unit,oxygen,0
+unit,glass,0
+unit,comparison,0
+unit,pressure,0
+unit,water,0
+unit,graph,0
+unit,sodium,1
+unit,methane,0
+unit,position,0
+unit,potassium,0
+unit,mass,0
+unit,origin,0
+unit,f star,0
+unit,error,1
+unit,spectroscopy,0
+unit,design,0
+unit,g star,0
+unit,gas,0
+unit,flux,0
+unit,microwave,0
+unit,caesium,0
+unit,nitrogen,0
+unit,s star,0
+unit,volatile,0
+unit,intensity,0
+unit,interaction,0
+unit,iron,0
+unit,time,0
+unit,boron,0
+unit,age,0
+methane,o star,1
+methane,ring,3
+methane,ammonia,23
+methane,bromine,0
+methane,ion,25
+methane,carbon,15
+methane,electron,0
+methane,palladium,1
+methane,proton,1
+methane,of star,4
+methane,period,0
+methane,testing,0
+methane,magnesium,1
+methane,ray,0
+methane,analysis,3
+methane,system,0
+methane,spectrum,4
+methane,he i,2
+methane,argon,2
+methane,red star,3
+methane,evaporation,0
+methane,formation,0
+methane,air,0
+methane,cycle,1
+methane,current,0
+methane,arc,12
+methane,vacuum,0
+methane,bubble,0
+methane,temperature,1
+methane,copper,1
+methane,power,25
+methane,map,1
+methane,n star,0
+methane,url,1
+methane,filter,18
+methane,cs,0
+methane,ethane,25
+methane,ratio,16
+methane,me star,1
+methane,source,25
+methane,lithium,0
+methane,coupling,6
+methane,w-,0
+methane,function,0
+methane,tin,11
+methane,oxygen,0
+methane,glass,0
+methane,comparison,0
+methane,pressure,23
+methane,water,2
+methane,graph,25
+methane,sodium,0
+methane,unit,0
+methane,position,0
+methane,potassium,9
+methane,mass,0
+methane,origin,0
+methane,f star,4
+methane,error,0
+methane,spectroscopy,1
+methane,design,0
+methane,g star,1
+methane,gas,9
+methane,flux,0
+methane,microwave,12
+methane,caesium,1
+methane,nitrogen,1
+methane,s star,1
+methane,volatile,2
+methane,intensity,1
+methane,interaction,1
+methane,iron,1
+methane,time,2
+methane,boron,19
+methane,age,0
+position,o star,0
+position,ring,4
+position,ammonia,0
+position,bromine,2
+position,ion,6
+position,carbon,4
+position,electron,0
+position,palladium,0
+position,proton,0
+position,of star,0
+position,period,1
+position,testing,0
+position,magnesium,1
+position,ray,4
+position,analysis,0
+position,system,0
+position,spectrum,1
+position,he i,0
+position,argon,3
+position,red star,0
+position,evaporation,0
+position,formation,1
+position,air,1
+position,cycle,0
+position,current,0
+position,arc,1
+position,vacuum,1
+position,bubble,0
+position,temperature,4
+position,copper,0
+position,power,6
+position,map,0
+position,n star,0
+position,url,0
+position,filter,6
+position,cs,1
+position,ethane,0
+position,ratio,0
+position,me star,0
+position,source,6
+position,lithium,0
+position,coupling,0
+position,w-,0
+position,function,0
+position,tin,4
+position,oxygen,0
+position,glass,1
+position,comparison,0
+position,pressure,4
+position,water,3
+position,graph,2
+position,sodium,2
+position,unit,0
+position,methane,0
+position,potassium,2
+position,mass,0
+position,origin,0
+position,f star,0
+position,error,0
+position,spectroscopy,0
+position,design,0
+position,g star,0
+position,gas,2
+position,flux,2
+position,microwave,0
+position,caesium,0
+position,nitrogen,0
+position,s star,0
+position,volatile,0
+position,intensity,0
+position,interaction,0
+position,iron,0
+position,time,2
+position,boron,2
+position,age,3
+potassium,o star,0
+potassium,ring,5
+potassium,ammonia,9
+potassium,bromine,0
+potassium,ion,20
+potassium,carbon,17
+potassium,electron,0
+potassium,palladium,1
+potassium,proton,1
+potassium,of star,1
+potassium,period,0
+potassium,testing,0
+potassium,magnesium,0
+potassium,ray,2
+potassium,analysis,0
+potassium,system,2
+potassium,spectrum,5
+potassium,he i,2
+potassium,argon,4
+potassium,red star,0
+potassium,evaporation,0
+potassium,formation,3
+potassium,air,1
+potassium,cycle,1
+potassium,current,0
+potassium,arc,14
+potassium,vacuum,0
+potassium,bubble,1
+potassium,temperature,2
+potassium,copper,0
+potassium,power,20
+potassium,map,0
+potassium,n star,0
+potassium,url,0
+potassium,filter,16
+potassium,cs,2
+potassium,ethane,9
+potassium,ratio,6
+potassium,me star,0
+potassium,source,20
+potassium,lithium,0
+potassium,coupling,11
+potassium,w-,0
+potassium,function,0
+potassium,tin,5
+potassium,oxygen,0
+potassium,glass,0
+potassium,comparison,0
+potassium,pressure,13
+potassium,water,3
+potassium,graph,14
+potassium,sodium,0
+potassium,unit,0
+potassium,methane,9
+potassium,position,2
+potassium,mass,0
+potassium,origin,0
+potassium,f star,1
+potassium,error,0
+potassium,spectroscopy,0
+potassium,design,0
+potassium,g star,0
+potassium,gas,19
+potassium,flux,3
+potassium,microwave,3
+potassium,caesium,0
+potassium,nitrogen,0
+potassium,s star,0
+potassium,volatile,0
+potassium,intensity,0
+potassium,interaction,1
+potassium,iron,1
+potassium,time,0
+potassium,boron,20
+potassium,age,0
+mass,o star,0
+mass,ring,1
+mass,ammonia,0
+mass,bromine,1
+mass,ion,1
+mass,carbon,0
+mass,electron,0
+mass,palladium,0
+mass,proton,0
+mass,of star,0
+mass,period,0
+mass,testing,0
+mass,magnesium,0
+mass,ray,1
+mass,analysis,0
+mass,system,0
+mass,spectrum,0
+mass,he i,1
+mass,argon,0
+mass,red star,0
+mass,evaporation,0
+mass,formation,0
+mass,air,0
+mass,cycle,0
+mass,current,0
+mass,arc,1
+mass,vacuum,0
+mass,bubble,0
+mass,temperature,1
+mass,copper,0
+mass,power,1
+mass,map,0
+mass,n star,1
+mass,url,0
+mass,filter,0
+mass,cs,1
+mass,ethane,0
+mass,ratio,0
+mass,me star,0
+mass,source,1
+mass,lithium,0
+mass,coupling,0
+mass,w-,0
+mass,function,0
+mass,tin,1
+mass,oxygen,0
+mass,glass,0
+mass,comparison,0
+mass,pressure,0
+mass,water,1
+mass,graph,0
+mass,sodium,1
+mass,unit,0
+mass,methane,0
+mass,position,0
+mass,potassium,0
+mass,origin,1
+mass,f star,0
+mass,error,0
+mass,spectroscopy,0
+mass,design,0
+mass,g star,0
+mass,gas,0
+mass,flux,0
+mass,microwave,0
+mass,caesium,0
+mass,nitrogen,0
+mass,s star,0
+mass,volatile,0
+mass,intensity,0
+mass,interaction,0
+mass,iron,0
+mass,time,1
+mass,boron,0
+mass,age,1
+origin,o star,0
+origin,ring,1
+origin,ammonia,0
+origin,bromine,1
+origin,ion,1
+origin,carbon,0
+origin,electron,0
+origin,palladium,0
+origin,proton,0
+origin,of star,0
+origin,period,0
+origin,testing,0
+origin,magnesium,0
+origin,ray,1
+origin,analysis,0
+origin,system,0
+origin,spectrum,0
+origin,he i,1
+origin,argon,0
+origin,red star,0
+origin,evaporation,0
+origin,formation,0
+origin,air,0
+origin,cycle,0
+origin,current,0
+origin,arc,1
+origin,vacuum,0
+origin,bubble,0
+origin,temperature,1
+origin,copper,0
+origin,power,1
+origin,map,0
+origin,n star,1
+origin,url,0
+origin,filter,0
+origin,cs,1
+origin,ethane,0
+origin,ratio,0
+origin,me star,0
+origin,source,1
+origin,lithium,0
+origin,coupling,0
+origin,w-,0
+origin,function,0
+origin,tin,1
+origin,oxygen,0
+origin,glass,0
+origin,comparison,0
+origin,pressure,0
+origin,water,1
+origin,graph,0
+origin,sodium,1
+origin,unit,0
+origin,methane,0
+origin,position,0
+origin,potassium,0
+origin,mass,1
+origin,f star,0
+origin,error,0
+origin,spectroscopy,0
+origin,design,0
+origin,g star,0
+origin,gas,0
+origin,flux,0
+origin,microwave,0
+origin,caesium,0
+origin,nitrogen,0
+origin,s star,0
+origin,volatile,0
+origin,intensity,0
+origin,interaction,0
+origin,iron,0
+origin,time,1
+origin,boron,0
+origin,age,1
+f star,o star,1
+f star,ring,4
+f star,ammonia,3
+f star,bromine,3
+f star,ion,10
+f star,carbon,3
+f star,electron,0
+f star,palladium,2
+f star,proton,1
+f star,of star,10
+f star,period,0
+f star,testing,0
+f star,magnesium,0
+f star,ray,0
+f star,analysis,3
+f star,system,0
+f star,spectrum,4
+f star,he i,0
+f star,argon,1
+f star,red star,3
+f star,evaporation,1
+f star,formation,0
+f star,air,0
+f star,cycle,0
+f star,current,0
+f star,arc,9
+f star,vacuum,0
+f star,bubble,0
+f star,temperature,1
+f star,copper,1
+f star,power,10
+f star,map,0
+f star,n star,0
+f star,url,0
+f star,filter,1
+f star,cs,0
+f star,ethane,4
+f star,ratio,4
+f star,me star,0
+f star,source,10
+f star,lithium,0
+f star,coupling,2
+f star,w-,0
+f star,function,1
+f star,tin,10
+f star,oxygen,1
+f star,glass,0
+f star,comparison,2
+f star,pressure,9
+f star,water,3
+f star,graph,8
+f star,sodium,4
+f star,unit,0
+f star,methane,4
+f star,position,0
+f star,potassium,1
+f star,mass,0
+f star,origin,0
+f star,error,0
+f star,spectroscopy,1
+f star,design,0
+f star,g star,0
+f star,gas,3
+f star,flux,1
+f star,microwave,0
+f star,caesium,1
+f star,nitrogen,2
+f star,s star,1
+f star,volatile,1
+f star,intensity,1
+f star,interaction,1
+f star,iron,1
+f star,time,0
+f star,boron,5
+f star,age,0
+error,o star,0
+error,ring,1
+error,ammonia,0
+error,bromine,1
+error,ion,1
+error,carbon,0
+error,electron,0
+error,palladium,0
+error,proton,0
+error,of star,0
+error,period,0
+error,testing,0
+error,magnesium,0
+error,ray,1
+error,analysis,0
+error,system,0
+error,spectrum,0
+error,he i,0
+error,argon,0
+error,red star,0
+error,evaporation,0
+error,formation,0
+error,air,0
+error,cycle,0
+error,current,0
+error,arc,1
+error,vacuum,0
+error,bubble,0
+error,temperature,1
+error,copper,0
+error,power,1
+error,map,0
+error,n star,0
+error,url,0
+error,filter,1
+error,cs,1
+error,ethane,0
+error,ratio,0
+error,me star,0
+error,source,1
+error,lithium,0
+error,coupling,1
+error,w-,0
+error,function,0
+error,tin,1
+error,oxygen,0
+error,glass,0
+error,comparison,0
+error,pressure,0
+error,water,0
+error,graph,0
+error,sodium,1
+error,unit,1
+error,methane,0
+error,position,0
+error,potassium,0
+error,mass,0
+error,origin,0
+error,f star,0
+error,spectroscopy,0
+error,design,0
+error,g star,0
+error,gas,0
+error,flux,0
+error,microwave,0
+error,caesium,0
+error,nitrogen,0
+error,s star,0
+error,volatile,0
+error,intensity,0
+error,interaction,0
+error,iron,0
+error,time,0
+error,boron,0
+error,age,0
+spectroscopy,o star,0
+spectroscopy,ring,1
+spectroscopy,ammonia,0
+spectroscopy,bromine,0
+spectroscopy,ion,1
+spectroscopy,carbon,1
+spectroscopy,electron,0
+spectroscopy,palladium,1
+spectroscopy,proton,0
+spectroscopy,of star,1
+spectroscopy,period,0
+spectroscopy,testing,0
+spectroscopy,magnesium,0
+spectroscopy,ray,0
+spectroscopy,analysis,1
+spectroscopy,system,0
+spectroscopy,spectrum,0
+spectroscopy,he i,0
+spectroscopy,argon,0
+spectroscopy,red star,0
+spectroscopy,evaporation,0
+spectroscopy,formation,0
+spectroscopy,air,0
+spectroscopy,cycle,0
+spectroscopy,current,0
+spectroscopy,arc,1
+spectroscopy,vacuum,0
+spectroscopy,bubble,0
+spectroscopy,temperature,0
+spectroscopy,copper,1
+spectroscopy,power,1
+spectroscopy,map,0
+spectroscopy,n star,0
+spectroscopy,url,0
+spectroscopy,filter,0
+spectroscopy,cs,0
+spectroscopy,ethane,1
+spectroscopy,ratio,0
+spectroscopy,me star,0
+spectroscopy,source,1
+spectroscopy,lithium,0
+spectroscopy,coupling,1
+spectroscopy,w-,0
+spectroscopy,function,0
+spectroscopy,tin,1
+spectroscopy,oxygen,0
+spectroscopy,glass,0
+spectroscopy,comparison,0
+spectroscopy,pressure,1
+spectroscopy,water,0
+spectroscopy,graph,1
+spectroscopy,sodium,0
+spectroscopy,unit,0
+spectroscopy,methane,1
+spectroscopy,position,0
+spectroscopy,potassium,0
+spectroscopy,mass,0
+spectroscopy,origin,0
+spectroscopy,f star,1
+spectroscopy,error,0
+spectroscopy,design,0
+spectroscopy,g star,0
+spectroscopy,gas,0
+spectroscopy,flux,0
+spectroscopy,microwave,0
+spectroscopy,caesium,1
+spectroscopy,nitrogen,1
+spectroscopy,s star,0
+spectroscopy,volatile,0
+spectroscopy,intensity,0
+spectroscopy,interaction,0
+spectroscopy,iron,0
+spectroscopy,time,0
+spectroscopy,boron,1
+spectroscopy,age,0
+design,o star,0
+design,ring,0
+design,ammonia,0
+design,bromine,0
+design,ion,1
+design,carbon,0
+design,electron,0
+design,palladium,0
+design,proton,0
+design,of star,0
+design,period,0
+design,testing,0
+design,magnesium,0
+design,ray,0
+design,analysis,0
+design,system,0
+design,spectrum,0
+design,he i,0
+design,argon,0
+design,red star,0
+design,evaporation,0
+design,formation,0
+design,air,0
+design,cycle,0
+design,current,0
+design,arc,0
+design,vacuum,0
+design,bubble,0
+design,temperature,0
+design,copper,0
+design,power,1
+design,map,0
+design,n star,0
+design,url,0
+design,filter,0
+design,cs,0
+design,ethane,0
+design,ratio,0
+design,me star,0
+design,source,1
+design,lithium,0
+design,coupling,0
+design,w-,0
+design,function,0
+design,tin,0
+design,oxygen,0
+design,glass,0
+design,comparison,0
+design,pressure,1
+design,water,1
+design,graph,0
+design,sodium,0
+design,unit,0
+design,methane,0
+design,position,0
+design,potassium,0
+design,mass,0
+design,origin,0
+design,f star,0
+design,error,0
+design,spectroscopy,0
+design,g star,0
+design,gas,0
+design,flux,0
+design,microwave,0
+design,caesium,0
+design,nitrogen,1
+design,s star,0
+design,volatile,0
+design,intensity,0
+design,interaction,0
+design,iron,0
+design,time,1
+design,boron,0
+design,age,0
+g star,o star,0
+g star,ring,0
+g star,ammonia,1
+g star,bromine,0
+g star,ion,1
+g star,carbon,0
+g star,electron,0
+g star,palladium,0
+g star,proton,0
+g star,of star,0
+g star,period,0
+g star,testing,0
+g star,magnesium,0
+g star,ray,0
+g star,analysis,0
+g star,system,0
+g star,spectrum,0
+g star,he i,0
+g star,argon,0
+g star,red star,0
+g star,evaporation,0
+g star,formation,0
+g star,air,0
+g star,cycle,0
+g star,current,0
+g star,arc,0
+g star,vacuum,0
+g star,bubble,0
+g star,temperature,0
+g star,copper,0
+g star,power,1
+g star,map,0
+g star,n star,0
+g star,url,0
+g star,filter,0
+g star,cs,0
+g star,ethane,1
+g star,ratio,1
+g star,me star,0
+g star,source,1
+g star,lithium,0
+g star,coupling,0
+g star,w-,0
+g star,function,0
+g star,tin,1
+g star,oxygen,0
+g star,glass,0
+g star,comparison,0
+g star,pressure,0
+g star,water,0
+g star,graph,1
+g star,sodium,0
+g star,unit,0
+g star,methane,1
+g star,position,0
+g star,potassium,0
+g star,mass,0
+g star,origin,0
+g star,f star,0
+g star,error,0
+g star,spectroscopy,0
+g star,design,0
+g star,gas,0
+g star,flux,0
+g star,microwave,0
+g star,caesium,0
+g star,nitrogen,0
+g star,s star,0
+g star,volatile,0
+g star,intensity,0
+g star,interaction,0
+g star,iron,0
+g star,time,1
+g star,boron,0
+g star,age,0
+gas,o star,0
+gas,ring,5
+gas,ammonia,9
+gas,bromine,1
+gas,ion,23
+gas,carbon,20
+gas,electron,0
+gas,palladium,1
+gas,proton,1
+gas,of star,3
+gas,period,0
+gas,testing,1
+gas,magnesium,0
+gas,ray,3
+gas,analysis,0
+gas,system,2
+gas,spectrum,6
+gas,he i,2
+gas,argon,6
+gas,red star,1
+gas,evaporation,0
+gas,formation,2
+gas,air,1
+gas,cycle,1
+gas,current,0
+gas,arc,16
+gas,vacuum,0
+gas,bubble,0
+gas,temperature,2
+gas,copper,0
+gas,power,23
+gas,map,0
+gas,n star,0
+gas,url,0
+gas,filter,15
+gas,cs,2
+gas,ethane,9
+gas,ratio,7
+gas,me star,0
+gas,source,23
+gas,lithium,0
+gas,coupling,12
+gas,w-,0
+gas,function,0
+gas,tin,8
+gas,oxygen,0
+gas,glass,0
+gas,comparison,0
+gas,pressure,14
+gas,water,5
+gas,graph,14
+gas,sodium,2
+gas,unit,0
+gas,methane,9
+gas,position,2
+gas,potassium,19
+gas,mass,0
+gas,origin,0
+gas,f star,3
+gas,error,0
+gas,spectroscopy,0
+gas,design,0
+gas,g star,0
+gas,flux,4
+gas,microwave,4
+gas,caesium,0
+gas,nitrogen,1
+gas,s star,0
+gas,volatile,0
+gas,intensity,0
+gas,interaction,1
+gas,iron,1
+gas,time,1
+gas,boron,23
+gas,age,0
+flux,o star,0
+flux,ring,5
+flux,ammonia,0
+flux,bromine,1
+flux,ion,9
+flux,carbon,5
+flux,electron,0
+flux,palladium,2
+flux,proton,0
+flux,of star,1
+flux,period,1
+flux,testing,0
+flux,magnesium,3
+flux,ray,4
+flux,analysis,0
+flux,system,2
+flux,spectrum,1
+flux,he i,0
+flux,argon,6
+flux,red star,1
+flux,evaporation,0
+flux,formation,1
+flux,air,0
+flux,cycle,0
+flux,current,0
+flux,arc,3
+flux,vacuum,0
+flux,bubble,1
+flux,temperature,4
+flux,copper,0
+flux,power,9
+flux,map,0
+flux,n star,0
+flux,url,0
+flux,filter,5
+flux,cs,3
+flux,ethane,0
+flux,ratio,0
+flux,me star,0
+flux,source,9
+flux,lithium,0
+flux,coupling,3
+flux,w-,0
+flux,function,0
+flux,tin,5
+flux,oxygen,0
+flux,glass,0
+flux,comparison,0
+flux,pressure,0
+flux,water,4
+flux,graph,1
+flux,sodium,6
+flux,unit,0
+flux,methane,0
+flux,position,2
+flux,potassium,3
+flux,mass,0
+flux,origin,0
+flux,f star,1
+flux,error,0
+flux,spectroscopy,0
+flux,design,0
+flux,g star,0
+flux,gas,4
+flux,microwave,0
+flux,caesium,0
+flux,nitrogen,1
+flux,s star,0
+flux,volatile,0
+flux,intensity,0
+flux,interaction,0
+flux,iron,0
+flux,time,5
+flux,boron,5
+flux,age,1
+microwave,o star,0
+microwave,ring,3
+microwave,ammonia,12
+microwave,bromine,1
+microwave,ion,18
+microwave,carbon,9
+microwave,electron,1
+microwave,palladium,1
+microwave,proton,1
+microwave,of star,0
+microwave,period,0
+microwave,testing,1
+microwave,magnesium,0
+microwave,ray,2
+microwave,analysis,0
+microwave,system,0
+microwave,spectrum,0
+microwave,he i,0
+microwave,argon,3
+microwave,red star,0
+microwave,evaporation,0
+microwave,formation,1
+microwave,air,0
+microwave,cycle,0
+microwave,current,0
+microwave,arc,2
+microwave,vacuum,0
+microwave,bubble,0
+microwave,temperature,1
+microwave,copper,0
+microwave,power,18
+microwave,map,0
+microwave,n star,0
+microwave,url,0
+microwave,filter,14
+microwave,cs,1
+microwave,ethane,12
+microwave,ratio,9
+microwave,me star,1
+microwave,source,18
+microwave,lithium,0
+microwave,coupling,1
+microwave,w-,0
+microwave,function,0
+microwave,tin,7
+microwave,oxygen,0
+microwave,glass,0
+microwave,comparison,0
+microwave,pressure,13
+microwave,water,0
+microwave,graph,13
+microwave,sodium,1
+microwave,unit,0
+microwave,methane,12
+microwave,position,0
+microwave,potassium,3
+microwave,mass,0
+microwave,origin,0
+microwave,f star,0
+microwave,error,0
+microwave,spectroscopy,0
+microwave,design,0
+microwave,g star,0
+microwave,gas,4
+microwave,flux,0
+microwave,caesium,0
+microwave,nitrogen,0
+microwave,s star,0
+microwave,volatile,0
+microwave,intensity,0
+microwave,interaction,0
+microwave,iron,0
+microwave,time,0
+microwave,boron,17
+microwave,age,0
+caesium,o star,0
+caesium,ring,1
+caesium,ammonia,0
+caesium,bromine,0
+caesium,ion,1
+caesium,carbon,1
+caesium,electron,0
+caesium,palladium,1
+caesium,proton,0
+caesium,of star,1
+caesium,period,0
+caesium,testing,0
+caesium,magnesium,0
+caesium,ray,0
+caesium,analysis,1
+caesium,system,0
+caesium,spectrum,0
+caesium,he i,0
+caesium,argon,0
+caesium,red star,0
+caesium,evaporation,0
+caesium,formation,0
+caesium,air,0
+caesium,cycle,0
+caesium,current,0
+caesium,arc,1
+caesium,vacuum,0
+caesium,bubble,0
+caesium,temperature,0
+caesium,copper,1
+caesium,power,1
+caesium,map,0
+caesium,n star,0
+caesium,url,0
+caesium,filter,0
+caesium,cs,0
+caesium,ethane,1
+caesium,ratio,0
+caesium,me star,0
+caesium,source,1
+caesium,lithium,0
+caesium,coupling,1
+caesium,w-,0
+caesium,function,0
+caesium,tin,1
+caesium,oxygen,0
+caesium,glass,0
+caesium,comparison,0
+caesium,pressure,1
+caesium,water,0
+caesium,graph,1
+caesium,sodium,0
+caesium,unit,0
+caesium,methane,1
+caesium,position,0
+caesium,potassium,0
+caesium,mass,0
+caesium,origin,0
+caesium,f star,1
+caesium,error,0
+caesium,spectroscopy,1
+caesium,design,0
+caesium,g star,0
+caesium,gas,0
+caesium,flux,0
+caesium,microwave,0
+caesium,nitrogen,1
+caesium,s star,0
+caesium,volatile,0
+caesium,intensity,0
+caesium,interaction,0
+caesium,iron,0
+caesium,time,0
+caesium,boron,1
+caesium,age,0
+nitrogen,o star,0
+nitrogen,ring,1
+nitrogen,ammonia,0
+nitrogen,bromine,1
+nitrogen,ion,4
+nitrogen,carbon,2
+nitrogen,electron,0
+nitrogen,palladium,3
+nitrogen,proton,0
+nitrogen,of star,2
+nitrogen,period,0
+nitrogen,testing,0
+nitrogen,magnesium,0
+nitrogen,ray,0
+nitrogen,analysis,1
+nitrogen,system,0
+nitrogen,spectrum,0
+nitrogen,he i,0
+nitrogen,argon,1
+nitrogen,red star,0
+nitrogen,evaporation,0
+nitrogen,formation,0
+nitrogen,air,0
+nitrogen,cycle,0
+nitrogen,current,0
+nitrogen,arc,2
+nitrogen,vacuum,0
+nitrogen,bubble,0
+nitrogen,temperature,1
+nitrogen,copper,1
+nitrogen,power,4
+nitrogen,map,0
+nitrogen,n star,0
+nitrogen,url,0
+nitrogen,filter,0
+nitrogen,cs,0
+nitrogen,ethane,1
+nitrogen,ratio,0
+nitrogen,me star,0
+nitrogen,source,4
+nitrogen,lithium,0
+nitrogen,coupling,2
+nitrogen,w-,0
+nitrogen,function,0
+nitrogen,tin,2
+nitrogen,oxygen,1
+nitrogen,glass,0
+nitrogen,comparison,0
+nitrogen,pressure,3
+nitrogen,water,2
+nitrogen,graph,1
+nitrogen,sodium,1
+nitrogen,unit,0
+nitrogen,methane,1
+nitrogen,position,0
+nitrogen,potassium,0
+nitrogen,mass,0
+nitrogen,origin,0
+nitrogen,f star,2
+nitrogen,error,0
+nitrogen,spectroscopy,1
+nitrogen,design,1
+nitrogen,g star,0
+nitrogen,gas,1
+nitrogen,flux,1
+nitrogen,microwave,0
+nitrogen,caesium,1
+nitrogen,s star,0
+nitrogen,volatile,0
+nitrogen,intensity,0
+nitrogen,interaction,0
+nitrogen,iron,0
+nitrogen,time,2
+nitrogen,boron,3
+nitrogen,age,0
+s star,o star,1
+s star,ring,0
+s star,ammonia,1
+s star,bromine,0
+s star,ion,1
+s star,carbon,0
+s star,electron,0
+s star,palladium,0
+s star,proton,0
+s star,of star,1
+s star,period,0
+s star,testing,0
+s star,magnesium,0
+s star,ray,0
+s star,analysis,1
+s star,system,0
+s star,spectrum,0
+s star,he i,0
+s star,argon,0
+s star,red star,0
+s star,evaporation,0
+s star,formation,0
+s star,air,0
+s star,cycle,0
+s star,current,0
+s star,arc,1
+s star,vacuum,0
+s star,bubble,0
+s star,temperature,0
+s star,copper,0
+s star,power,1
+s star,map,0
+s star,n star,0
+s star,url,0
+s star,filter,0
+s star,cs,0
+s star,ethane,1
+s star,ratio,1
+s star,me star,0
+s star,source,1
+s star,lithium,0
+s star,coupling,0
+s star,w-,0
+s star,function,0
+s star,tin,1
+s star,oxygen,0
+s star,glass,0
+s star,comparison,0
+s star,pressure,1
+s star,water,0
+s star,graph,1
+s star,sodium,0
+s star,unit,0
+s star,methane,1
+s star,position,0
+s star,potassium,0
+s star,mass,0
+s star,origin,0
+s star,f star,1
+s star,error,0
+s star,spectroscopy,0
+s star,design,0
+s star,g star,0
+s star,gas,0
+s star,flux,0
+s star,microwave,0
+s star,caesium,0
+s star,nitrogen,0
+s star,volatile,1
+s star,intensity,1
+s star,interaction,0
+s star,iron,0
+s star,time,0
+s star,boron,0
+s star,age,0
+volatile,o star,1
+volatile,ring,0
+volatile,ammonia,2
+volatile,bromine,0
+volatile,ion,2
+volatile,carbon,0
+volatile,electron,0
+volatile,palladium,0
+volatile,proton,0
+volatile,of star,1
+volatile,period,0
+volatile,testing,0
+volatile,magnesium,0
+volatile,ray,0
+volatile,analysis,2
+volatile,system,0
+volatile,spectrum,1
+volatile,he i,0
+volatile,argon,0
+volatile,red star,1
+volatile,evaporation,0
+volatile,formation,0
+volatile,air,0
+volatile,cycle,0
+volatile,current,0
+volatile,arc,2
+volatile,vacuum,0
+volatile,bubble,0
+volatile,temperature,0
+volatile,copper,0
+volatile,power,2
+volatile,map,0
+volatile,n star,0
+volatile,url,0
+volatile,filter,0
+volatile,cs,0
+volatile,ethane,2
+volatile,ratio,2
+volatile,me star,0
+volatile,source,2
+volatile,lithium,0
+volatile,coupling,0
+volatile,w-,0
+volatile,function,0
+volatile,tin,2
+volatile,oxygen,0
+volatile,glass,0
+volatile,comparison,0
+volatile,pressure,2
+volatile,water,0
+volatile,graph,2
+volatile,sodium,0
+volatile,unit,0
+volatile,methane,2
+volatile,position,0
+volatile,potassium,0
+volatile,mass,0
+volatile,origin,0
+volatile,f star,1
+volatile,error,0
+volatile,spectroscopy,0
+volatile,design,0
+volatile,g star,0
+volatile,gas,0
+volatile,flux,0
+volatile,microwave,0
+volatile,caesium,0
+volatile,nitrogen,0
+volatile,s star,1
+volatile,intensity,1
+volatile,interaction,0
+volatile,iron,0
+volatile,time,0
+volatile,boron,0
+volatile,age,0
+intensity,o star,1
+intensity,ring,0
+intensity,ammonia,1
+intensity,bromine,0
+intensity,ion,1
+intensity,carbon,0
+intensity,electron,0
+intensity,palladium,0
+intensity,proton,0
+intensity,of star,1
+intensity,period,0
+intensity,testing,0
+intensity,magnesium,0
+intensity,ray,0
+intensity,analysis,1
+intensity,system,0
+intensity,spectrum,0
+intensity,he i,0
+intensity,argon,0
+intensity,red star,0
+intensity,evaporation,0
+intensity,formation,0
+intensity,air,0
+intensity,cycle,0
+intensity,current,0
+intensity,arc,1
+intensity,vacuum,0
+intensity,bubble,0
+intensity,temperature,0
+intensity,copper,0
+intensity,power,1
+intensity,map,0
+intensity,n star,0
+intensity,url,0
+intensity,filter,0
+intensity,cs,0
+intensity,ethane,1
+intensity,ratio,1
+intensity,me star,0
+intensity,source,1
+intensity,lithium,0
+intensity,coupling,0
+intensity,w-,0
+intensity,function,0
+intensity,tin,1
+intensity,oxygen,0
+intensity,glass,0
+intensity,comparison,0
+intensity,pressure,1
+intensity,water,0
+intensity,graph,1
+intensity,sodium,0
+intensity,unit,0
+intensity,methane,1
+intensity,position,0
+intensity,potassium,0
+intensity,mass,0
+intensity,origin,0
+intensity,f star,1
+intensity,error,0
+intensity,spectroscopy,0
+intensity,design,0
+intensity,g star,0
+intensity,gas,0
+intensity,flux,0
+intensity,microwave,0
+intensity,caesium,0
+intensity,nitrogen,0
+intensity,s star,1
+intensity,volatile,1
+intensity,interaction,0
+intensity,iron,0
+intensity,time,0
+intensity,boron,0
+intensity,age,0
+interaction,o star,0
+interaction,ring,0
+interaction,ammonia,1
+interaction,bromine,0
+interaction,ion,1
+interaction,carbon,1
+interaction,electron,0
+interaction,palladium,0
+interaction,proton,1
+interaction,of star,1
+interaction,period,0
+interaction,testing,0
+interaction,magnesium,0
+interaction,ray,0
+interaction,analysis,0
+interaction,system,0
+interaction,spectrum,1
+interaction,he i,0
+interaction,argon,0
+interaction,red star,0
+interaction,evaporation,0
+interaction,formation,0
+interaction,air,0
+interaction,cycle,0
+interaction,current,0
+interaction,arc,1
+interaction,vacuum,0
+interaction,bubble,0
+interaction,temperature,0
+interaction,copper,0
+interaction,power,1
+interaction,map,0
+interaction,n star,0
+interaction,url,0
+interaction,filter,1
+interaction,cs,0
+interaction,ethane,1
+interaction,ratio,0
+interaction,me star,0
+interaction,source,1
+interaction,lithium,0
+interaction,coupling,1
+interaction,w-,0
+interaction,function,0
+interaction,tin,1
+interaction,oxygen,0
+interaction,glass,0
+interaction,comparison,0
+interaction,pressure,1
+interaction,water,0
+interaction,graph,1
+interaction,sodium,0
+interaction,unit,0
+interaction,methane,1
+interaction,position,0
+interaction,potassium,1
+interaction,mass,0
+interaction,origin,0
+interaction,f star,1
+interaction,error,0
+interaction,spectroscopy,0
+interaction,design,0
+interaction,g star,0
+interaction,gas,1
+interaction,flux,0
+interaction,microwave,0
+interaction,caesium,0
+interaction,nitrogen,0
+interaction,s star,0
+interaction,volatile,0
+interaction,intensity,0
+interaction,iron,1
+interaction,time,0
+interaction,boron,1
+interaction,age,0
+iron,o star,0
+iron,ring,0
+iron,ammonia,1
+iron,bromine,0
+iron,ion,1
+iron,carbon,1
+iron,electron,0
+iron,palladium,0
+iron,proton,1
+iron,of star,1
+iron,period,0
+iron,testing,0
+iron,magnesium,0
+iron,ray,0
+iron,analysis,0
+iron,system,0
+iron,spectrum,1
+iron,he i,0
+iron,argon,0
+iron,red star,0
+iron,evaporation,0
+iron,formation,0
+iron,air,0
+iron,cycle,0
+iron,current,0
+iron,arc,1
+iron,vacuum,0
+iron,bubble,0
+iron,temperature,0
+iron,copper,0
+iron,power,1
+iron,map,0
+iron,n star,0
+iron,url,0
+iron,filter,1
+iron,cs,0
+iron,ethane,1
+iron,ratio,0
+iron,me star,0
+iron,source,1
+iron,lithium,0
+iron,coupling,1
+iron,w-,0
+iron,function,0
+iron,tin,1
+iron,oxygen,0
+iron,glass,0
+iron,comparison,0
+iron,pressure,1
+iron,water,0
+iron,graph,1
+iron,sodium,0
+iron,unit,0
+iron,methane,1
+iron,position,0
+iron,potassium,1
+iron,mass,0
+iron,origin,0
+iron,f star,1
+iron,error,0
+iron,spectroscopy,0
+iron,design,0
+iron,g star,0
+iron,gas,1
+iron,flux,0
+iron,microwave,0
+iron,caesium,0
+iron,nitrogen,0
+iron,s star,0
+iron,volatile,0
+iron,intensity,0
+iron,interaction,1
+iron,time,0
+iron,boron,1
+iron,age,0
+time,o star,0
+time,ring,6
+time,ammonia,1
+time,bromine,3
+time,ion,10
+time,carbon,6
+time,electron,0
+time,palladium,1
+time,proton,0
+time,of star,0
+time,period,1
+time,testing,0
+time,magnesium,5
+time,ray,5
+time,analysis,0
+time,system,0
+time,spectrum,0
+time,he i,1
+time,argon,5
+time,red star,0
+time,evaporation,0
+time,formation,0
+time,air,0
+time,cycle,0
+time,current,0
+time,arc,1
+time,vacuum,0
+time,bubble,0
+time,temperature,5
+time,copper,0
+time,power,10
+time,map,1
+time,n star,1
+time,url,1
+time,filter,4
+time,cs,4
+time,ethane,2
+time,ratio,2
+time,me star,0
+time,source,10
+time,lithium,1
+time,coupling,2
+time,w-,0
+time,function,0
+time,tin,6
+time,oxygen,0
+time,glass,0
+time,comparison,0
+time,pressure,1
+time,water,6
+time,graph,2
+time,sodium,7
+time,unit,0
+time,methane,2
+time,position,2
+time,potassium,0
+time,mass,1
+time,origin,1
+time,f star,0
+time,error,0
+time,spectroscopy,0
+time,design,1
+time,g star,1
+time,gas,1
+time,flux,5
+time,microwave,0
+time,caesium,0
+time,nitrogen,2
+time,s star,0
+time,volatile,0
+time,intensity,0
+time,interaction,0
+time,iron,0
+time,boron,1
+time,age,2
+boron,o star,0
+boron,ring,7
+boron,ammonia,18
+boron,bromine,1
+boron,ion,40
+boron,carbon,26
+boron,electron,1
+boron,palladium,5
+boron,proton,2
+boron,of star,5
+boron,period,0
+boron,testing,1
+boron,magnesium,0
+boron,ray,3
+boron,analysis,1
+boron,system,2
+boron,spectrum,6
+boron,he i,2
+boron,argon,7
+boron,red star,1
+boron,evaporation,0
+boron,formation,4
+boron,air,1
+boron,cycle,1
+boron,current,0
+boron,arc,21
+boron,vacuum,0
+boron,bubble,1
+boron,temperature,4
+boron,copper,1
+boron,power,40
+boron,map,0
+boron,n star,0
+boron,url,0
+boron,filter,27
+boron,cs,2
+boron,ethane,19
+boron,ratio,14
+boron,me star,1
+boron,source,40
+boron,lithium,0
+boron,coupling,13
+boron,w-,0
+boron,function,0
+boron,tin,16
+boron,oxygen,1
+boron,glass,0
+boron,comparison,0
+boron,pressure,27
+boron,water,6
+boron,graph,26
+boron,sodium,2
+boron,unit,0
+boron,methane,19
+boron,position,2
+boron,potassium,20
+boron,mass,0
+boron,origin,0
+boron,f star,5
+boron,error,0
+boron,spectroscopy,1
+boron,design,0
+boron,g star,0
+boron,gas,23
+boron,flux,5
+boron,microwave,17
+boron,caesium,1
+boron,nitrogen,3
+boron,s star,0
+boron,volatile,0
+boron,intensity,0
+boron,interaction,1
+boron,iron,1
+boron,time,1
+boron,age,0
+age,o star,0
+age,ring,4
+age,ammonia,0
+age,bromine,3
+age,ion,4
+age,carbon,1
+age,electron,0
+age,palladium,0
+age,proton,0
+age,of star,0
+age,period,1
+age,testing,0
+age,magnesium,0
+age,ray,4
+age,analysis,0
+age,system,0
+age,spectrum,0
+age,he i,1
+age,argon,1
+age,red star,0
+age,evaporation,0
+age,formation,0
+age,air,1
+age,cycle,0
+age,current,0
+age,arc,1
+age,vacuum,1
+age,bubble,0
+age,temperature,4
+age,copper,0
+age,power,4
+age,map,0
+age,n star,1
+age,url,0
+age,filter,3
+age,cs,1
+age,ethane,0
+age,ratio,0
+age,me star,0
+age,source,4
+age,lithium,0
+age,coupling,0
+age,w-,0
+age,function,0
+age,tin,4
+age,oxygen,0
+age,glass,1
+age,comparison,0
+age,pressure,2
+age,water,4
+age,graph,0
+age,sodium,2
+age,unit,0
+age,methane,0
+age,position,3
+age,potassium,0
+age,mass,1
+age,origin,1
+age,f star,0
+age,error,0
+age,spectroscopy,0
+age,design,0
+age,g star,0
+age,gas,0
+age,flux,1
+age,microwave,0
+age,caesium,0
+age,nitrogen,0
+age,s star,0
+age,volatile,0
+age,intensity,0
+age,interaction,0
+age,iron,0
+age,time,2
+age,boron,0

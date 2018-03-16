@@ -1,0 +1,42 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Arylation of chlorobromothienopyrimidine (AT-26-1)
+3rd May 2013 @ 02:42
+
+
+Precursor to the sulfonamide with a hydrazyl (rather than amino) group on the pyrimidine ring. Reaction performed under higher dilution, lower catalyst loading and less boronic ester. 
+
+
+ 
+To a solution of isopropanol (4 mL) and potassium carbonate (0.24 mL, 1 M, 0.24 mmol, 2.0 equiv.) degassed with argon was added AT-5 (0.030 g 0.12 mmol, 1.0 equiv.), 4-sulfamoylphenyl boronic acid pinacol ester (0.037 g, 0.13 mmol, 1.1 equiv.) and PdCl2dppf (0.0088 g, 0.012 mmol, 0.1 equiv.) and the reaction mixture heated to 90 C in a microwave reactor (200 W) for 30 minutes. 
+The reaction mixture was diluted with methanol (50 mL), filtered through Celite and concentrated under reduced pressure. The residue was purified by flash column chromatography (95:4.5:0.5 dichloromethane:methanol:ammonia).
+E 
+HIRAC
+
+
+
+
+AT-Suzuki.pdf
+Attached Files
+
+
+AT-Suzuki.pdf
+AT-26-1.jpg
+Althea Tsang | Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/384
+
+
+Key:4c5701d27d7f5d569c1cd01a2a17721d
+
+
+Last Updated:7th May 2013 @ 11:23
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:04. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/7418/Arylation_of_chlorobromothienopyrimidine_AT261.html
+Powered by labtrove 2.4 © University of Southampton

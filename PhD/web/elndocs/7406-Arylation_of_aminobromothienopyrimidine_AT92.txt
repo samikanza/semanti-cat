@@ -1,0 +1,53 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Arylation of aminobromothienopyrimidine (AT-9-2)
+1st May 2013 @ 04:46
+
+
+Repeat of AT-9-1 for more material. Lower catalyst loading used (0.10 eq.). 
+
+
+ 
+To a degassed solution of isopropanol (5 mL) and aqueous potassium carbonate (1 M, 0.870 mL, 2.0 equiv.) was added AT-6 (0.100 g, 0.44 mmol, 1.0 equiv.) and phenylboronic acid (0.64 g, 0.52 mmol, 1.2 equiv.) and the reaction mixture further degassed for 5 minutes. PdCl2dppf (0.028 g, 0.043 mmol, 0.2 equiv.) was added and the reaction mixture stirred at 80 C overnight. 
+Reaction mixture diluted with methanol (50 mL), filtered through Celite and concentrated under reduced pressure. The residue was purified by flash column chromatography (95:4.5:0.5 dichloromethane:methanol:ammonia) to give the product as a yellow solid (0.454 g, 460%). This is obviously not right, but 1H NMR indicates that the desired product has been synthesised. Salt-like impurities??
+The isolated solid was diluted with ethyl acetate (50 mL) and water (20 mL). The organic phase was extracted, dried (MgSO4) and concentrated under reduced pressure. Resultant solid (0.060 g, 61%), product. 
+The aim of this experiment was to obtain more of the aryl-substituted aminoheterocycle, for displacement of the amine group with hydrazine for the corresponding hydrazyl compound. Forgot that the displacement needs to be from the chloro-compound, rather than the amino-compound...
+ 
+HIRAC
+
+
+
+
+AT-9-1.pdf
+ 
+NMR
+
+
+
+
+AT-9-2.pdf
+1H NMR (500 MHz, MeOD). 
+Attached Files
+
+
+AT-9-1.pdf
+AT-9-2.jpg
+AT-9-2.pdf
+Althea Tsang | Completed Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/37f
+
+
+Key:6fd4544ca9897fd0018edc1ec61b5aea
+
+
+Last Updated:3rd May 2013 @ 01:03
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:04. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/7406/Arylation_of_aminobromothienopyrimidine_AT92.html
+Powered by labtrove 2.4 © University of Southampton

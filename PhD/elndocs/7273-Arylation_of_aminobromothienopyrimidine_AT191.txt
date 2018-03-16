@@ -1,0 +1,59 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Arylation of aminobromothienopyrimidine (AT-19-1)
+3rd April 2013 @ 07:41
+
+
+
+
+ 
+A solution of AT-6 (0.030 g, 0.13 mmol, 1.0 equiv.), 3-(morpholinocarbonyl)phenyl boronic acid (0.050 g, 0.16 mmol, 1.2 equiv.) and PdCl2dppf (0.019 g, 0.026 mmol, 0.2 equiv.) in isopropanol (2 mL) and K2CO3 (1 M, 0.26 mL, 0.26 mmol, 2.0 equiv.) was heated to 90 C in a microwave reactor (200 W) for 30 minutes. 
+The reaction mixture was diluted with methanol (10 mL), filtered through Celite and concentrated under reduced pressure. The residue was purified by flash column chromatography (95:4.5:0.5 dichloromethane:methanol:ammonia).
+
+
+1H NMR
+
+
+
+
+AT-19-1.pdf
+Looks good!
+
+
+HIRAC
+
+
+
+
+AT-Suzuki.pdf
+ 
+ 
+
+
+Linked Entries
+This entry is linked by:
+* Preparation of OSM-S-132
+Attached Files
+
+
+AT-Suzuki.pdf
+AT-19-1.jpg
+AT-19-1.pdf
+Althea Tsang | Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/351
+
+
+Key:6bb98e2f822f47500c97ef5ea86a0d4b
+
+
+Last Updated:10th April 2013 @ 03:18
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:04. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/7273/Arylation_of_aminobromothienopyrimidine_AT191.html
+Powered by labtrove 2.4 © University of Southampton

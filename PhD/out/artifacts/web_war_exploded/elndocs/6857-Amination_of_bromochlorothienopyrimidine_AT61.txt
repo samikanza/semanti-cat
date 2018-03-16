@@ -1,0 +1,60 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Amination of bromochlorothienopyrimidine (AT-6-1)
+4th March 2013 @ 22:13
+
+
+Procedure taken from J. Med. Chem. 2012, 55, 2689.
+
+
+To AT-5 (0.050 g, 0.20 mmol, 1.0 equiv.) in a sealed tube was added a solution of NH3 (2 M in isopropanol, 10 mL) and the reaction mixture stirred at 95 C for 24 h. The reaction was cooled to temperature and solvent removed under reduced pressure. The residue was purified by flash column chromatography (95:4.5:0.5 dichloromethane:methanol:ammonia) to give starting material AT-5 (0.023 g, 46%) and product (0.022 g, 89% based on RSM). 
+ 
+HIRAC
+
+
+
+
+AT-6-1.pdf
+NMR
+
+
+
+
+AT-6-1-sm.pdf
+1H NMR spectrum of recovered starting material AT-5.
+
+
+
+
+AT-6-1-product.pdf
+1H NMR spectrum of product AT-6.
+
+
+Linked Entries
+This entry is linked by:
+* Preparation of OSM-S-139
+Attached Files
+
+
+AT-6-1.pdf
+AT-6-1.jpg
+AT-6-1-sm.pdf
+AT-6-1-product.pdf
+Althea Tsang | Completed Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/294
+
+
+Key:e48d0aa661c72b774a7bc128ad80ca1c
+
+
+Last Updated:5th March 2013 @ 04:56
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:04. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/6857/Amination_of_bromochlorothienopyrimidine_AT61.html
+Powered by labtrove 2.4 © University of Southampton

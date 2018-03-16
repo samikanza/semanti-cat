@@ -1,0 +1,52 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Amination of bromochlorothienopyrimidine (AT-6-2)
+5th March 2013 @ 04:37
+
+
+Repeat of AT-6-1, with the use of more starting material AT-5 (0.100 g, 0.40 mmol) and less solvent (2 M NH3 in isopropanol, 8 mL). 
+
+
+
+
+
+
+Analysis of the reaction mixture after 18 hours by TLC showed only traces of product, with the majority as starting material. The reaction was restarted, with the use of a freshly prepared sample of ammonia/isopropanol, rather than the solution prepared previously.  
+Still only minimal conversion (as assessed by TLC) of starting material after 36 hours. 
+The volatiles were removed under reduced pressure and the residue resuspended in isopropanol:ammonia (1:1, 10 mL) and stirred in a sealed tube at 100 C. Analysis by TLC after 3 hours showed more conversion to product (relative intensity of the product spot, with respect to starting material, was greater under these conditions). Reaction mixture left to stir overnight. 
+The reaction was stopped and allowed to cool to rt. The volatiles were removed and the residue purified by flash column chromatography (95:4.5:0.5 dichloromethane:methanol:ammonia) to give the product as a yellow solid (0.051 g, 55%). 
+ 
+HIRAC
+
+
+
+
+AT-6-1.pdf
+
+
+Linked Entries
+This entry is linked by:
+* Preparation of OSM-S-139
+Attached Files
+
+
+AT-6-1.pdf
+AT-6-2.jpg
+Althea Tsang | Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/296
+
+
+Key:641b12009a60b79b58d0c28857aa6266
+
+
+Last Updated:8th March 2013 @ 03:46
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:04. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/6861/Amination_of_bromochlorothienopyrimidine_AT62.html
+Powered by labtrove 2.4 © University of Southampton

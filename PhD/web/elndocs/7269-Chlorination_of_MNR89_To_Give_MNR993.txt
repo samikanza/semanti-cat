@@ -1,0 +1,75 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Chlorination of MNR89 To Give MNR99-3
+2nd April 2013 @ 02:13
+Mnr: MNR91-100
+
+
+Starting material - Synthesis of thienopyrimidine MNR89-3
+As for Chlorination of MNR89 To Give MNR99-2
+
+
+ 
+Hazard Assessment
+
+
+
+
+HIRAC MNR99.pdf
+Procedure
+
+
+
+
+Reaction carried out in two lots due to scale and volume of POCl3 required.
+A
+To MNR89-3 (3.95 g, 25.96 mmol) at room temperature was added POCl3 (24 mL, 259 mmol) under argon and the mixture was heated to reflux for 2 hours during which time the reaction turned a dark brown colour.  The the reaction was then allowed to reach room temperature and was slowly added dropwise to ice ice (400 mL) in a large beaker.  The mixture was then slowly neutralised with sodium bicarbonate.  A pale brown solid also began to precipitate out during the quencing.  Once the reaction was fully quenched it was extracted with EtOAc (400 mL x 2), the organics were combined and washed with brine (100 mL) then dried with anhydrous magnesium sulfate, filtered and concentrated to give a pale orange solid.
+B as above and quenched in the same ice bath, starting material (4.10 g, 26.9 mmol)
+Column 40-80% EtOAc/Hex
+Fracs 1-5 - 8.269 g, 48.5 mmol, 92% as a white crystaline solid
+NMR
+ 
+
+
+mnr99-3_frac1-5_1H.pdf
+
+
+mnr99-3_frac1-5.zip
+Conclusion
+Clean porduct in good high yield.
+Strings
+Starting material
+InChI=1S/C6H4N2OS/c9-6-5-4(1-2-10-5)7-3-8-6/h1-3H,(H,7,8,9)
+Product
+InChI=1S/C6H3ClN2S/c7-6-5-4(1-2-10-5)8-3-9-6/h1-3H
+ 
+ 
+
+
+Linked Entries
+This entry is linked by:
+* Chlorination of MNR118 To Give MNR119-2
+* Bromination of MNR99 at the 7 position - MNR119-1
+Attached Files
+
+
+mnr99-3_frac1-5_1H.pdf
+mnr99-3_frac1-5.zip
+Murray Robertson | Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/34f
+
+
+Key:e386ca5632d9fda9489e98fc15d7531e
+
+
+Last Updated:8th April 2013 @ 06:25
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:05. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/7269/Chlorination_of_MNR89_To_Give_MNR993.html
+Powered by labtrove 2.4 © University of Southampton

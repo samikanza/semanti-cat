@@ -1,0 +1,39 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Arylation of thienopyrimidine (AT-2-4)
+25th February 2013 @ 04:46
+
+
+
+
+To AT-1-1 (0.050 g, 0.29 mmol, 1.0 equiv.), phenylboronic acid (0.045 g, 0.37 mmol, 1.25 equiv.) and cesium carbonate (0.144 g, 0.44 mmol, 1.5 equiv.) under argon was added Pd(PPh3)4 (0.017 g, 0.015 mmol, 0.05 equiv.). Toluene (3 mL) and ethanol (0.5 mL) were added and the reaction mixture degassed. The reaction mixture was stirred under argon at 80 C. 
+Reaction complete (i.e. complete disappearance of starting material) after 4 h; reaction mixture was cooled to rt, diluted with water (10 mL) and extracted into ethyl acetate (3 x 15 mL). The combined organic extracts were dried (MgSO4), concentrated under reduced pressure and the residue purified by flash column chromatography (2:1 hexanes:ethyl acetate). 
+HIRAC
+
+
+
+
+AT-2-4.pdf
+Attached Files
+
+
+AT-2-4.jpg
+AT-2-4.pdf
+Althea Tsang | Completed Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/285
+
+
+Key:87099d4ca3499ffd3d2561bea28307c1
+
+
+Last Updated:5th March 2013 @ 05:02
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:04. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/6770/Arylation_of_thienopyrimidine_AT24.html
+Powered by labtrove 2.4 © University of Southampton

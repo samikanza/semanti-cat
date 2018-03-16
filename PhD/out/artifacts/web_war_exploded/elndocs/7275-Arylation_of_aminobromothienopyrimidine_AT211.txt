@@ -1,0 +1,74 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Arylation of aminobromothienopyrimidine (AT-21-1)
+3rd April 2013 @ 07:57
+
+
+
+
+ 
+A solution of AT-6 (0.030 g, 0.13 mmol, 1.0 equiv.), 3-(4'-methylpiperazine-1-carbonyl)phenyl boronic acid pinacol ester (0.052 g, 0.16 mmol, 1.2 equiv.) and PdCl2dppf (0.019 g, 0.026 mmol, 0.2 equiv.) in isopropanol (2 mL) and K2CO3 (1 M, 0.26 mL, 0.26 mmol, 2.0 equiv.) was heated to 90 C in a microwave reactor (200 W) for 30 minutes. 
+The reaction mixture was diluted with methanol (10 mL), filtered through Celite and concentrated under reduced pressure. The residue was purified by flash column chromatography (95:4.5:0.5 dichloromethane:methanol:ammonia).
+Maybe triturating with methanol will purify this. 
+
+
+1H NMR
+
+
+
+
+AT-21-1-MeOD.pdf
+In MeOD. Impurities sufficiently soluble, i.e. product insoluble, isolated material is impure.
+
+
+
+
+AT-21-1-MeOD-DMSO.pdf
+In MeOD, with the addition of several drops of DMSO-d6. Product much more soluble.
+
+
+
+
+AT-21-1-DMSO-afterMeOH.pdf
+In DMSO-d6, after washing with methanol. Looks good!
+HIRAC
+
+
+
+
+AT-Suzuki.pdf
+
+
+
+
+
+
+Linked Entries
+This entry is linked by:
+* Preparation of OSM-S-134
+Attached Files
+
+
+AT-Suzuki.pdf
+AT-21-1.jpg
+AT-21-1-MeOD.pdf
+AT-21-1-MeOD-DMSO.pdf
+AT-21-1-DMSO-afterMeOH.pdf
+Althea Tsang | Completed Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/353
+
+
+Key:e4ea5a601e2480f106af11f9006a3a1f
+
+
+Last Updated:10th April 2013 @ 06:24
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:04. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/7275/Arylation_of_aminobromothienopyrimidine_AT211.html
+Powered by labtrove 2.4 © University of Southampton

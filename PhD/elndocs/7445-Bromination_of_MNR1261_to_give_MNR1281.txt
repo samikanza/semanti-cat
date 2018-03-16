@@ -1,0 +1,48 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Bromination of MNR126-1 to give MNR128-1
+9th May 2013 @ 10:43
+Mnr: mnr121-130
+
+
+Starting material from - Nucleophilic Displacement of MNR99 with ethyl 1-piperazinecarboxylate to give MNR126-1
+As for - Bromination of MNR100-2 to give MNR101-2
+
+
+
+
+Hazard Assessment
+ 
+Procedure
+MNR126-1 (1.42 g, 4.86 mmol) was dissolved in THF (100 mL) and cooled to -78 °C.  To the stirring solution was added n-BuLi (2.5 M in hexanes, 2.91 mmol, 7.29 mmol) and the stirring was continued for 30 minutes.  Bromine (0.5 mL, 9.71 mmol) was added dropwise and the reaction mixture was allowed to reach room temperature and was stirred for 2 hours.  Sodium thiosulfate solution (100 mL) was added and the mixture was extracted with EtOAc (3 x 100 mL).  The organic layers were commbined, dried and filteres then concentrated in vacuo to yield the crude as pale yellow solid.
+Attached Files
+
+
+MNR128-1_table.PNG
+MNR128_scheme.png
+Murray Robertson | Experiments | Comments (1)
+
+
+Uri:http://malaria.ourexperiment.org/uri/38d
+
+
+Key:c6964c1414a4de497de3e896da9ca4a2
+
+
+Last Updated:9th May 2013 @ 10:54
+
+
+Comments
+
+
+Re: Bromination of MNR126-1 to give MNR128-1 by Alice Williamson
+17th May 2013 @ 11:32
+Attempted purification of this reaction mixture by recrystallisation from EtOH. TLC and 1H NMR indicate several products that seem difficult to separate . I think something went wrong with the reaction (perhaps BuLi no good). Reaction mixture disposed...to be repeated.
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:05. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/7445/Bromination_of_MNR1261_to_give_MNR1281.html
+Powered by labtrove 2.4 © University of Southampton

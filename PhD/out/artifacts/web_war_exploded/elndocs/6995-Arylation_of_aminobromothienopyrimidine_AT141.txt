@@ -1,0 +1,70 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Arylation of aminobromothienopyrimidine (AT-14-1)
+16th March 2013 @ 05:09
+
+
+Suzuki coupling of 4-(tert-butyl)phenyl boronic acid to AT-6, using the conditions in AT-7-1.
+
+
+To a degassed solution of isopropanol (1 mL) and aqueous potassium carbonate (1 M, 0.174 mL, 2.0 equiv.) was added AT-6 (0.020 g, 0.087 mmol, 1.0 equiv.) and 4-(tert-butyl)phenylboronic acid (0.019 g, 0.10 mmol, 1.2 equiv.) and the reaction mixture further degassed for 5 minutes. PdCl2dppf (0.011 g, 0.017 mmol, 0.2 equiv.) was added and the reaction mixture stirred at 80 C overnight. 
+The reaction mixture was cooled to rt, diluted with ethyl acetate (10 mL) and filtered through Celite. The organic phase was concentrated under reduced pressure and the residue purified by flash column chromatography (95:4.5:0.5 dichloromethane:ammonia:methanol) to give the product as a brown solid (0.024 g, quant.).
+
+
+NMR
+
+
+
+
+AT-14-1.pdf
+
+
+
+
+
+
+AT-14-1-1H.pdf
+1H NMR in DMSO-d6.
+
+
+
+
+AT-14-1-13C.pdf
+13C-NMR in DMSO-d6.
+HIRAC
+
+
+
+
+AT-14-1.pdf
+
+
+Linked Entries
+This entry is linked by:
+* Preparation of OSM-S-128
+Attached Files
+
+
+AT-14-1.pdf
+AT-14-1.jpg
+AT-14-1.pdf
+AT-14-1-1H.pdf
+AT-14-1-13C.pdf
+Althea Tsang | Completed Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/2b7
+
+
+Key:503d3fa28cfe149724a2a377a71df61d
+
+
+Last Updated:10th May 2013 @ 04:34
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:04. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/6995/Arylation_of_aminobromothienopyrimidine_AT141.html
+Powered by labtrove 2.4 © University of Southampton

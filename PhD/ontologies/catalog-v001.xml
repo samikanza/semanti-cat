@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://data.syngenta.org/def/time/2017-05-30" uri="file:/Users/samikanza/Desktop/BSP/Work/time-data.ttl"/>
+    <uri id="Imports Wizard Entry" name="http://www.fao.org/countryprofiles/geoinfo/geopolitical/resource/geopolitical.owl" uri="http://www.fao.org/countryprofiles/geoinfo/geopolitical/data/geopolitical.owl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1503407405923" name="http://purl.obolibrary.org/obo/chmo.owl" uri="chmo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1503407405923" name="http://purl.obolibrary.org/obo/cl.owl" uri="cl.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1503407405923" name="http://purl.obolibrary.org/obo/mop.owl" uri="mop.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1503407405923" name="http://purl.obolibrary.org/obo/po.owl" uri="po.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1503407405923" name="http://purl.obolibrary.org/obo/rxno.obo.owl" uri="rxno.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1503407405923" name="http://www.astro.umd.edu/~eshaya/astro-onto/owl/physics.owl" uri="physics.owl"/>
+    </group>
+</catalog>

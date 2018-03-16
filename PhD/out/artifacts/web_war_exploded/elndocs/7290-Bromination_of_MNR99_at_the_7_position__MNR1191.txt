@@ -1,0 +1,69 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Bromination of MNR99 at the 7 position - MNR119-1
+4th April 2013 @ 00:34
+Mnr: MNR111-120
+
+
+Attempted bromination of MNR99 at the 7 position rather than the 6 position. 
+As for WO2011093684  (A2) ― 2011-08-04 - page 19 step 2
+Starting material - Chlorination of MNR89 To Give MNR99-3
+As for Bromination of MNR89 at the 7 position - MNR118-1
+
+
+
+
+ 
+Hazard Assessment
+ 
+ 
+ 
+Procedure
+MNR99-3 (0.30 g, 1.76 mmol) was dissolved in acetic acid (2 ml) (*2 mL was used to make up volume in the reaction tube).  Bromine (0.27 mL, 5.27 mmol) was added and the reaction was stirred in a sealed tube at 120 °C for 14 hours.  The reaction mixture was cooled to room temperature, no precipitate had formed in the black reaction mixture.  The reaction mixture was transfered to a round bottomed flask ans rinsed with DCM (10 mL).  The mixture was distilled to remove the DCM then under reduced pressure to remove the acetic acid.  Ice was added to the resulting mixture and the solid was filtered off washing with water.
+
+
+Column
+Frac  6-26   - product?  not sure why this was not taken further (14/5/2013)
+Frac 27-40
+ 
+NMR
+ 
+ 
+
+
+mnr119-1_frac6-26_1H.pdf
+
+
+mnr119-1_frac27-40_1H.pdf
+ 
+Strings
+Starting material
+ InChI=1S/C6H3ClN2S/c7-6-5-4(1-2-10-5)8-3-9-6/h1-3H
+Product
+InChI=1S/C6H2BrClN2S/c7-3-1-11-5-4(3)9-2-10-6(5)8/h1-2H
+ 
+Attached Files
+
+
+MNR119-1_table.PNG
+MNR119_scheme.png
+mnr119-1_frac6-26_1H.pdf
+mnr119-1_frac27-40_1H.pdf
+Murray Robertson | Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/35b
+
+
+Key:83329582cb2b4a6ed481930e47d33c5d
+
+
+Last Updated:14th May 2013 @ 09:30
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:05. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/7290/Bromination_of_MNR99_at_the_7_position__MNR1191.html
+Powered by labtrove 2.4 © University of Southampton

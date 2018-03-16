@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="web:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/web_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="PhD/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="PhD" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="itextpdf-5.1.0" />
+          <element id="library" level="project" name="org.apache.commons.httpclient" />
+          <element id="library" level="project" name="chemicalTagger-1.4.0-jar-with-dependencies" />
+          <element id="library" level="project" name="jena-cmds-3.2.0" />
+          <element id="library" level="project" name="commons-beanutils-1.8.3" />
+          <element id="library" level="project" name="gate" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

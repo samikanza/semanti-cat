@@ -1,0 +1,381 @@
+<gate.util.persistence.GateApplication>
+  <urlList class="gate.util.persistence.CollectionPersistence">
+    <localList>
+      <gate.util.persistence.PersistenceManager-URLHolder>
+        <urlString>$gatehome$plugins/Tagger_Chemistry/</urlString>
+      </gate.util.persistence.PersistenceManager-URLHolder>
+      <gate.util.persistence.PersistenceManager-URLHolder>
+        <urlString>$gatehome$plugins/ANNIE/</urlString>
+      </gate.util.persistence.PersistenceManager-URLHolder>
+      <gate.util.persistence.PersistenceManager-URLHolder>
+        <urlString>$gatehome$plugins/Tagger_Framework/</urlString>
+      </gate.util.persistence.PersistenceManager-URLHolder>
+      <gate.util.persistence.PersistenceManager-URLHolder>
+        <urlString>$gatehome$plugins/Tagger_Measurements/</urlString>
+      </gate.util.persistence.PersistenceManager-URLHolder>
+      <gate.util.persistence.PersistenceManager-URLHolder>
+        <urlString>$gatehome$plugins/Ontology_Tools/</urlString>
+      </gate.util.persistence.PersistenceManager-URLHolder>
+      <gate.util.persistence.PersistenceManager-URLHolder>
+        <urlString>$gatehome$plugins/Tagger_Lupedia/</urlString>
+      </gate.util.persistence.PersistenceManager-URLHolder>
+      <gate.util.persistence.PersistenceManager-URLHolder>
+        <urlString>$gatehome$plugins/Tagger_NP_Chunking/</urlString>
+      </gate.util.persistence.PersistenceManager-URLHolder>
+      <gate.util.persistence.PersistenceManager-URLHolder>
+        <urlString>$gatehome$plugins/Tagger_DateNormalizer/</urlString>
+      </gate.util.persistence.PersistenceManager-URLHolder>
+      <gate.util.persistence.PersistenceManager-URLHolder>
+        <urlString>$gatehome$plugins/Ontology/</urlString>
+      </gate.util.persistence.PersistenceManager-URLHolder>
+      <gate.util.persistence.PersistenceManager-URLHolder>
+        <urlString>$gatehome$plugins/Tagger_GATE-Time/</urlString>
+      </gate.util.persistence.PersistenceManager-URLHolder>
+      <gate.util.persistence.PersistenceManager-URLHolder>
+        <urlString>$gatehome$plugins/Tagger_MutationFinder/</urlString>
+      </gate.util.persistence.PersistenceManager-URLHolder>
+      <gate.util.persistence.PersistenceManager-URLHolder>
+        <urlString>$gatehome$plugins/Tagger_MetaMap/</urlString>
+      </gate.util.persistence.PersistenceManager-URLHolder>
+      <gate.util.persistence.PersistenceManager-URLHolder>
+        <urlString>$gatehome$plugins/Tagger_Numbers/</urlString>
+      </gate.util.persistence.PersistenceManager-URLHolder>
+      <gate.util.persistence.PersistenceManager-URLHolder>
+        <urlString>$gatehome$plugins/Tagger_TextRazor/</urlString>
+      </gate.util.persistence.PersistenceManager-URLHolder>
+      <gate.util.persistence.PersistenceManager-URLHolder>
+        <urlString>$gatehome$plugins/Tagger_PennBio/</urlString>
+      </gate.util.persistence.PersistenceManager-URLHolder>
+    </localList>
+    <collectionType>java.util.ArrayList</collectionType>
+  </urlList>
+  <application class="gate.util.persistence.ControllerPersistence">
+    <prList class="gate.util.persistence.CollectionPersistence">
+      <localList>
+        <gate.util.persistence.LanguageAnalyserPersistence>
+          <document class="gate.util.persistence.LRPersistence">
+            <resourceType>gate.corpora.DocumentImpl</resourceType>
+            <resourceName>Example1.txt_00008</resourceName>
+            <initParams class="gate.util.persistence.MapPersistence">
+              <mapType>gate.util.SimpleFeatureMapImpl</mapType>
+              <localMap>
+                <entry>
+                  <string>sourceUrl</string>
+                  <gate.util.persistence.PersistenceManager-URLHolder>
+                    <urlString>$relpath$Example1.xml</urlString>
+                  </gate.util.persistence.PersistenceManager-URLHolder>
+                </entry>
+                <entry>
+                  <string>preserveOriginalContent</string>
+                  <boolean>false</boolean>
+                </entry>
+                <entry>
+                  <string>collectRepositioningInfo</string>
+                  <boolean>false</boolean>
+                </entry>
+                <entry>
+                  <string>markupAware</string>
+                  <boolean>true</boolean>
+                </entry>
+                <entry>
+                  <string>sourceUrlEndOffset</string>
+                  <null/>
+                </entry>
+                <entry>
+                  <string>stringContent</string>
+                  <string></string>
+                </entry>
+                <entry>
+                  <string>mimeType</string>
+                  <null/>
+                </entry>
+                <entry>
+                  <string>sourceUrlStartOffset</string>
+                  <null/>
+                </entry>
+                <entry>
+                  <string>encoding</string>
+                  <string>UTF-8</string>
+                </entry>
+              </localMap>
+            </initParams>
+          </document>
+          <runtimeParams class="gate.util.persistence.MapPersistence">
+            <mapType>gate.util.SimpleFeatureMapImpl</mapType>
+            <localMap>
+              <entry>
+                <string>annotationSetName</string>
+                <null/>
+              </entry>
+              <entry>
+                <string>corpus</string>
+                <null/>
+              </entry>
+              <entry>
+                <string>document</string>
+                <gate.util.persistence.LRPersistence reference="../../../../document"/>
+              </entry>
+            </localMap>
+          </runtimeParams>
+          <resourceType>gate.creole.tokeniser.DefaultTokeniser</resourceType>
+          <resourceName>ANNIE English Tokeniser 0006D</resourceName>
+          <initParams class="gate.util.persistence.MapPersistence">
+            <mapType>gate.util.SimpleFeatureMapImpl</mapType>
+            <localMap>
+              <entry>
+                <string>encoding</string>
+                <string>UTF-8</string>
+              </entry>
+              <entry>
+                <string>tokeniserRulesURL</string>
+                <gate.util.persistence.PersistenceManager-URLHolder>
+                  <urlString>$gatehome$plugins/ANNIE/resources/tokeniser/DefaultTokeniser.rules</urlString>
+                </gate.util.persistence.PersistenceManager-URLHolder>
+              </entry>
+              <entry>
+                <string>transducerGrammarURL</string>
+                <gate.util.persistence.PersistenceManager-URLHolder>
+                  <urlString>$gatehome$plugins/ANNIE/resources/tokeniser/postprocess.jape</urlString>
+                </gate.util.persistence.PersistenceManager-URLHolder>
+              </entry>
+            </localMap>
+          </initParams>
+          <features class="gate.util.persistence.MapPersistence">
+            <mapType>gate.util.SimpleFeatureMapImpl</mapType>
+            <localMap/>
+          </features>
+        </gate.util.persistence.LanguageAnalyserPersistence>
+        <gate.util.persistence.LanguageAnalyserPersistence>
+          <document class="gate.util.persistence.LRPersistence" reference="../../gate.util.persistence.LanguageAnalyserPersistence/document"/>
+          <runtimeParams class="gate.util.persistence.MapPersistence">
+            <mapType>gate.util.SimpleFeatureMapImpl</mapType>
+            <localMap>
+              <entry>
+                <string>annotationSetName</string>
+                <null/>
+              </entry>
+              <entry>
+                <string>corpus</string>
+                <null/>
+              </entry>
+              <entry>
+                <string>longestMatchOnly</string>
+                <boolean>true</boolean>
+              </entry>
+              <entry>
+                <string>wholeWordsOnly</string>
+                <boolean>true</boolean>
+              </entry>
+              <entry>
+                <string>document</string>
+                <gate.util.persistence.LRPersistence reference="../../../../../gate.util.persistence.LanguageAnalyserPersistence/document"/>
+              </entry>
+            </localMap>
+          </runtimeParams>
+          <resourceType>gate.creole.gazetteer.DefaultGazetteer</resourceType>
+          <resourceName>ANNIE Gazetteer 00070</resourceName>
+          <initParams class="gate.util.persistence.MapPersistence">
+            <mapType>gate.util.SimpleFeatureMapImpl</mapType>
+            <localMap>
+              <entry>
+                <string>gazetteerFeatureSeparator</string>
+                <string>:</string>
+              </entry>
+              <entry>
+                <string>listsURL</string>
+                <gate.util.persistence.PersistenceManager-URLHolder>
+                  <urlString>$gatehome$plugins/ANNIE/resources/gazetteer/lists.def</urlString>
+                </gate.util.persistence.PersistenceManager-URLHolder>
+              </entry>
+              <entry>
+                <string>encoding</string>
+                <string>UTF-8</string>
+              </entry>
+              <entry>
+                <string>caseSensitive</string>
+                <boolean>true</boolean>
+              </entry>
+            </localMap>
+          </initParams>
+          <features class="gate.util.persistence.MapPersistence">
+            <mapType>gate.util.SimpleFeatureMapImpl</mapType>
+            <localMap/>
+          </features>
+        </gate.util.persistence.LanguageAnalyserPersistence>
+        <gate.util.persistence.LanguageAnalyserPersistence>
+          <document class="gate.util.persistence.LRPersistence" reference="../../gate.util.persistence.LanguageAnalyserPersistence/document"/>
+          <runtimeParams class="gate.util.persistence.MapPersistence">
+            <mapType>gate.util.SimpleFeatureMapImpl</mapType>
+            <localMap>
+              <entry>
+                <string>enableDebugging</string>
+                <boolean>false</boolean>
+              </entry>
+              <entry>
+                <string>corpus</string>
+                <null/>
+              </entry>
+              <entry>
+                <string>outputASName</string>
+                <null/>
+              </entry>
+              <entry>
+                <string>inputASName</string>
+                <null/>
+              </entry>
+              <entry>
+                <string>document</string>
+                <gate.util.persistence.LRPersistence reference="../../../../../gate.util.persistence.LanguageAnalyserPersistence/document"/>
+              </entry>
+            </localMap>
+          </runtimeParams>
+          <resourceType>gate.creole.ANNIETransducer</resourceType>
+          <resourceName>ANNIE NE Transducer 00071</resourceName>
+          <initParams class="gate.util.persistence.MapPersistence">
+            <mapType>gate.util.SimpleFeatureMapImpl</mapType>
+            <localMap>
+              <entry>
+                <string>annotationAccessors</string>
+                <null/>
+              </entry>
+              <entry>
+                <string>grammarURL</string>
+                <gate.util.persistence.PersistenceManager-URLHolder>
+                  <urlString>$gatehome$plugins/ANNIE/resources/NE/main.jape</urlString>
+                </gate.util.persistence.PersistenceManager-URLHolder>
+              </entry>
+              <entry>
+                <string>encoding</string>
+                <string>UTF-8</string>
+              </entry>
+              <entry>
+                <string>operators</string>
+                <null/>
+              </entry>
+            </localMap>
+          </initParams>
+          <features class="gate.util.persistence.MapPersistence">
+            <mapType>gate.util.SimpleFeatureMapImpl</mapType>
+            <localMap/>
+          </features>
+        </gate.util.persistence.LanguageAnalyserPersistence>
+        <gate.util.persistence.LanguageAnalyserPersistence>
+          <document class="gate.util.persistence.LRPersistence" reference="../../gate.util.persistence.LanguageAnalyserPersistence/document"/>
+          <runtimeParams class="gate.util.persistence.MapPersistence">
+            <mapType>gate.util.SimpleFeatureMapImpl</mapType>
+            <localMap>
+              <entry>
+                <string>corpus</string>
+                <null/>
+              </entry>
+              <entry>
+                <string>outputASName</string>
+                <null/>
+              </entry>
+              <entry>
+                <string>inputASName</string>
+                <null/>
+              </entry>
+              <entry>
+                <string>document</string>
+                <gate.util.persistence.LRPersistence reference="../../../../../gate.util.persistence.LanguageAnalyserPersistence/document"/>
+              </entry>
+            </localMap>
+          </runtimeParams>
+          <resourceType>gate.creole.splitter.SentenceSplitter</resourceType>
+          <resourceName>ANNIE Sentence Splitter 00072</resourceName>
+          <initParams class="gate.util.persistence.MapPersistence">
+            <mapType>gate.util.SimpleFeatureMapImpl</mapType>
+            <localMap>
+              <entry>
+                <string>encoding</string>
+                <string>UTF-8</string>
+              </entry>
+              <entry>
+                <string>gazetteerListsURL</string>
+                <gate.util.persistence.PersistenceManager-URLHolder>
+                  <urlString>$gatehome$plugins/ANNIE/resources/sentenceSplitter/gazetteer/lists.def</urlString>
+                </gate.util.persistence.PersistenceManager-URLHolder>
+              </entry>
+              <entry>
+                <string>transducerURL</string>
+                <gate.util.persistence.PersistenceManager-URLHolder>
+                  <urlString>$gatehome$plugins/ANNIE/resources/sentenceSplitter/grammar/main-single-nl.jape</urlString>
+                </gate.util.persistence.PersistenceManager-URLHolder>
+              </entry>
+            </localMap>
+          </initParams>
+          <features class="gate.util.persistence.MapPersistence">
+            <mapType>gate.util.SimpleFeatureMapImpl</mapType>
+            <localMap/>
+          </features>
+        </gate.util.persistence.LanguageAnalyserPersistence>
+        <gate.util.persistence.PRPersistence>
+          <runtimeParams class="gate.util.persistence.MapPersistence">
+            <mapType>gate.util.SimpleFeatureMapImpl</mapType>
+            <localMap>
+              <entry>
+                <string>removeElements</string>
+                <boolean>true</boolean>
+              </entry>
+              <entry>
+                <string>annotationSetName</string>
+                <string></string>
+              </entry>
+              <entry>
+                <string>document</string>
+                <gate.util.persistence.LRPersistence reference="../../../../../gate.util.persistence.LanguageAnalyserPersistence/document"/>
+              </entry>
+            </localMap>
+          </runtimeParams>
+          <resourceType>mark.chemistry.Tagger</resourceType>
+          <resourceName>Chemistry Tagger 00075</resourceName>
+          <initParams class="gate.util.persistence.MapPersistence">
+            <mapType>gate.util.SimpleFeatureMapImpl</mapType>
+            <localMap>
+              <entry>
+                <string>elementMapURL</string>
+                <gate.util.persistence.PersistenceManager-URLHolder>
+                  <urlString>$gatehome$plugins/Tagger_Chemistry/resources/element_map.txt</urlString>
+                </gate.util.persistence.PersistenceManager-URLHolder>
+              </entry>
+              <entry>
+                <string>elementListsURL</string>
+                <gate.util.persistence.PersistenceManager-URLHolder>
+                  <urlString>$gatehome$plugins/Tagger_Chemistry/resources/element.def</urlString>
+                </gate.util.persistence.PersistenceManager-URLHolder>
+              </entry>
+              <entry>
+                <string>compoundListsURL</string>
+                <gate.util.persistence.PersistenceManager-URLHolder>
+                  <urlString>$gatehome$plugins/Tagger_Chemistry/resources/compound.def</urlString>
+                </gate.util.persistence.PersistenceManager-URLHolder>
+              </entry>
+              <entry>
+                <string>transducerGrammarURL</string>
+                <gate.util.persistence.PersistenceManager-URLHolder>
+                  <urlString>$gatehome$plugins/Tagger_Chemistry/resources/main.jape</urlString>
+                </gate.util.persistence.PersistenceManager-URLHolder>
+              </entry>
+            </localMap>
+          </initParams>
+          <features class="gate.util.persistence.MapPersistence">
+            <mapType>gate.util.SimpleFeatureMapImpl</mapType>
+            <localMap/>
+          </features>
+        </gate.util.persistence.PRPersistence>
+      </localList>
+      <collectionType>java.util.ArrayList</collectionType>
+    </prList>
+    <resourceType>gate.creole.SerialController</resourceType>
+    <resourceName>Pipeline 0007D</resourceName>
+    <initParams class="gate.util.persistence.MapPersistence">
+      <mapType>gate.util.SimpleFeatureMapImpl</mapType>
+      <localMap/>
+    </initParams>
+    <features class="gate.util.persistence.MapPersistence">
+      <mapType>gate.util.SimpleFeatureMapImpl</mapType>
+      <localMap/>
+    </features>
+  </application>
+</gate.util.persistence.GateApplication>

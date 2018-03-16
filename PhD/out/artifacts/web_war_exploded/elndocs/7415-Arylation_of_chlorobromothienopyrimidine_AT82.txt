@@ -1,0 +1,57 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Arylation of chlorobromothienopyrimidine (AT-8-2)
+3rd May 2013 @ 01:22
+
+
+Repeat of AT-8-1, with preferential formation of the arylated product at the bromo-position, rather than the diarylated product. Reaction mixture diluted by half, catalyst loading lowered by half, slight excess of boronic acid.  
+
+
+To a solution of isopropanol (10 mL) and potassium carbonate (0.802 mL, 1 M, 2.0 equiv.) degassed with argon, was added AT-5 (0.100 g, 0.40 mmol, 1.0 equiv.), phenylboronic acid (0.054 g, 0.44 mmol, 1.1 equiv.) and PdCl2dppf (0.029 g, 0.04 mmol, 0.1 equiv.) and the reaction mixture stirred at 80 C. 
+The reaction mixture was diluted with methanol (50 mL), filtered through Celite and concentrated under reduced pressure. The residue was purified by flash column chromatography (6:1 hexanes:ethyl acetate) to give three compounds.  
+ 
+NMR
+Least polar compound - desired product.
+
+
+
+
+AT-8-2-f20-32-1H.pdf
+1H NMR 
+
+
+
+
+AT-8-2-f20-32-13C.pdf
+13C NMR
+HIRAC
+
+
+
+
+AT-7-1.pdf
+Attached Files
+
+
+AT-7-1.pdf
+AT-8-2.jpg
+AT-8-2-f20-32-1H.pdf
+AT-8-2-f20-32-13C.pdf
+Althea Tsang | Completed Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/382
+
+
+Key:2a7a5e05a29303150c60f17f8f6ef755
+
+
+Last Updated:10th May 2013 @ 05:15
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:04. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/7415/Arylation_of_chlorobromothienopyrimidine_AT82.html
+Powered by labtrove 2.4 © University of Southampton

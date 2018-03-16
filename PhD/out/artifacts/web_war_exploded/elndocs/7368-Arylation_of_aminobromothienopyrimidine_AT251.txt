@@ -1,0 +1,39 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Arylation of aminobromothienopyrimidine (AT-25-1)
+23rd April 2013 @ 04:47
+
+
+ 
+A solution of AT-18-1 (0.030 g, 0.12 mmol, 1.0 equiv.), 3-sulfamoylphenyl boronic acid pinacol ester (0.042 g, 0.15 mmol, 1.2 equiv.) and PdCl2dppf (0.018 g, 0.024 mmol, 0.2 equiv.) in isopropanol (2 mL) and K2CO3 (1 M, 0.26 mL, 0.26 mmol, 2.0 equiv.) was heated to 90 C in a microwave reactor (200 W) for 30 minutes. 
+Immediate colour change upon addition of catalyst to reaction mixture. Hydrazyl group doesn't like palladium?? 
+Complex mixture of products observed by TLC. Reaction mixture not purified.  
+HIRAC
+
+
+
+
+AT-Suzuki.pdf
+Attached Files
+
+
+AT-Suzuki.pdf
+AT-25-1.jpg
+Althea Tsang | Completed Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/372
+
+
+Key:217f2a8a0dd2d3dbf9e95cbdbf0e08b8
+
+
+Last Updated:23rd April 2013 @ 04:52
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:04. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/7368/Arylation_of_aminobromothienopyrimidine_AT251.html
+Powered by labtrove 2.4 © University of Southampton

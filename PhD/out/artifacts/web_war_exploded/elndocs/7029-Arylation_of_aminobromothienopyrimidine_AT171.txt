@@ -1,0 +1,64 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Arylation of aminobromothienopyrimidine (AT-17-1)
+18th March 2013 @ 08:34
+
+
+Microwave-assisted arylation of AT-6.
+
+
+ 
+A solution of AT-6 (0.020 g, 0.87 mmol, 1.0 equiv.), 4-(dimethylamido)phenyl boronic acid pinacol ester(0.029 g, 0.10 mmol, 1.2 equiv.) and PdCl2dppf (0.013 g, 0.018 mmol, 0.2 equiv.) in isopropanol (2 mL) and K2CO3 (1 M, 0.17 mL, 0.17 mmol, 2.0 equiv.) was heated to 80 C in a microwave reactor (200 W) for 30 minutes. 
+The reaction mixture was cooled, diluted with methanol (10 mL) and filtered through Celite. The reaction mixture was concentrated under reduced pressure. The residue was purified by flash column chromatography (95:45:0.5 dichloromethane:methanol:ammonia) to give the product as a brown solid (0.023 g, 88%). Some starting material was observed; the reaction may need a little longer in the microwave (45 minutes?).
+Maybe we should get our own microwave... 
+NMR
+
+
+
+
+AT-17-1.pdf
+1H NMR
+
+
+
+
+AT-17-1-13C.pdf
+13C{1H} NMR
+  
+HIRAC
+
+
+
+
+AT-17-1.pdf
+
+
+Linked Entries
+This entry is linked by:
+* Preparation of OSM-S-130
+* Microwave Assisted Arylation of MNR115 to give MNR120-1
+Attached Files
+
+
+AT-17-1.pdf
+AT-17-1.jpg
+AT-17-1.pdf
+AT-17-1-13C.pdf
+Althea Tsang | Completed Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/2c0
+
+
+Key:56859cac18151aa05de30a7401d13d3d
+
+
+Last Updated:10th May 2013 @ 03:25
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:04. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/7029/Arylation_of_aminobromothienopyrimidine_AT171.html
+Powered by labtrove 2.4 © University of Southampton

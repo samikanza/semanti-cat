@@ -1,0 +1,63 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Arylation of phenylthienopyrimidine (AT-7-1)
+6th March 2013 @ 05:46
+
+
+Suzuki coupling of phenylthienopyrimidine AT-4a with PdCl2dppf.
+
+
+To a degassed solution of isopropanol (1 mL) and aqueous potassium carbonate (1 M, 0.24 mL, 2.0 equiv.) was added AT-4a (0.025 g, 0.085 mmol, 1.0 equiv.) and phenylboronic acid (0.013 mg, 0.10 mmol, 1.2 equiv.) and the reaction mixture further degassed for 5 minutes. PdCl2dppf (0.012 g, 0.017 mmol, 0.2 equiv.) was added and the reaction mixture stirred at 80 C overnight. 
+The reaction mixture was cooled to rt, diluted with ethyl acetate (20 mL) and filtered through Celite. The organic phase was concentrated under reduced pressure and the residue purified by flash column chromatography (6:1 hexanes:ethyl acetate) to give a white solid (0.019 g, 76%). 
+
+
+NMR
+
+
+
+
+AT-7-1.pdf
+1H NMR spectrum of isolated product. 
+
+
+
+
+AT-7-1-13C.pdf
+13C{1H} NMR spectrum of isolated product.
+HIRAC
+
+
+
+
+AT-7-1.pdf
+
+
+Linked Entries
+This entry is linked by:
+* Arylation of MNR101-2 to give MNR104-1
+* Preparation of OSM-S-122
+Attached Files
+
+
+AT-7-1.pdf
+AT-7-1.jpg
+AT-7-1.pdf
+AT-7-1-13C.pdf
+Althea Tsang | Completed Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/298
+
+
+Key:81d65397016ef96db11f1d457a85f52f
+
+
+Last Updated:10th May 2013 @ 03:12
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:04. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/6884/Arylation_of_phenylthienopyrimidine_AT71.html
+Powered by labtrove 2.4 © University of Southampton

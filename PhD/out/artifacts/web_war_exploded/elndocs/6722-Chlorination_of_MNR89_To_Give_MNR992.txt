@@ -1,0 +1,68 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Chlorination of MNR89 To Give MNR99-2
+18th February 2013 @ 23:47
+Mnr: MNR91-100
+
+
+Starting material MNR89-1 - 2nd crop
+As for JRC13-2 and MNR99-1
+
+
+
+
+Hazard Assessment
+
+
+
+
+HIRAC MNR99.pdf
+Procedure
+To MNR89-1 (2.94 g, 19.32 mmol) at room temperature was added POCl3 (18 mL, 193 mmol) under argon and the mixture was heated to reflux for 90 minutes during which time the reaction turned a dark brown colour.  The the reaction was then allowed to reach room temperature and was cooled in an ice bath and slowly queched with some ice followed by saturated sodium bicarbonate solution.  During the quenching the mixture was transferred to a 1 L beaker due to volume of solution required.  A pale brown solid also began to precipitate out during the quencing.  Once the reaction was fully quenched (almost 800 mL aq required) it was extracted with EtOAc (400 mL x 2), the organics were combined and washed with brine (100 mL) then dried with anhydrous magnesium sulfate, filtered and concentrated to give a pale orange solid (2.47 g,  14.5 mmol, 75%)
+ 
+NMR
+ 
+
+
+mnr99-2_crude_1H.pdf
+
+
+mnr99-2_crude.zip
+ 
+NMR showed approx 10% impurities, possibly starting material.  No further purification was carried out at this pint.
+Strings
+Starting material
+InChI=1S/C6H4N2OS/c9-6-5-4(1-2-10-5)7-3-8-6/h1-3H,(H,7,8,9)
+Product
+InChI=1S/C6H3ClN2S/c7-6-5-4(1-2-10-5)8-3-9-6/h1-3H
+ 
+ 
+
+
+Linked Entries
+This entry is linked by:
+* Chlorination of MNR89 To Give MNR99-3
+Attached Files
+
+
+MNR99-2_table.PNG
+mnr99-2_crude_1H.pdf
+mnr99-2_crude.zip
+Murray Robertson | Completed Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/278
+
+
+Key:5f9d68f03f5ea2045957d943bafa691c
+
+
+Last Updated:19th February 2013 @ 22:58
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:05. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/6722/Chlorination_of_MNR89_To_Give_MNR992.html
+Powered by labtrove 2.4 © University of Southampton

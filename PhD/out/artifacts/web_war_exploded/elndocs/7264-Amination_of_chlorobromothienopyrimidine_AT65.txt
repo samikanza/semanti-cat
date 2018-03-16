@@ -1,0 +1,55 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Amination of chlorobromothienopyrimidine (AT-6-5)
+1st April 2013 @ 23:30
+
+
+Synthesis for more substrate.
+
+
+The reaction was performed four times, each with 0.300 g starting material (AT-5) in 8 mL NH3/isopropanol (1:1). The crude was combined and purified by flash column chromatography (95:4.5:0.5 dichloromethane:methanol:ammonia) to give the product as a white solid.
+ 
+NMR
+
+
+
+
+AT-6-1H.pdf
+1H NMR
+
+
+
+
+AT-6-13C.pdf
+13C{1H} NMR
+
+
+Linked Entries
+This entry is linked by:
+* Synthesis of N-(6-bromothieno[3,2-d]pyrimidin-4-yl)acetamide (AEW 56-1)
+* Preparation of OSM-S-139
+Attached Files
+
+
+AT-6-1.pdf
+AT-6-5.jpg
+AT-6-1H.pdf
+AT-6-13C.pdf
+Althea Tsang | Completed Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/34d
+
+
+Key:d6e9093a1b9eef195aa4dff612caba55
+
+
+Last Updated:10th May 2013 @ 05:19
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:04. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/7264/Amination_of_chlorobromothienopyrimidine_AT65.html
+Powered by labtrove 2.4 © University of Southampton

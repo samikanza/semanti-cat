@@ -1,0 +1,13 @@
+term1,term2,count
+l1,l2,0
+l1,l3,1
+l1,stem,0
+l2,l1,0
+l2,l3,1
+l2,stem,2
+l3,l1,1
+l3,l2,1
+l3,stem,0
+stem,l1,0
+stem,l2,2
+stem,l3,0

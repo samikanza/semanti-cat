@@ -1,0 +1,74 @@
+body{
+    margin:0;
+    color:#222831;
+    font-family:sans-serif;
+}
+
+.main{
+    height:100%;
+    width:100%;
+}
+
+.top_bar{
+    background-color: #222831;
+    color: white;
+    height: 35px;
+    padding-top: 6px;
+    padding-left: 5px;
+    padding-bottom: 10px;
+    font-size: 31px;
+}
+
+.document_list{
+    background-color:#EEEEEE;
+}
+
+.google-button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #222831;
+    color: white;
+    border-radius: 5px;
+    margin-left: 1px;
+}
+
+.top-button{
+    background-color:#EEEEEE;
+    color: #222831;
+    border-radius:5px;
+}
+
+.top_left{
+    float:left;
+    width:250px;
+}
+
+.top_right{
+    float:right;
+    width:135px;
+    display:inline-block;
+    margin-right:5px;
+}
+
+.left-button{
+    float:left;
+}
+
+.right-button{
+    float:right;
+}
+
+span#header_cat{
+    font-family: 'Cat-Font';
+    font-color:white;
+}
+
+@font-face {
+    font-family: 'Cat-Font';
+    src:url('../font/Cat-Font.ttf.woff') format('woff'),
+    url('../font/Cat-Font.ttf.svg#Cat-Font') format('svg'),
+    url('../font/Cat-Font.ttf.eot'),
+    url('../font/Cat-Font.ttf.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}

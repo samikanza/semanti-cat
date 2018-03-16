@@ -1,0 +1,55 @@
+﻿All Notebooks | Help
+Open Source Malaria
+Amino-thienopyrimidine Series
+Synthesis of the Amino-thienopyrimidine Series
+
+
+Arylation of aminobromothienopyrimidine (AT-9-1)
+10th March 2013 @ 21:39
+
+
+Repeat of AB10-1, using AT-6 and conditions in AT-7-1.
+
+
+To a degassed solution of isopropanol (1 mL) and aqueous potassium carbonate (1 M, 0.174 mL, 2.0 equiv.) was added AT-6 (0.020 g, 0.087 mmol, 1.0 equiv.) and phenylboronic acid (0.012 g, 0.10 mmol, 1.2 equiv.) and the reaction mixture further degassed for 5 minutes. PdCl2dppf (0.011 g, 0.017 mmol, 0.2 equiv.) was added and the reaction mixture stirred at 80 C overnight. 
+The reaction mixture was cooled to rt, diluted with ethyl acetate (10 mL) and filtered through Celite. The organic phase was concentrated under reduced pressure and the residue purified by flash column chromatography (95:4.5:0.5 dichloromethane:methanol:ammonia) to give AT-9 as a yellow solid (0.018 g, 91%). 
+ 
+HIRAC
+
+
+
+
+AT-9-1.pdf
+ 
+NMR
+
+
+
+
+AT-9-1-product.pdf
+1H NMR of isolated AT-9.
+
+
+Linked Entries
+This entry is linked by:
+* Preparation of OSM-S-123
+Attached Files
+
+
+AT-9-1.pdf
+AT-9-1.jpg
+AT-9-1-product.pdf
+Althea Tsang | Completed Experiments | Comments (0)
+
+
+Uri:http://malaria.ourexperiment.org/uri/2a1
+
+
+Key:899e438e0249bf4f31a1b60f947c3c21
+
+
+Last Updated:12th March 2013 @ 02:48
+
+
+This is a snapshot of the notebook taken on 17th July 2017 @ 15:04. To view the notebook in full please go here: http://malaria.ourexperiment.org/aminotpseries/6920/Arylation_of_aminobromothienopyrimidine_AT91.html
+Powered by labtrove 2.4 © University of Southampton
